@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-808653561462",
+  "title": "Jean Monnet actions in the field of higher education",
+  "path": "raw/web/eu-guide-808653561462.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/higher-education-projects",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/higher-education-projects",
+  "sha256": "f3ab30bd73bcefa3eb32a0302d7da6dee93ce36ad31e971190f363e0080dccdc",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "HED"
+  ],
+  "actions": [
+    "JEAN-MONNET-HED"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "f3ab30bd73bcefa3eb32a0302d7da6dee93ce36ad31e971190f363e0080dccdc",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-808653561462:p0001",
+      "path": "sources/eu-guide-808653561462/revisions/f3ab30bd73bcefa3eb32a0302d7da6dee93ce36ad31e971190f363e0080dccdc/pages/page-0001.md",
+      "active_path": "sources/eu-guide-808653561462/pages/page-0001.md",
+      "derived_sha256": "cb48d441a31af2fa0aecad2b7c0026094d1770e138aa9d4b45124209696d7510"
+    }
+  ],
+  "full_path": "sources/eu-guide-808653561462/revisions/f3ab30bd73bcefa3eb32a0302d7da6dee93ce36ad31e971190f363e0080dccdc/full.md",
+  "full_sha256": "cb48d441a31af2fa0aecad2b7c0026094d1770e138aa9d4b45124209696d7510",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

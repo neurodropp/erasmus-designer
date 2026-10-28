@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "coverage_status": "targeted-partial",
+  "verified_at": "2026-09-12",
+  "source_authority": "Exact user-supplied program guide 2026 and immutable local evidence; live official sections checked for corroboration, not blanket freshness certification",
+  "live_checks": [
+    {
+      "action": "KA152",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-exchanges",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA153",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/mobility-youth-workers",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA154",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-participation",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA155",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/discovereu",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA150",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/erasmus-accreditation-youth",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA220-YOU",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/cooperation-partnerships",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA151",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/accredited-youth-organisations",
+      "checked_at": "2026-09-12",
+      "status": "direct-open-failed; local guide verified; live route needs verification"
+    },
+    {
+      "action": "KA151",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/mobility-accredited-youth",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section-after-routing-url-failure",
+      "scope_note": "Corroboration of specific action only; historic 2021 exception on web must not become 2026 rule."
+    }
+  ],
+  "id": "ka151-2026",
+  "scope": {
+    "program": "ERASMUS",
+    "year": 2026,
+    "actions": [
+      "KA151"
+    ],
+    "sectors": [
+      "YOU"
+    ]
+  },
+  "program": "ERASMUS",
+  "year": 2026,
+  "actions": [
+    "KA151"
+  ],
+  "coverage": {
+    "status": "targeted-partial",
+    "exhaustive": false
+  },
+  "checks": [
+    {
+      "id": "ka151-accreditation",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA151"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "requirement",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Access reserved for accredited youth organizations; only one question per call/year. Check the validity and status of the accreditation.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 149; Eligibility; Other minimum requirements",
+          "page": 149,
+          "section": "Eligibility; Other minimum requirements",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0149.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        },
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 150; Eligibility; Other minimum requirements",
+          "page": 150,
+          "section": "Eligibility; Other minimum requirements",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0150.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA151"
+      ]
+    },
+    {
+      "id": "ka151-activity-specific",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA151"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "requirement",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "For Youth Exchanges/PDA apply descriptive and eligibility criteria of the respective activity; outreach only with PDA; do not transfer the standard application rules without checking accredited variant.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 150; Eligible activities",
+          "page": 150,
+          "section": "Eligible activities",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0150.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA151"
+      ]
+    },
+    {
+      "id": "ka151-allocation",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA151"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "requirement",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Accredited request uses allocation rules published by the agency; do not invent new competitive 30/40/30 grids or rates from old workbooks.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 150; Budget allocation",
+          "page": 150,
+          "section": "Budget allocation",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0150.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        },
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 151; Budget allocation",
+          "page": 151,
+          "section": "Budget allocation",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0151.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA151"
+      ]
+    }
+  ]
+}

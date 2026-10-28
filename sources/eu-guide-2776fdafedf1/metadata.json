@@ -1,0 +1,38 @@
+{
+  "id": "eu-guide-2776fdafedf1",
+  "title": "Learning EU initiatives in other fields of education and training",
+  "path": "raw/web/eu-guide-2776fdafedf1.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/learning-eu",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/learning-eu",
+  "sha256": "d2d56f8c2ada1d53ec71a1f09e35788a8e588325718eeb694c35d453280c6c69",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "SCH",
+    "VET"
+  ],
+  "actions": [
+    "JEAN-MONNET-SCH-VET"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "d2d56f8c2ada1d53ec71a1f09e35788a8e588325718eeb694c35d453280c6c69",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-2776fdafedf1:p0001",
+      "path": "sources/eu-guide-2776fdafedf1/revisions/d2d56f8c2ada1d53ec71a1f09e35788a8e588325718eeb694c35d453280c6c69/pages/page-0001.md",
+      "active_path": "sources/eu-guide-2776fdafedf1/pages/page-0001.md",
+      "derived_sha256": "f02b8171db62a6205846086b0e7b2b56788ac5da02845d926ce5629487158e5c"
+    }
+  ],
+  "full_path": "sources/eu-guide-2776fdafedf1/revisions/d2d56f8c2ada1d53ec71a1f09e35788a8e588325718eeb694c35d453280c6c69/full.md",
+  "full_sha256": "f02b8171db62a6205846086b0e7b2b56788ac5da02845d926ce5629487158e5c",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

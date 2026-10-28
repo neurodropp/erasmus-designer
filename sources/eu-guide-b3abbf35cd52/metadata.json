@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-b3abbf35cd52",
+  "title": "What is the structure of the Erasmus+ Programme?",
+  "path": "raw/web/eu-guide-b3abbf35cd52.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/structure",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/structure",
+  "sha256": "846e7cbb270bcd6ee317a241e54d3ae443f5c9b98e3da10ef617ac7ac69ae7ab",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "846e7cbb270bcd6ee317a241e54d3ae443f5c9b98e3da10ef617ac7ac69ae7ab",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-b3abbf35cd52:p0001",
+      "path": "sources/eu-guide-b3abbf35cd52/revisions/846e7cbb270bcd6ee317a241e54d3ae443f5c9b98e3da10ef617ac7ac69ae7ab/pages/page-0001.md",
+      "active_path": "sources/eu-guide-b3abbf35cd52/pages/page-0001.md",
+      "derived_sha256": "295a83998156b3fd37baac4161e2892c8defde74275902573cf7ec496dd23345"
+    }
+  ],
+  "full_path": "sources/eu-guide-b3abbf35cd52/revisions/846e7cbb270bcd6ee317a241e54d3ae443f5c9b98e3da10ef617ac7ac69ae7ab/full.md",
+  "full_sha256": "295a83998156b3fd37baac4161e2892c8defde74275902573cf7ec496dd23345",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

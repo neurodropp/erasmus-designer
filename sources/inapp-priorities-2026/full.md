@@ -1,0 +1,63 @@
+# Priorità nazionali Erasmus VET 2026 - 24/02/2026 — PDF page 1
+
+Erasmus+ - Guida al Programma 2026
+                                                                    Priorità nazionali
+                                          Settore Istruzione e formazione professionale
+
+Priorità europee orizzontali particolarmente rilevanti per il contesto nazionale
+      Inclusione e diversità in tutti i campi dell'istruzione, della formazione, della gioventù e dello sport: il programma sosterrà progetti che promuovono
+       l'inclusione sociale e mirano a coinvolgere un numero crescente di persone con minori opportunità, comprese le persone con disabilità e le persone
+       provenienti da un contesto migratorio, le persone che vivono in zone rurali e remote come le regioni ultraperiferiche, le persone che subiscono
+       disuguaglianze di genere, che si trovano in difficoltà socioeconomiche o che incontrano qualsiasi altra potenziale fonte di discriminazione basata su sesso,
+       razza o origine etnica, religione o credo, disabilità, età od orientamento sessuale. Questi progetti contribuiranno ad affrontare gli ostacoli incontrati da
+       questi gruppi nell'accesso alle opportunità offerte dal programma. Il programma contribuirà a creare ambienti inclusivi che promuovano l'equità,
+       l'uguaglianza e la salute mentale dei partecipanti.
+      Ambiente e lotta ai cambiamenti climatici: il programma mira a sensibilizzare in merito alle problematiche legate alla transizione verde, all'ambiente e
+       ai cambiamenti climatici. Sarà data priorità ai progetti finalizzati allo sviluppo di competenze nei settori connessi alla sostenibilità, all'adozione di metodi
+       rispettosi dell'ambiente e alla creazione di programmi di studio innovativi e rispondenti alle esigenze individuali. Il programma sosterrà la sperimentazione
+       di pratiche innovative finalizzate a preparare i discenti, il personale e gli animatori socioeducativi a diventare autentici fattori di cambiamento, ad esempio
+       con sforzi mirati a conservare le risorse, ridurre il consumo di energia e gli sprechi, compensare le emissioni di carbonio e scegliere opzioni sostenibili in
+       termini di prodotti alimentari e di trasporti. Sarà data priorità anche ai progetti che incoraggiano i cambiamenti personali e di stile di vita e le abitudini di
+       consumo in linea con l'iniziativa del nuovo Bauhaus europeo, nonché a quelli che sviluppano le competenze degli educatori in materia di sostenibilità.
+      Trasformazione digitale mediante l'ampliamento delle competenze digitali e della preparazione, della resilienza e delle capacità digitali: il programma
+       sosterrà lo sviluppo delle competenze digitali, l'uso mirato delle tecnologie digitali emergenti e dell'innovazione, compresa l'IA, nei settori dell'istruzione,
+       della formazione, della gioventù e dello sport, nonché progetti volti ad aumentare la capacità e la preparazione degli istituti e delle organizzazioni per la
+
+
+# Priorità nazionali Erasmus VET 2026 - 24/02/2026 — PDF page 2
+
+gestione di una transizione efficace verso l'istruzione digitale. Ciò comprende lo sviluppo di una pedagogia digitale e di competenze nell'uso degli
+       strumenti digitali, comprese tecnologie accessibili e assistive e la creazione e l'uso innovativo di contenuti educativi digitali e il benessere digitale. Il
+       programma darà priorità anche ai progetti dedicati alla lotta alla disinformazione, alla promozione dell'alfabetizzazione digitale e alla lotta contro il
+       bullismo online.
+      Valori comuni, impegno civico, preparazione e partecipazione: il programma intende sostenere la cittadinanza attiva e l'etica alla base
+       dell'apprendimento permanente per tutte le fasce di età, stimolare lo sviluppo delle competenze sociali e interculturali, il pensiero critico e
+       l'alfabetizzazione mediatica e promuovere l'equità e l'apprendimento intergenerazionale. Saranno privilegiati anche i progetti che permettono di
+       partecipare alla vita democratica, consentono di impegnarsi a livello sociale e civile attraverso attività di apprendimento formali o non formali e
+       sostengono le reti degli ambasciatori. Inoltre sarà data priorità ai progetti incentrati sulla comprensione dell'UE, in particolare per quanto riguarda i valori
+       comuni dell'UE, i principi di unità e diversità, l'identità culturale europea, la consapevolezza culturale e il patrimonio sociale e storico al fine di rafforzare
+       l'identità europea. Il programma sostiene anche le organizzazioni, le istituzioni e il personale in tutti i campi nel contribuire agli sforzi per la preparazione
+       della popolazione e lo sviluppo della resilienza, svolgendo un ruolo chiave nella promozione dell'alfabetizzazione digitale e mediatica e del pensiero
+       critico, promuovendo l'impegno civico e la cittadinanza democratica.
+
+
+
+Priorità europee per l’ambito istruzione e formazione professionale particolarmente rilevanti per il contesto nazionale
+      Adattare l'istruzione e la formazione professionale alle esigenze del mercato del lavoro e contrastare il basso livello delle competenze di base: questa
+       priorità sostiene lo sviluppo di programmi di IFP che offrano una combinazione equilibrata di abilità professionali e competenze chiave. Per contrastare
+       il peggioramento dei livelli di padronanza delle competenze di base nell'UE, i programmi di IFP garantiscono lo sviluppo di solide competenze
+       matematiche, alfabetiche, linguistiche e digitali quali solide basi per la competitività, l'apprendimento permanente, l'occupabilità permanente,
+       l'inclusione sociale e lo sviluppo personale. Questa priorità promuove inoltre lo sviluppo di programmi di IFP che sono regolarmente aggiornati in linea
+       con le mutevoli esigenze del mercato del lavoro (sulla base di informazioni sulle competenze) e che presentano una forte componente di apprendimento
+       basato sul lavoro/apprendistato.
+      Aumentare la flessibilità delle opportunità nell'istruzione e formazione professionale: questa priorità sostiene iniziative che sviluppano programmi di
+       IFP flessibili e incentrati sul discente, che possono essere suddivisi in unità più piccole – moduli. Tali programmi consentono inoltre la convalida dei
+       risultati dell'apprendimento acquisiti nell'ambito dell'apprendimento non formale e informale. I progetti nell'ambito di questa priorità contribuiscono
+       anche allo sviluppo di programmi di formazione professionale continua per gli adulti.
+      Contribuire all'innovazione e alla qualità nell'istruzione e formazione professionale: questa priorità sostiene progetti che includono l'IFP nelle strategie
+       economiche, industriali e di innovazione e negli ecosistemi delle competenze a livello locale, regionale o nazionale. Comprende lo sviluppo dell'IFP ai
+       livelli EQF più elevati (5-8), il rafforzamento del ruolo dell'IFP nel sostenere l'innovazione e la ricerca applicata e la fornitura di nuovi tipi di servizi svolti
+       dagli erogatori di IFP, come il sostegno all'avviamento o al trasferimento tecnologico per le PMI. Questa priorità sostiene anche iniziative incentrate sulla
+       maggiore attrattiva degli insegnanti/formatori dell'IFP e sul loro sviluppo professionale continuo. Sostiene inoltre progetti volti a migliorare ulteriormente
+       e applicare i meccanismi di garanzia della qualità in linea con il quadro europeo di riferimento per la garanzia della qualità dell'istruzione e della
+       formazione professionale (EQAVET).

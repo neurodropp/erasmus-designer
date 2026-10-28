@@ -1,0 +1,39 @@
+{
+  "id": "eu-guide-59b7eb5c87b3",
+  "title": "Jean Monnet policy debate",
+  "path": "raw/web/eu-guide-59b7eb5c87b3.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/policy-debate",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/policy-debate",
+  "sha256": "9cf51ac6a48d9de208c528e156a782821fa6f78e35e874d417a7ba99d676005e",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "HED",
+    "SCH",
+    "VET"
+  ],
+  "actions": [
+    "JEAN-MONNET-NETWORKS"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "9cf51ac6a48d9de208c528e156a782821fa6f78e35e874d417a7ba99d676005e",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-59b7eb5c87b3:p0001",
+      "path": "sources/eu-guide-59b7eb5c87b3/revisions/9cf51ac6a48d9de208c528e156a782821fa6f78e35e874d417a7ba99d676005e/pages/page-0001.md",
+      "active_path": "sources/eu-guide-59b7eb5c87b3/pages/page-0001.md",
+      "derived_sha256": "ecd907eb75e306a5578d671bc14a92d17f0950d28d1778c597417db3b78ad4f0"
+    }
+  ],
+  "full_path": "sources/eu-guide-59b7eb5c87b3/revisions/9cf51ac6a48d9de208c528e156a782821fa6f78e35e874d417a7ba99d676005e/full.md",
+  "full_sha256": "ecd907eb75e306a5578d671bc14a92d17f0950d28d1778c597417db3b78ad4f0",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

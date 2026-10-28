@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-0829e756a3e9",
+  "title": "European Youth Together",
+  "path": "raw/web/eu-guide-0829e756a3e9.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-3/european-youth-together",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-3/european-youth-together",
+  "sha256": "df6d28286a5bd31748fc0a25b1d5040e0947b683baace1c302fe4beba29802b4",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "YOU"
+  ],
+  "actions": [
+    "EUROPEAN-YOUTH-TOGETHER"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "df6d28286a5bd31748fc0a25b1d5040e0947b683baace1c302fe4beba29802b4",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-0829e756a3e9:p0001",
+      "path": "sources/eu-guide-0829e756a3e9/revisions/df6d28286a5bd31748fc0a25b1d5040e0947b683baace1c302fe4beba29802b4/pages/page-0001.md",
+      "active_path": "sources/eu-guide-0829e756a3e9/pages/page-0001.md",
+      "derived_sha256": "774786c5ba119517e6c2158e608117e2b92e1f183135a87f3e2a4de7dec54a1a"
+    }
+  ],
+  "full_path": "sources/eu-guide-0829e756a3e9/revisions/df6d28286a5bd31748fc0a25b1d5040e0947b683baace1c302fe4beba29802b4/full.md",
+  "full_sha256": "774786c5ba119517e6c2158e608117e2b92e1f183135a87f3e2a4de7dec54a1a",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

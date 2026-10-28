@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "id": "design-methodology-2026",
+  "program": "SHARED",
+  "year": 2026,
+  "actions": [
+    "ALL"
+  ],
+  "classification": "good-practice",
+  "coverage": {
+    "status": "user-authorized-method-not-normative",
+    "exhaustive": false
+  },
+  "checks": [
+    {
+      "id": "method-gap",
+      "classification": "good-practice",
+      "stages": [
+        "idea-validation",
+        "needs-impact-research",
+        "concept-note",
+        "intervention-design",
+        "design",
+        "repair",
+        "review",
+        "qa"
+      ],
+      "check": "Participatory diagnosis and gap analysis: recipient/context, initial and desired situation, primary/secondary needs, authentic evidence and data still to be collected.",
+      "evidence_needed": [
+        "Diagnosis with sources/locators; observed participation or explicit collection plan, without inventing consultations."
+      ],
+      "authority": "User-authorized design method; official requirements and criteria remain action/call-specific",
+      "applicability": "Proportional to phase and action mode; separate Erasmus+/ESC rules",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    },
+    {
+      "id": "method-causal-tree",
+      "classification": "good-practice",
+      "stages": [
+        "needs-impact-research",
+        "intervention-design",
+        "design",
+        "repair",
+        "review",
+        "qa"
+      ],
+      "check": "Causes→problem→effects and means→reconstructable ends; motivated strategy selection by comparing alternatives and addressable causes. The diagram is optional.",
+      "evidence_needed": [
+        "Causal analysis and strategic selection in the product; distinguish evidence and hypotheses."
+      ],
+      "authority": "User-authorized design method; official requirements and criteria remain action/call-specific",
+      "applicability": "Proportional to phase and action mode; separate Erasmus+/ESC rules",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    },
+    {
+      "id": "method-toc",
+      "classification": "good-practice",
+      "stages": [
+        "concept-note",
+        "intervention-design",
+        "design",
+        "work-packages",
+        "partner-concept",
+        "annexes",
+        "repair",
+        "review",
+        "qa"
+      ],
+      "check": "Proportionate Theory of Change: why activities/outputs lead to results/outcomes and contribution to impact; assumptions, external factors, risks, trials and testing connections.",
+      "evidence_needed": [
+        "Motivated links and conditions of adoption; Produced outputs are not automatically observed changes."
+      ],
+      "authority": "User-authorized design method; official requirements and criteria remain action/call-specific",
+      "applicability": "Proportional to phase and action mode; separate Erasmus+/ESC rules",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    },
+    {
+      "id": "method-logframe",
+      "classification": "good-practice",
+      "stages": [
+        "intervention-design",
+        "design",
+        "work-packages",
+        "partner-concept",
+        "annexes",
+        "repair",
+        "review",
+        "qa"
+      ],
+      "check": "Logical framework connects needs, objectives, activities, outputs, results/outcomes, impact, KPIs, partners, resources and calendar using canonical project-model-v2 IDs.",
+      "evidence_needed": [
+        "Referenced matrix; no outcomes register or alternative calendar/numbers. Granularity relevant to the mode of action."
+      ],
+      "authority": "User-authorized design method; official requirements and criteria remain action/call-specific",
+      "applicability": "Proportional to phase and action mode; separate Erasmus+/ESC rules",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    },
+    {
+      "id": "method-smart-racer",
+      "classification": "good-practice",
+      "stages": [
+        "intervention-design",
+        "design",
+        "work-packages",
+        "annexes",
+        "repair",
+        "review",
+        "qa"
+      ],
+      "check": "SMART objectives and RACER indicators evaluated with motivations: true/unknown baseline, motivated target, definition/unit, method, moment and owner; Accepted requires real sharing or status to be confirmed.",
+      "evidence_needed": [
+        "Assessment related to IDs; indicator distinct from target; impact metrics in addition to activity counts, when relevant."
+      ],
+      "authority": "User-authorized design method; official requirements and criteria remain action/call-specific",
+      "applicability": "Proportional to phase and action mode; separate Erasmus+/ESC rules",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    },
+    {
+      "id": "method-award-design",
+      "classification": "good-practice",
+      "stages": [
+        "idea-validation",
+        "needs-impact-research",
+        "concept-note",
+        "intervention-design",
+        "design",
+        "work-packages",
+        "partner-concept",
+        "annexes",
+        "repair",
+        "review",
+        "qa",
+        "eligibility"
+      ],
+      "check": "Award criteria of the real route guide the choices before writing: criterion/subpoint→choice and ID→evidence→gaps, preserving source, version and NA/EACEA scope.",
+      "evidence_needed": [
+        "Progressive coverage matrix; in the initial stages explicit open questions; no universal criteria or invented subgrades.",
+        "Idea-validation/eligibility: route-specific and selector/role award_coverage checklist, all subpoints considered with maturity, evidence/gap and realistic plan; not final satisfaction or official grade."
+      ],
+      "authority": "User-authorized design method; official requirements and criteria remain action/call-specific",
+      "applicability": "Proportional to phase and action mode; separate Erasmus+/ESC rules",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    },
+    {
+      "id": "method-award-answer",
+      "classification": "good-practice",
+      "stages": [
+        "answer-outlines",
+        "application-draft",
+        "draft",
+        "repair",
+        "review",
+        "qa"
+      ],
+      "check": "Each question/narrative instance links relevant criteria, ID/design, data and evidence, structure and character quotas; distinguish official/editorial mapping and transversal coverage.",
+      "evidence_needed": [
+        "Plan for exact demand/instance pair and current limits; administrative fields NA motivated. Missing form remains draft, no ready outline."
+      ],
+      "authority": "User-authorized design method; official requirements and criteria remain action/call-specific",
+      "applicability": "Proportional to phase and action mode; separate Erasmus+/ESC rules",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    },
+    {
+      "id": "method-impact-route",
+      "classification": "good-practice",
+      "stages": [
+        "idea-validation",
+        "needs-impact-research",
+        "concept-note",
+        "intervention-design",
+        "design",
+        "work-packages",
+        "answer-outlines",
+        "application-draft",
+        "draft",
+        "annexes",
+        "repair",
+        "review",
+        "qa"
+      ],
+      "check": "For Erasmus+, route Impact Tool KA1 mobility or KA2 partnerships according to route; backward design and forward verification of effects, adoption and monitoring. Handbook only relevant Partnerships for Cooperation NA, not KA1/ESC/Sport EACEA standards.",
+      "evidence_needed": [
+        "Route and resource selected; no limit form derived from the exercise 20 words, times 6 months or terms used by the tool do not become universal rules."
+      ],
+      "authority": "User-authorized design method; official requirements and criteria remain action/call-specific",
+      "applicability": "Proportional to phase and action mode; separate Erasmus+/ESC rules",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    }
+  ]
+}

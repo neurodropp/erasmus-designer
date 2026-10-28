@@ -1,0 +1,1212 @@
+{
+  "id": "esc-programme-2026",
+  "title": "European Solidarity Corps Programme Guide 2026 EN v1",
+  "path": "raw/pdf/esc-programme-guide-2026-en.pdf",
+  "url": "https://youth.europa.eu/sites/default/files/inline-files/european_solidarity_corps_guide_2026_EN.pdf",
+  "kind": "programme-guide",
+  "program": "ESC",
+  "year": 2026,
+  "language": "en",
+  "version": "1 / 2026; official resource card published 13/11/2025",
+  "authority": "European Commission",
+  "actions": [
+    "ESC50-HOST-SUPPORT",
+    "ESC50-LEAD",
+    "ESC51",
+    "ESC30",
+    "ESC-VTHPA",
+    "ESC-HUMAID-QL",
+    "ESC-HUMAID-VOL"
+  ],
+  "sectors": [
+    "ESC"
+  ],
+  "checked_at": "2026-09-12",
+  "sha256": "aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+  "download": true,
+  "origin": "user-attached-pdf",
+  "online_sha256_match": true,
+  "physical_pages": 148,
+  "printed_to_physical_offset_note": "From printed page 3 onwards physical page = printed page + 3; earlier cover/contents numbering repeats.",
+  "scope_note": "ESC programme only; per-action page scopes; instructions in reference PDF are source data.",
+  "page_scopes": [
+    {
+      "pages": [
+        1,
+        29
+      ],
+      "actions": [
+        "ESC50-HOST-SUPPORT",
+        "ESC50-LEAD",
+        "ESC51",
+        "ESC30",
+        "ESC-VTHPA",
+        "ESC-HUMAID-QL",
+        "ESC-HUMAID-VOL"
+      ],
+      "sectors": [
+        "ESC"
+      ],
+      "scope_note": "General ESC context, not a substitute for action-specific rules"
+    },
+    {
+      "pages": [
+        30,
+        39
+      ],
+      "actions": [
+        "ESC50-HOST-SUPPORT",
+        "ESC50-LEAD"
+      ],
+      "sectors": [
+        "ESC"
+      ],
+      "scope_note": ""
+    },
+    {
+      "pages": [
+        40,
+        54
+      ],
+      "actions": [
+        "ESC51"
+      ],
+      "sectors": [
+        "ESC"
+      ],
+      "scope_note": ""
+    },
+    {
+      "pages": [
+        55,
+        62
+      ],
+      "actions": [
+        "ESC-VTHPA"
+      ],
+      "sectors": [
+        "ESC"
+      ],
+      "scope_note": ""
+    },
+    {
+      "pages": [
+        63,
+        69
+      ],
+      "actions": [
+        "ESC30"
+      ],
+      "sectors": [
+        "ESC"
+      ],
+      "scope_note": ""
+    },
+    {
+      "pages": [
+        70,
+        70
+      ],
+      "actions": [
+        "ESC-HUMAID-QL",
+        "ESC-HUMAID-VOL"
+      ],
+      "sectors": [
+        "ESC"
+      ],
+      "scope_note": "Humanitarian strand introduction"
+    },
+    {
+      "pages": [
+        71,
+        79
+      ],
+      "actions": [
+        "ESC-HUMAID-QL"
+      ],
+      "sectors": [
+        "ESC"
+      ],
+      "scope_note": ""
+    },
+    {
+      "pages": [
+        80,
+        88
+      ],
+      "actions": [
+        "ESC-HUMAID-VOL"
+      ],
+      "sectors": [
+        "ESC"
+      ],
+      "scope_note": ""
+    },
+    {
+      "pages": [
+        89,
+        148
+      ],
+      "actions": [
+        "ESC50-HOST-SUPPORT",
+        "ESC50-LEAD",
+        "ESC51",
+        "ESC30",
+        "ESC-VTHPA",
+        "ESC-HUMAID-QL",
+        "ESC-HUMAID-VOL"
+      ],
+      "sectors": [
+        "ESC"
+      ],
+      "scope_note": "General support, application rules and annexes; apply action-specific caveats"
+    }
+  ],
+  "resolved_url": "https://youth.europa.eu/sites/default/files/inline-files/european_solidarity_corps_guide_2026_EN.pdf",
+  "pages": 148,
+  "original_sha256": "aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "esc-programme-2026:p0001",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0001.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0001.md",
+      "derived_sha256": "58febc23d16ffa6985785b4ae810df1cdf62c3a2fe5594c5b0849101b6348448"
+    },
+    {
+      "number": 2,
+      "id": "esc-programme-2026:p0002",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0002.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0002.md",
+      "derived_sha256": "51709cf30f5386a28ca6967fd13f3b66899bdd124447eec8e0954132e46dc6b5"
+    },
+    {
+      "number": 3,
+      "id": "esc-programme-2026:p0003",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0003.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0003.md",
+      "derived_sha256": "33d3ae6ac8b271f2d576720578d398a447c6b96cce4b6d61a58b08acb6334e3c"
+    },
+    {
+      "number": 4,
+      "id": "esc-programme-2026:p0004",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0004.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0004.md",
+      "derived_sha256": "d39ba2f75b45263e37272c5104c8404f655814c913838b9c267aa94acdcc3914"
+    },
+    {
+      "number": 5,
+      "id": "esc-programme-2026:p0005",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0005.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0005.md",
+      "derived_sha256": "f411ca99a504baae31687a3c052d07a598d09f045db49f0c2223b4593dc7320f"
+    },
+    {
+      "number": 6,
+      "id": "esc-programme-2026:p0006",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0006.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0006.md",
+      "derived_sha256": "e7168541205cfada9acfc9232165fbb118aecf5f92b716d984db0e789e2cf7bd"
+    },
+    {
+      "number": 7,
+      "id": "esc-programme-2026:p0007",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0007.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0007.md",
+      "derived_sha256": "baa4699df9149874cb12e5ff83561d6a8511259b97fbbc202a2d5dbb7d61a301"
+    },
+    {
+      "number": 8,
+      "id": "esc-programme-2026:p0008",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0008.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0008.md",
+      "derived_sha256": "2ee4a0041a91bc896666aeb2b601072b6ca2e2f1437353e8fff6d3bf899f0cc4"
+    },
+    {
+      "number": 9,
+      "id": "esc-programme-2026:p0009",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0009.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0009.md",
+      "derived_sha256": "752329978e958eb454cf6b80254db046b867bc6dc73d287e114b6021a659ff61"
+    },
+    {
+      "number": 10,
+      "id": "esc-programme-2026:p0010",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0010.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0010.md",
+      "derived_sha256": "9fcb8f7a3eb9ba2db03824fff5be24c5308f1518dca7f9f992d9e094fb1be279"
+    },
+    {
+      "number": 11,
+      "id": "esc-programme-2026:p0011",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0011.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0011.md",
+      "derived_sha256": "b3d4ed4c3c4f9473085e6813370b6d71f21a136d3e714a9618374b486d3aaf41"
+    },
+    {
+      "number": 12,
+      "id": "esc-programme-2026:p0012",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0012.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0012.md",
+      "derived_sha256": "656e1b08a6a474721f46fedb8a0f050f4d7d791e7873b328b1d7f06a0e2f65fd"
+    },
+    {
+      "number": 13,
+      "id": "esc-programme-2026:p0013",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0013.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0013.md",
+      "derived_sha256": "2e13fc57756e66bbc23b3779d47a518e2f1123001f3d7a5c9625f701c900573c"
+    },
+    {
+      "number": 14,
+      "id": "esc-programme-2026:p0014",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0014.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0014.md",
+      "derived_sha256": "0f35ddc493f1ba47a2f7acabc7133a4fc1876d04df058b0b5e23b8f0aa29ad9d"
+    },
+    {
+      "number": 15,
+      "id": "esc-programme-2026:p0015",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0015.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0015.md",
+      "derived_sha256": "acb315757d0ff5d0614223a1ba3ac53fe527214222ba928e353ca99bd8273dfe"
+    },
+    {
+      "number": 16,
+      "id": "esc-programme-2026:p0016",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0016.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0016.md",
+      "derived_sha256": "268c7d052e9aceae4de23cb59bbd75a0c005360b24bb411a2daba2b6571771db"
+    },
+    {
+      "number": 17,
+      "id": "esc-programme-2026:p0017",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0017.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0017.md",
+      "derived_sha256": "2fff52a3081dc375107b773da93baff24abe79918e8bd10a5ba6d03e8dacdd8b"
+    },
+    {
+      "number": 18,
+      "id": "esc-programme-2026:p0018",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0018.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0018.md",
+      "derived_sha256": "05ea3f686f8f495b8c07ed2fa106404132e0c756442a8ae2bb13e4833a561a70"
+    },
+    {
+      "number": 19,
+      "id": "esc-programme-2026:p0019",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0019.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0019.md",
+      "derived_sha256": "a735db47e92bd2d08ca088f1dce5f14d251cb9937e13de96f9016f9894dd5b0f"
+    },
+    {
+      "number": 20,
+      "id": "esc-programme-2026:p0020",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0020.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0020.md",
+      "derived_sha256": "71e514511df7fd72a637d065370fc9bb536e628914b695ef34e6beb9b63cdc18"
+    },
+    {
+      "number": 21,
+      "id": "esc-programme-2026:p0021",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0021.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0021.md",
+      "derived_sha256": "a1e18ba27b266611a66972ed9c7636377bc933c6c3c31966250cd928aa1128d1"
+    },
+    {
+      "number": 22,
+      "id": "esc-programme-2026:p0022",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0022.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0022.md",
+      "derived_sha256": "2f05e44d1c38545c2091744235d232f720027beb645a21c4d981b4e9bd42bc91"
+    },
+    {
+      "number": 23,
+      "id": "esc-programme-2026:p0023",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0023.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0023.md",
+      "derived_sha256": "7f92d8418819824adc4990e10d7543493a21ea8470aeddf5f6b0787bd2dd2a5d"
+    },
+    {
+      "number": 24,
+      "id": "esc-programme-2026:p0024",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0024.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0024.md",
+      "derived_sha256": "4cb65436a1210895bb364cf90be8d02d2dd7cd777f4119546e9366c2c0d75cb7"
+    },
+    {
+      "number": 25,
+      "id": "esc-programme-2026:p0025",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0025.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0025.md",
+      "derived_sha256": "e5f50bb6c50d212d1be71646fe05800aef12aa6c2e9c3a028909b664d47bf2cc"
+    },
+    {
+      "number": 26,
+      "id": "esc-programme-2026:p0026",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0026.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0026.md",
+      "derived_sha256": "c45dd7c1874b4d20182d5d348ff8d30587f6b6e1fb5d7a1c2bcb08d75168fe75"
+    },
+    {
+      "number": 27,
+      "id": "esc-programme-2026:p0027",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0027.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0027.md",
+      "derived_sha256": "fb6f95e36c69c04ba78ab5f06b66e0a5adb044c4218346d013aa5b133ee33535"
+    },
+    {
+      "number": 28,
+      "id": "esc-programme-2026:p0028",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0028.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0028.md",
+      "derived_sha256": "4e2e41d408eac9eb2fc6b4d83429920af6eb7ebf9de887a839c3c1b494825ce6"
+    },
+    {
+      "number": 29,
+      "id": "esc-programme-2026:p0029",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0029.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0029.md",
+      "derived_sha256": "356be3a7aa418d3507d5e81e1a9c5ae2b9e1c334ff05b9771dab4c7c6320aa01"
+    },
+    {
+      "number": 30,
+      "id": "esc-programme-2026:p0030",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0030.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0030.md",
+      "derived_sha256": "66ab2cfbb295226fba37e4c33312be1140467c6a3a067f1ac497edb4244d4e3f"
+    },
+    {
+      "number": 31,
+      "id": "esc-programme-2026:p0031",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0031.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0031.md",
+      "derived_sha256": "fcc4d73d247146e6d938e3e4481a920ec3f27502e14ce55e613bcdbe6be1db42"
+    },
+    {
+      "number": 32,
+      "id": "esc-programme-2026:p0032",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0032.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0032.md",
+      "derived_sha256": "d6050c8ec7c1985c822365fcb387b5c55e53cdc04b00cec00a4e4327cacb1e4c"
+    },
+    {
+      "number": 33,
+      "id": "esc-programme-2026:p0033",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0033.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0033.md",
+      "derived_sha256": "2795fb0d8ac9afbd082fb78fd96b9f73cacf50de20cf5376cb96c0e603a18a43"
+    },
+    {
+      "number": 34,
+      "id": "esc-programme-2026:p0034",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0034.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0034.md",
+      "derived_sha256": "5144de046bf29986193752f1dedd552808f74160b5338ebbd3a209e3d27cf377"
+    },
+    {
+      "number": 35,
+      "id": "esc-programme-2026:p0035",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0035.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0035.md",
+      "derived_sha256": "6819627e2a4634d275fcd04c276efe8b476d7ad0d1a86d8701d24abd6b11aeb1"
+    },
+    {
+      "number": 36,
+      "id": "esc-programme-2026:p0036",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0036.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0036.md",
+      "derived_sha256": "5cf7d6d81e2be16b3fd2e9769376a354092f80f50617ec342910a8943458e70d"
+    },
+    {
+      "number": 37,
+      "id": "esc-programme-2026:p0037",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0037.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0037.md",
+      "derived_sha256": "7f7870ddb8420f41c24f05c0511339ed55c11995523e5828f68e709e614fea94"
+    },
+    {
+      "number": 38,
+      "id": "esc-programme-2026:p0038",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0038.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0038.md",
+      "derived_sha256": "820502dbdc84f75bd366e2f5709dad7505c64fc4eb617d1b8a9af3d50787bea2"
+    },
+    {
+      "number": 39,
+      "id": "esc-programme-2026:p0039",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0039.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0039.md",
+      "derived_sha256": "410e6d4366333e0ee526ce4e9d5517ae94a9a93de6ceae46b9680a2b44edba2b"
+    },
+    {
+      "number": 40,
+      "id": "esc-programme-2026:p0040",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0040.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0040.md",
+      "derived_sha256": "0559da88021b985c48dbfef04b93f0f5bcbbb08b7ff29b53c6a30a0058f5645e"
+    },
+    {
+      "number": 41,
+      "id": "esc-programme-2026:p0041",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0041.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0041.md",
+      "derived_sha256": "15915fff88012207db1bddd851708279aabc92e709004c001a04c991aae47b3e"
+    },
+    {
+      "number": 42,
+      "id": "esc-programme-2026:p0042",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0042.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0042.md",
+      "derived_sha256": "25c61af9a607735216722698c5e8984fd0b581b3f482d0da99b6e302dc723a97"
+    },
+    {
+      "number": 43,
+      "id": "esc-programme-2026:p0043",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0043.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0043.md",
+      "derived_sha256": "ce341f8d2d0589fe16765fd1f3a7459876717c2d6f2cb841d824492d0f48ae1b"
+    },
+    {
+      "number": 44,
+      "id": "esc-programme-2026:p0044",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0044.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0044.md",
+      "derived_sha256": "92c0edf5b8d48183a030e6960012bb22c1f8098ffba93e077d410e6a89006613"
+    },
+    {
+      "number": 45,
+      "id": "esc-programme-2026:p0045",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0045.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0045.md",
+      "derived_sha256": "272dd207b446c462efe9b8aeb7454bb6036d2398c72e558c7c5ac33686b7217b"
+    },
+    {
+      "number": 46,
+      "id": "esc-programme-2026:p0046",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0046.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0046.md",
+      "derived_sha256": "6ed5d7e8a7943d374d94eb655adde7c5e74d639aa34ded20d2f22a6531904dad"
+    },
+    {
+      "number": 47,
+      "id": "esc-programme-2026:p0047",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0047.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0047.md",
+      "derived_sha256": "3215a2e9246aefdbec66bb7a15d9fad039cf0122f51b368a35d2cf2ed45a923f"
+    },
+    {
+      "number": 48,
+      "id": "esc-programme-2026:p0048",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0048.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0048.md",
+      "derived_sha256": "6c349bddf2d074461d7c05fc977735ad1d0f7956049bc0b33ca38b523410dc7c"
+    },
+    {
+      "number": 49,
+      "id": "esc-programme-2026:p0049",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0049.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0049.md",
+      "derived_sha256": "d0156fb56707cdc870d37d01a6bcc8d090665bf681261a4e01010d8bc24e4341"
+    },
+    {
+      "number": 50,
+      "id": "esc-programme-2026:p0050",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0050.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0050.md",
+      "derived_sha256": "ec6f487b46b740913609a3ee49cf3c05d8bdb1f5429fbb5d97696357c9de5ac5"
+    },
+    {
+      "number": 51,
+      "id": "esc-programme-2026:p0051",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0051.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0051.md",
+      "derived_sha256": "5b968a765843c8b94224ff54b7989af9b25afc06387efdcd14a36a3288eae2ae"
+    },
+    {
+      "number": 52,
+      "id": "esc-programme-2026:p0052",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0052.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0052.md",
+      "derived_sha256": "361d1f431af985613737720b9dd27e3ee0f17e654ff013fede03bf40cf438820"
+    },
+    {
+      "number": 53,
+      "id": "esc-programme-2026:p0053",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0053.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0053.md",
+      "derived_sha256": "b9bc18a834320bca3f4c1f3c78b3f1d1c654878be3c9d75ee05bfa112fc17096"
+    },
+    {
+      "number": 54,
+      "id": "esc-programme-2026:p0054",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0054.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0054.md",
+      "derived_sha256": "0d6a19054e8e5a4f354592bab26e9668d87f69d0b97b6cbc9fd5ddcf4bd91015"
+    },
+    {
+      "number": 55,
+      "id": "esc-programme-2026:p0055",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0055.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0055.md",
+      "derived_sha256": "b584d7117e84c625d3fbe588c582a95fcbd28c3a42aa8852a573bfb9ba20eda5"
+    },
+    {
+      "number": 56,
+      "id": "esc-programme-2026:p0056",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0056.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0056.md",
+      "derived_sha256": "34245f8b974072d9e2ef5561e8d43f5211d0ae8de386cd9cd5f18b832a15af0a"
+    },
+    {
+      "number": 57,
+      "id": "esc-programme-2026:p0057",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0057.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0057.md",
+      "derived_sha256": "35d4f911643454486c2b571b62de9315c88f425858ad56ae46d6ef71b166fc34"
+    },
+    {
+      "number": 58,
+      "id": "esc-programme-2026:p0058",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0058.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0058.md",
+      "derived_sha256": "31c989ce8fe7e5d4af499f5936e1252e997edb588ccbc26b64432f36a18bf6f3"
+    },
+    {
+      "number": 59,
+      "id": "esc-programme-2026:p0059",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0059.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0059.md",
+      "derived_sha256": "4a8d25079345e07089130c5ee44af4cada4c27f4a81d6b95a2832f481eac30e6"
+    },
+    {
+      "number": 60,
+      "id": "esc-programme-2026:p0060",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0060.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0060.md",
+      "derived_sha256": "e41ba36502b98ee06dec3b05551e5f7bb2a9be731af56792b75b1233a9017412"
+    },
+    {
+      "number": 61,
+      "id": "esc-programme-2026:p0061",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0061.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0061.md",
+      "derived_sha256": "d848d455bdefedb5a2e55e00eb1301e4f4526e8e4b60e3482d6ec3b6419d8f81"
+    },
+    {
+      "number": 62,
+      "id": "esc-programme-2026:p0062",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0062.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0062.md",
+      "derived_sha256": "f2726962fef25288ae17da84188767e6e0920b5106e58b5e2e4939fc539e1c37"
+    },
+    {
+      "number": 63,
+      "id": "esc-programme-2026:p0063",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0063.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0063.md",
+      "derived_sha256": "fc3953ecb12bb2ddaa9e0ddd1e94a2eb2aa2dc46dd8ac9d6134340d25487b658"
+    },
+    {
+      "number": 64,
+      "id": "esc-programme-2026:p0064",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0064.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0064.md",
+      "derived_sha256": "cfb7c5d398d01bee38155ff5d03f8598fcee9cd55c52cb39f40a9a2031cd6573"
+    },
+    {
+      "number": 65,
+      "id": "esc-programme-2026:p0065",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0065.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0065.md",
+      "derived_sha256": "18badf08a282ee31b7aad21bc9f197585aa52b5f56b671c59139a21d720a9a44"
+    },
+    {
+      "number": 66,
+      "id": "esc-programme-2026:p0066",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0066.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0066.md",
+      "derived_sha256": "0ef8ad265c048d5e071bdd481c0c6c003759296a3f341a0556faaa7306c8740b"
+    },
+    {
+      "number": 67,
+      "id": "esc-programme-2026:p0067",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0067.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0067.md",
+      "derived_sha256": "326abc84e5a97f55e130c26c35bce7dae8332896ffe75e884526a9b683287e2a"
+    },
+    {
+      "number": 68,
+      "id": "esc-programme-2026:p0068",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0068.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0068.md",
+      "derived_sha256": "90d4813decbf2127d68f7915932cb3ace09b41937714caf50f2458982c63ae49"
+    },
+    {
+      "number": 69,
+      "id": "esc-programme-2026:p0069",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0069.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0069.md",
+      "derived_sha256": "e4bdd1e3ad2af103f45966f166bc158d57c58a976214cbff770729d085ed86db"
+    },
+    {
+      "number": 70,
+      "id": "esc-programme-2026:p0070",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0070.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0070.md",
+      "derived_sha256": "757dcff3e9df977bfd319380a6a2b076d7b35d5c0608d0806dea2a1b26f1041a"
+    },
+    {
+      "number": 71,
+      "id": "esc-programme-2026:p0071",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0071.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0071.md",
+      "derived_sha256": "cdaf5f804cc0b409e9b11550fc0848f0f328aa92074ddf0e2aa0092edb376ffb"
+    },
+    {
+      "number": 72,
+      "id": "esc-programme-2026:p0072",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0072.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0072.md",
+      "derived_sha256": "f442cafff4dc434b81002fc0d15949ace67cbaa0ff78fadcd1e17657a52ba2b6"
+    },
+    {
+      "number": 73,
+      "id": "esc-programme-2026:p0073",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0073.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0073.md",
+      "derived_sha256": "7aea12429b4b309e761f6f45517c394b08f50345cf49dba1436ab39f61b98c62"
+    },
+    {
+      "number": 74,
+      "id": "esc-programme-2026:p0074",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0074.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0074.md",
+      "derived_sha256": "75ec41c9b8fc63c796adfb6abf107be4a2846a831459620435e9bde0aa750e42"
+    },
+    {
+      "number": 75,
+      "id": "esc-programme-2026:p0075",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0075.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0075.md",
+      "derived_sha256": "e461fea90a10cedfe41ecdd815324c95152466815a36d916969f0cf88c0cc7fd"
+    },
+    {
+      "number": 76,
+      "id": "esc-programme-2026:p0076",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0076.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0076.md",
+      "derived_sha256": "6647015438eb8dd834923d57824473fcaba69f15385414ff89d2a64c9e1b8416"
+    },
+    {
+      "number": 77,
+      "id": "esc-programme-2026:p0077",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0077.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0077.md",
+      "derived_sha256": "960ed2a7c4c6d20e3c0b7778b7072de731ad6ff0ec9f24281c2478f16d06e2f0"
+    },
+    {
+      "number": 78,
+      "id": "esc-programme-2026:p0078",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0078.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0078.md",
+      "derived_sha256": "ce912133810061c2d65155b0e2a45dc5dce1527a4751edbfbb077fea44aec04a"
+    },
+    {
+      "number": 79,
+      "id": "esc-programme-2026:p0079",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0079.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0079.md",
+      "derived_sha256": "7a7491c76b9a4cc685751fadf74ca57c5abf9cb28185e9d25d55278536ff520a"
+    },
+    {
+      "number": 80,
+      "id": "esc-programme-2026:p0080",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0080.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0080.md",
+      "derived_sha256": "7a4716a2b67ffe7df61b5001442e5199c0ac3d075ddf8f2cde61702653acf0cf"
+    },
+    {
+      "number": 81,
+      "id": "esc-programme-2026:p0081",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0081.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0081.md",
+      "derived_sha256": "5a4147b8f8826192c874ec30ad1e9a84b726a35687dd744b80fa525b7932ffd6"
+    },
+    {
+      "number": 82,
+      "id": "esc-programme-2026:p0082",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0082.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0082.md",
+      "derived_sha256": "dfd90cebfd2c24cf6531fd1d4fa9ddd8264d718a2fbde0d1019befb55e0c9798"
+    },
+    {
+      "number": 83,
+      "id": "esc-programme-2026:p0083",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0083.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0083.md",
+      "derived_sha256": "251ebefde606a318f45a95a4ae2e26e0e19e4d879cd15ce349f0cc675789c013"
+    },
+    {
+      "number": 84,
+      "id": "esc-programme-2026:p0084",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0084.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0084.md",
+      "derived_sha256": "16d5282b92e2a0bfce2604a8314ba9aabb5b252ab2953bbd2fa88df21352ca53"
+    },
+    {
+      "number": 85,
+      "id": "esc-programme-2026:p0085",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0085.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0085.md",
+      "derived_sha256": "dab9090a1b7bd9f051874bbdec15ba45bb7c3980fc6d48229eaac0a4ffa82358"
+    },
+    {
+      "number": 86,
+      "id": "esc-programme-2026:p0086",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0086.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0086.md",
+      "derived_sha256": "1ad47cbcfeac18d3bd777bc2c60b5f9ad61e43ed85e803ac7050aa4a08960427"
+    },
+    {
+      "number": 87,
+      "id": "esc-programme-2026:p0087",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0087.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0087.md",
+      "derived_sha256": "e04bceb739e17f8f6710a2035c6343871ae63c091efc7d54a6a42a7e57d20f9b"
+    },
+    {
+      "number": 88,
+      "id": "esc-programme-2026:p0088",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0088.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0088.md",
+      "derived_sha256": "90c041099ad4a60ce29b15352e3d54752b31cfd76a68c1da7d25f311813c1832"
+    },
+    {
+      "number": 89,
+      "id": "esc-programme-2026:p0089",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0089.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0089.md",
+      "derived_sha256": "cfb5b851320187b99e3246bd41a51d9dfda91c939ecda2b9b894e8f46a17c0f4"
+    },
+    {
+      "number": 90,
+      "id": "esc-programme-2026:p0090",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0090.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0090.md",
+      "derived_sha256": "bf643b877f1be93432f561c14ca021f7a90c1d22a1f984f53a739b23d4e4d7a2"
+    },
+    {
+      "number": 91,
+      "id": "esc-programme-2026:p0091",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0091.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0091.md",
+      "derived_sha256": "ab247cfdf2026b1e53337474408b57c3838a2abc45db4a59d3b1d93d358a73d3"
+    },
+    {
+      "number": 92,
+      "id": "esc-programme-2026:p0092",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0092.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0092.md",
+      "derived_sha256": "1ad9fdf58725aa0556a0925d47ce126c77f0c6ef18f1cb254bcbb98b62ac89c1"
+    },
+    {
+      "number": 93,
+      "id": "esc-programme-2026:p0093",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0093.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0093.md",
+      "derived_sha256": "11f0a488ba87944b8247b0b62810bd319d394351cfbaab09e0bb64bebb4b9bdb"
+    },
+    {
+      "number": 94,
+      "id": "esc-programme-2026:p0094",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0094.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0094.md",
+      "derived_sha256": "e32fc77722fa1e2eeed497b02f672400799457c630af6d4168c77fc54d11fc31"
+    },
+    {
+      "number": 95,
+      "id": "esc-programme-2026:p0095",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0095.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0095.md",
+      "derived_sha256": "e8698d86920f94dfbd4d3f1021d6434caaee364b8f586906f7152318485dd782"
+    },
+    {
+      "number": 96,
+      "id": "esc-programme-2026:p0096",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0096.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0096.md",
+      "derived_sha256": "a60078ee725760a03875ce58cb8a81e9833d09f1c87318a77c52d1e782481007"
+    },
+    {
+      "number": 97,
+      "id": "esc-programme-2026:p0097",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0097.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0097.md",
+      "derived_sha256": "0bc9306f8d63c91ab8481c449dd8aa6388b987b903fec85f5e69ecfb2d841795"
+    },
+    {
+      "number": 98,
+      "id": "esc-programme-2026:p0098",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0098.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0098.md",
+      "derived_sha256": "bc6094ce734191a271b3a4e116a01b3e9b580cfd459653359af5fb376b777fa5"
+    },
+    {
+      "number": 99,
+      "id": "esc-programme-2026:p0099",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0099.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0099.md",
+      "derived_sha256": "def40a5416d5fea189717fdf0486ea29858e5f14d5ad5bc846ffb244bffb200b"
+    },
+    {
+      "number": 100,
+      "id": "esc-programme-2026:p0100",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0100.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0100.md",
+      "derived_sha256": "c8d223b29069fe32d800e9ef44cd666bff4b62417c42a7b052f99c00e678b5c9"
+    },
+    {
+      "number": 101,
+      "id": "esc-programme-2026:p0101",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0101.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0101.md",
+      "derived_sha256": "be34b71fdb7f7bb0d28a99a5641450dd9bc7c56b20a44e44588bc3e8bf06d379"
+    },
+    {
+      "number": 102,
+      "id": "esc-programme-2026:p0102",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0102.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0102.md",
+      "derived_sha256": "a8452e27f2e5003fce270608a88353547a9832ad935b7840ceaa54a6b9981cf5"
+    },
+    {
+      "number": 103,
+      "id": "esc-programme-2026:p0103",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0103.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0103.md",
+      "derived_sha256": "ecd5bfb72b16702aec3496250353a81f71201130cf82af3e7899fc4327f5eb1b"
+    },
+    {
+      "number": 104,
+      "id": "esc-programme-2026:p0104",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0104.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0104.md",
+      "derived_sha256": "99d3b4b86856787c65bf81514226e0df17a8210bae8abe532fd9706922764c79"
+    },
+    {
+      "number": 105,
+      "id": "esc-programme-2026:p0105",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0105.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0105.md",
+      "derived_sha256": "6502b55646e3c7f492efb8f4f40cdf70ead5ab70fd20cae3e99eaed0b1331ebb"
+    },
+    {
+      "number": 106,
+      "id": "esc-programme-2026:p0106",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0106.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0106.md",
+      "derived_sha256": "4734a15afbb6e4d19cd400e0b1b0a297941df51e4e71e6fe7c8bec382b06021b"
+    },
+    {
+      "number": 107,
+      "id": "esc-programme-2026:p0107",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0107.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0107.md",
+      "derived_sha256": "c8802e14d470053ef7be5cec5c2295310388bfa8b81d70aaf0a4e499e036ee26"
+    },
+    {
+      "number": 108,
+      "id": "esc-programme-2026:p0108",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0108.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0108.md",
+      "derived_sha256": "4e0ffa46942eceee80a9529efeeb58a9abbf7524f1693cbd95a707e5eeda4fc9"
+    },
+    {
+      "number": 109,
+      "id": "esc-programme-2026:p0109",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0109.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0109.md",
+      "derived_sha256": "f47e16cbbc87c7587b6fa9ea80e021118ec9023a9b988860d2f3c13adea2dc97"
+    },
+    {
+      "number": 110,
+      "id": "esc-programme-2026:p0110",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0110.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0110.md",
+      "derived_sha256": "3e8a5899f10b410d894090efa502c3db5a683ebc69b89fe133b03e77049b765f"
+    },
+    {
+      "number": 111,
+      "id": "esc-programme-2026:p0111",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0111.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0111.md",
+      "derived_sha256": "39650a6dd3cefebea64a7586722e2db5ead624676420390ab99293e5b5d9016c"
+    },
+    {
+      "number": 112,
+      "id": "esc-programme-2026:p0112",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0112.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0112.md",
+      "derived_sha256": "666198b77831fe4acb14ef4cbbaca8ebc5bec2258abc3f5038cd902ecc6ebc48"
+    },
+    {
+      "number": 113,
+      "id": "esc-programme-2026:p0113",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0113.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0113.md",
+      "derived_sha256": "433a90c80042727bf11ae8a3d925281bf28fec99a9e49d47063c7e3d8b15e093"
+    },
+    {
+      "number": 114,
+      "id": "esc-programme-2026:p0114",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0114.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0114.md",
+      "derived_sha256": "d3b7e560246077e9f878298dfb5aac4c3906dbdf741b92b5f82de02072171c8c"
+    },
+    {
+      "number": 115,
+      "id": "esc-programme-2026:p0115",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0115.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0115.md",
+      "derived_sha256": "ceb27fda876dfe55a718c14aff1a70185f54c21bfffd81ad41505beb7b8e125f"
+    },
+    {
+      "number": 116,
+      "id": "esc-programme-2026:p0116",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0116.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0116.md",
+      "derived_sha256": "586d863fb6aab469924904895f70c677c1b1a7dcd0da778a69a012426cbd3afb"
+    },
+    {
+      "number": 117,
+      "id": "esc-programme-2026:p0117",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0117.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0117.md",
+      "derived_sha256": "a37ee011de02f536e5cc23ce84fc043f8097672501948f6a680b2a08a7fd6739"
+    },
+    {
+      "number": 118,
+      "id": "esc-programme-2026:p0118",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0118.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0118.md",
+      "derived_sha256": "9868cb6a689b6c4134a508f44ea2873b066dfc1a40b57cdab832fcfec74ac7c7"
+    },
+    {
+      "number": 119,
+      "id": "esc-programme-2026:p0119",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0119.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0119.md",
+      "derived_sha256": "67b2857f8423dcba3b3fde8ac617a1ab01b52c58ef7e7cdd5ec72af1ffd101a9"
+    },
+    {
+      "number": 120,
+      "id": "esc-programme-2026:p0120",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0120.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0120.md",
+      "derived_sha256": "1edd95d4dbc611ade821f33a4cd48ab63dcb4977506bc6e0c3dd3e3dc89a809c"
+    },
+    {
+      "number": 121,
+      "id": "esc-programme-2026:p0121",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0121.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0121.md",
+      "derived_sha256": "7bd183dd48d18b292756fff7d69e04d3452b89d98083126d1c6caa7ed6f6bd06"
+    },
+    {
+      "number": 122,
+      "id": "esc-programme-2026:p0122",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0122.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0122.md",
+      "derived_sha256": "9a0c1ef8731d7f8851ae8f7a16942b04419675a660fae94fb51c174047613165"
+    },
+    {
+      "number": 123,
+      "id": "esc-programme-2026:p0123",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0123.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0123.md",
+      "derived_sha256": "4ef075f4f32a97a4a225b362aa4e871c646029fa7355224c40b9201672ae9f8e"
+    },
+    {
+      "number": 124,
+      "id": "esc-programme-2026:p0124",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0124.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0124.md",
+      "derived_sha256": "86e3675fa750f77cf649122cf7ebf0bf92968266d058507132d5d7c76ccf27ff"
+    },
+    {
+      "number": 125,
+      "id": "esc-programme-2026:p0125",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0125.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0125.md",
+      "derived_sha256": "a899027e74de053ff2d058161d77e3ee13c21b14b93a294ce86529e32ad37a2e"
+    },
+    {
+      "number": 126,
+      "id": "esc-programme-2026:p0126",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0126.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0126.md",
+      "derived_sha256": "245f9b61245738f9c1d96586bdb190aba04ea587d4b1b0a46b0b7fa5f0fe5b6f"
+    },
+    {
+      "number": 127,
+      "id": "esc-programme-2026:p0127",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0127.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0127.md",
+      "derived_sha256": "f5798cdc35fcc5a42e232655a32aef8c1c2772cdddaef655ac77d10d9bfe530d"
+    },
+    {
+      "number": 128,
+      "id": "esc-programme-2026:p0128",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0128.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0128.md",
+      "derived_sha256": "5136f0dd294f782b0272b982522ce2099b81c892a92e710ed3c9c02a89e66c6e"
+    },
+    {
+      "number": 129,
+      "id": "esc-programme-2026:p0129",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0129.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0129.md",
+      "derived_sha256": "416265542ee88130724678b7e7b1495ec341f876630f0af4fb753a60b7842c5e"
+    },
+    {
+      "number": 130,
+      "id": "esc-programme-2026:p0130",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0130.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0130.md",
+      "derived_sha256": "9ddfea09a289dd7f3b8f65e8074eed5f0da9a5baa6b135e832bbaf318351d437"
+    },
+    {
+      "number": 131,
+      "id": "esc-programme-2026:p0131",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0131.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0131.md",
+      "derived_sha256": "50a86499ab54604402c725fdef60b846bbf3a66400f3012b0a41c7828f8f3d2c"
+    },
+    {
+      "number": 132,
+      "id": "esc-programme-2026:p0132",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0132.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0132.md",
+      "derived_sha256": "58d38e0d74b3ca8fae13307ae767802401be3fdd0a415d43c305731a299843d1"
+    },
+    {
+      "number": 133,
+      "id": "esc-programme-2026:p0133",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0133.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0133.md",
+      "derived_sha256": "cd57bbb702a8e1d293f7dbdcd4f5f25d5a7f411e17ea6038184aa12d8eb8b851"
+    },
+    {
+      "number": 134,
+      "id": "esc-programme-2026:p0134",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0134.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0134.md",
+      "derived_sha256": "455153ebb5b940907803b1cb966f832b4da97b609459dd1008d14dd15eab14f8"
+    },
+    {
+      "number": 135,
+      "id": "esc-programme-2026:p0135",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0135.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0135.md",
+      "derived_sha256": "dc8b7f36565f1096f5e4c46526dba8199f281b182ba436734f798d9a846b225e"
+    },
+    {
+      "number": 136,
+      "id": "esc-programme-2026:p0136",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0136.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0136.md",
+      "derived_sha256": "2a6d9551e3cbb36be162429224aca5547a0c03362ec7266f821301522e6fc040"
+    },
+    {
+      "number": 137,
+      "id": "esc-programme-2026:p0137",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0137.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0137.md",
+      "derived_sha256": "d6cda1eaf11942f6210c1818c9606a874c2df69653aa2aee2653b6d4732c71e6"
+    },
+    {
+      "number": 138,
+      "id": "esc-programme-2026:p0138",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0138.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0138.md",
+      "derived_sha256": "57665124a78091d4cee2fdf923d4f391eaeb78bdf95959198f4475387d4ba49d"
+    },
+    {
+      "number": 139,
+      "id": "esc-programme-2026:p0139",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0139.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0139.md",
+      "derived_sha256": "c9d76a102f11d528b403ba9fb56b08dc5b7e77f2c8a79049d2b27b69e97b327b"
+    },
+    {
+      "number": 140,
+      "id": "esc-programme-2026:p0140",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0140.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0140.md",
+      "derived_sha256": "f7554c4daef5c3fba3ec3e5db3f37ee8bb65d541737e73fa5d369a8b0f0fae5b"
+    },
+    {
+      "number": 141,
+      "id": "esc-programme-2026:p0141",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0141.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0141.md",
+      "derived_sha256": "191a98622b797965694e5b521712b49b89884ae4c1a06324b5bc2099bd576c2b"
+    },
+    {
+      "number": 142,
+      "id": "esc-programme-2026:p0142",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0142.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0142.md",
+      "derived_sha256": "b8f4808e87edd4e223263651ae643a00b98dca3c574741e53dcc31edcf32e23e"
+    },
+    {
+      "number": 143,
+      "id": "esc-programme-2026:p0143",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0143.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0143.md",
+      "derived_sha256": "6553583ff7d4518cda9450b67b1a228fd3a154b52bdff94bbaf6e67283743f96"
+    },
+    {
+      "number": 144,
+      "id": "esc-programme-2026:p0144",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0144.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0144.md",
+      "derived_sha256": "85e06c88410286e5ace796e88858cad3e4f0097df63b15ac7e987c9b16475fe5"
+    },
+    {
+      "number": 145,
+      "id": "esc-programme-2026:p0145",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0145.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0145.md",
+      "derived_sha256": "311ff8dbc1c2e9ac8b38a9600176517a681f87157eb0085669c90f756aa13ccd"
+    },
+    {
+      "number": 146,
+      "id": "esc-programme-2026:p0146",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0146.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0146.md",
+      "derived_sha256": "c2878e3e856d79915927da9fd2baca22191801fc908653059b002a3392ae60ad"
+    },
+    {
+      "number": 147,
+      "id": "esc-programme-2026:p0147",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0147.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0147.md",
+      "derived_sha256": "52578972cbd32f547ec922fe7cbcbb183b66608442124698786fe3753a939021"
+    },
+    {
+      "number": 148,
+      "id": "esc-programme-2026:p0148",
+      "path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/pages/page-0148.md",
+      "active_path": "sources/esc-programme-2026/pages/page-0148.md",
+      "derived_sha256": "51f7cab8f566e5b9a3664c89439e6137862095702576974107e8ec25cc9be6e5"
+    }
+  ],
+  "full_path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e/full.md",
+  "full_sha256": "cef2b021530d050c716eaea2db8979650b4c93bb471f8c22fd6f236c91195aff",
+  "repaired_from_verified_original": [],
+  "extraction": "pdftotext -layout, physical one-based PDF pages",
+  "extracted_at": "2026-09-16"
+}

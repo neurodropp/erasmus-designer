@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-0feed74bc645",
+  "title": "Mobility projects for young people - “Youth Exchanges”",
+  "path": "raw/web/eu-guide-0feed74bc645.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-exchanges",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-exchanges",
+  "sha256": "af407970c387708d16872fee7a5e7b80c6f476260f4673603c8d9ee86a467e25",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "YOU"
+  ],
+  "actions": [
+    "KA152"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "af407970c387708d16872fee7a5e7b80c6f476260f4673603c8d9ee86a467e25",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-0feed74bc645:p0001",
+      "path": "sources/eu-guide-0feed74bc645/revisions/af407970c387708d16872fee7a5e7b80c6f476260f4673603c8d9ee86a467e25/pages/page-0001.md",
+      "active_path": "sources/eu-guide-0feed74bc645/pages/page-0001.md",
+      "derived_sha256": "67ec570f680f7ba423fe1d9793f6f3d7e20c2fd92e9b8b523363956dfcda7ebf"
+    }
+  ],
+  "full_path": "sources/eu-guide-0feed74bc645/revisions/af407970c387708d16872fee7a5e7b80c6f476260f4673603c8d9ee86a467e25/full.md",
+  "full_sha256": "67ec570f680f7ba423fe1d9793f6f3d7e20c2fd92e9b8b523363956dfcda7ebf",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

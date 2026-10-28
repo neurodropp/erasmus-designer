@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-8276c2ae022d",
+  "title": "Key action 3: Support to policy development and cooperation",
+  "path": "raw/web/eu-guide-8276c2ae022d.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-3",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-3",
+  "sha256": "124555fa0e26045bd46b9b896136b8b92687422aab0da8442275f666e9cca32a",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "124555fa0e26045bd46b9b896136b8b92687422aab0da8442275f666e9cca32a",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-8276c2ae022d:p0001",
+      "path": "sources/eu-guide-8276c2ae022d/revisions/124555fa0e26045bd46b9b896136b8b92687422aab0da8442275f666e9cca32a/pages/page-0001.md",
+      "active_path": "sources/eu-guide-8276c2ae022d/pages/page-0001.md",
+      "derived_sha256": "4abe81f470faddf24677ad352cadc37610aa03a1f20f38d139835f4620bb2643"
+    }
+  ],
+  "full_path": "sources/eu-guide-8276c2ae022d/revisions/124555fa0e26045bd46b9b896136b8b92687422aab0da8442275f666e9cca32a/full.md",
+  "full_sha256": "4abe81f470faddf24677ad352cadc37610aa03a1f20f38d139835f4620bb2643",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

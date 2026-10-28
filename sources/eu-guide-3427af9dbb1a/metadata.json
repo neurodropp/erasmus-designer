@@ -1,0 +1,38 @@
+{
+  "id": "eu-guide-3427af9dbb1a",
+  "title": "Mobility for pupils and staff in school education",
+  "path": "raw/web/eu-guide-3427af9dbb1a.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/school-pupils-and-staff",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/school-pupils-and-staff",
+  "sha256": "3668a2920baf0bbcb2f3f222733bb70bde2d897b7a3e18e295f73f5c61ea406e",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "SCH"
+  ],
+  "actions": [
+    "KA121-SCH",
+    "KA122-SCH"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "3668a2920baf0bbcb2f3f222733bb70bde2d897b7a3e18e295f73f5c61ea406e",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-3427af9dbb1a:p0001",
+      "path": "sources/eu-guide-3427af9dbb1a/revisions/3668a2920baf0bbcb2f3f222733bb70bde2d897b7a3e18e295f73f5c61ea406e/pages/page-0001.md",
+      "active_path": "sources/eu-guide-3427af9dbb1a/pages/page-0001.md",
+      "derived_sha256": "1674b5cd998dc6d7129c8443f5dd9a0e9117c4101275055f6956c2c4c65c2446"
+    }
+  ],
+  "full_path": "sources/eu-guide-3427af9dbb1a/revisions/3668a2920baf0bbcb2f3f222733bb70bde2d897b7a3e18e295f73f5c61ea406e/full.md",
+  "full_sha256": "1674b5cd998dc6d7129c8443f5dd9a0e9117c4101275055f6956c2c4c65c2446",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

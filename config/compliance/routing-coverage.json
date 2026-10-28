@@ -1,0 +1,1454 @@
+{
+  "schema_version": 1,
+  "id": "compliance-route-coverage",
+  "coverage_status": "explicitly-partial",
+  "actions": [
+    {
+      "action": "KA131",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        42,
+        72
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA171",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        42,
+        72
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        16,
+        17
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA120-VET",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "VET"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        73,
+        81
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA121-VET",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "VET"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        82,
+        102
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA122-VET",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "VET"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        82,
+        102
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        18,
+        20
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA120-SCH",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SCH"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        73,
+        81
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA121-SCH",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SCH"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        103,
+        122
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA122-SCH",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SCH"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        103,
+        122
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        18,
+        20
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA120-ADU",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "ADU"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        73,
+        81
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA121-ADU",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "ADU"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        123,
+        142
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA122-ADU",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "ADU"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        123,
+        142
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        18,
+        20
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA150",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "status": "targeted-partial",
+      "checklist_ids": [
+        "shared-review-baseline",
+        "ka150-2026"
+      ],
+      "item_ids": [
+        "ka150-experience",
+        "ka150-plan"
+      ],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        144,
+        148
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA151",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "status": "targeted-partial",
+      "checklist_ids": [
+        "shared-review-baseline",
+        "ka151-2026"
+      ],
+      "item_ids": [
+        "ka151-accreditation",
+        "ka151-activity-specific",
+        "ka151-allocation"
+      ],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        149,
+        151
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA152",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "status": "detailed-partial",
+      "checklist_ids": [
+        "shared-review-baseline",
+        "ka152-2026"
+      ],
+      "item_ids": [
+        "ka152-youth-planning",
+        "ka152-youth-preparation",
+        "ka152-youth-implementation",
+        "ka152-youth-follow-up",
+        "ka152-participation-proof",
+        "ka152-non-formal",
+        "ka152-partners",
+        "ka152-oid-cap",
+        "ka152-duration",
+        "ka152-participants",
+        "ka152-group-size",
+        "ka152-leaders",
+        "ka152-venue",
+        "ka152-neighbour-countries",
+        "ka152-timetable-annex",
+        "ka152-accession",
+        "ka152-preparatory",
+        "ka152-fees",
+        "ka152-standards",
+        "ka152-safety",
+        "ka152-needs",
+        "ka152-recognition",
+        "ka152-inclusion",
+        "ka152-priorities",
+        "ka152-green-digital",
+        "ka152-management",
+        "ka152-rubric"
+      ],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        152,
+        164
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        21,
+        25
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA153",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "status": "targeted-partial",
+      "checklist_ids": [
+        "shared-review-baseline",
+        "ka153-2026"
+      ],
+      "item_ids": [
+        "ka153-pda",
+        "ka153-workers-role",
+        "ka153-transfer",
+        "ka153-outreach",
+        "ka153-annex"
+      ],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        165,
+        179
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        26,
+        31
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA154",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "status": "targeted-partial",
+      "checklist_ids": [
+        "shared-review-baseline",
+        "ka154-2026"
+      ],
+      "item_ids": [
+        "ka154-meaningful",
+        "ka154-feedback",
+        "ka154-all-learning",
+        "ka154-events",
+        "ka154-excluded",
+        "ka154-eu-dimension"
+      ],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        180,
+        195
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        32,
+        37
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA155",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "status": "targeted-partial",
+      "checklist_ids": [
+        "shared-review-baseline",
+        "ka155-2026"
+      ],
+      "item_ids": [
+        "ka155-target",
+        "ka155-co-design",
+        "ka155-travel",
+        "ka155-fees",
+        "ka155-support",
+        "ka155-round"
+      ],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        196,
+        205
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        38,
+        41
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA182",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SPO"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        206,
+        215
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        42,
+        44
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "VIRTUAL-EXCHANGES",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED",
+        "YOU"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        216,
+        223
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA220-SCH",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SCH"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        235,
+        243
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        45,
+        57
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA220-ADU",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "ADU"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        235,
+        243
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        45,
+        57
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA220-VET",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "VET"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        235,
+        243
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        45,
+        57
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA220-HED",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        235,
+        243
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        45,
+        57
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA220-YOU",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "status": "targeted-partial",
+      "checklist_ids": [
+        "shared-review-baseline",
+        "ka220-you-2026"
+      ],
+      "item_ids": [
+        "ka220-you-youth-context",
+        "ka220-you-partners-role",
+        "ka220-you-youth-participation",
+        "ka220-you-wp-management",
+        "ka220-you-wp-count",
+        "ka220-you-impact",
+        "ka220-you-finance"
+      ],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        235,
+        243
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        45,
+        57
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA220-SPO",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SPO"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        235,
+        243
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA210-SCH",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SCH"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        244,
+        250
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        58,
+        64
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA210-ADU",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "ADU"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        244,
+        250
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        58,
+        64
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA210-VET",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "VET"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        244,
+        250
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        58,
+        64
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA210-YOU",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        244,
+        250
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        58,
+        64
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA210-SPO",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SPO"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        244,
+        250
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "KA240",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SCH"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        251,
+        257
+      ],
+      "expert_source": "expert-2026",
+      "expert_pages": [
+        65,
+        71
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "COVE",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "VET"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        259,
+        273
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "ERASMUS-MUNDUS",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        274,
+        288
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "ALLIANCES-INNOVATION",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED",
+        "VET"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        290,
+        313
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "CBHE",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        314,
+        331
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "CBVET",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "VET"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        332,
+        342
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "CBYOUTH",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        343,
+        351
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "CBSPORT",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SPO"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        352,
+        357
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "SPORT-EVENTS",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SPO"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        358,
+        363
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "EUROPEAN-YOUTH-TOGETHER",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        366,
+        374
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "JEAN-MONNET-HED",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        376,
+        391
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "JEAN-MONNET-SCH-VET",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SCH",
+        "VET"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        392,
+        402
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "JEAN-MONNET-NETWORKS",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED",
+        "SCH",
+        "VET"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "programme-2026",
+      "programme_pages": [
+        403,
+        412
+      ],
+      "expert_source": null,
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "ESC50-HOST-SUPPORT",
+      "program": "ESC",
+      "year": 2026,
+      "sectors": [
+        "ESC"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "esc-programme-2026",
+      "programme_pages": [
+        30,
+        39
+      ],
+      "expert_source": "esc-expert-2026",
+      "expert_pages": [
+        15,
+        19
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "ESC50-LEAD",
+      "program": "ESC",
+      "year": 2026,
+      "sectors": [
+        "ESC"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "esc-programme-2026",
+      "programme_pages": [
+        30,
+        39
+      ],
+      "expert_source": "esc-expert-2026",
+      "expert_pages": [
+        15,
+        22
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "ESC51",
+      "program": "ESC",
+      "year": 2026,
+      "sectors": [
+        "ESC"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "esc-programme-2026",
+      "programme_pages": [
+        40,
+        54
+      ],
+      "expert_source": "esc-expert-2026",
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "ESC30",
+      "program": "ESC",
+      "year": 2026,
+      "sectors": [
+        "ESC"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "esc-programme-2026",
+      "programme_pages": [
+        63,
+        69
+      ],
+      "expert_source": "esc-expert-2026",
+      "expert_pages": [
+        22,
+        25
+      ],
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "ESC-VTHPA",
+      "program": "ESC",
+      "year": 2026,
+      "sectors": [
+        "ESC"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "esc-programme-2026",
+      "programme_pages": [
+        55,
+        62
+      ],
+      "expert_source": "esc-expert-2026",
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "ESC-HUMAID-QL",
+      "program": "ESC",
+      "year": 2026,
+      "sectors": [
+        "ESC"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "esc-programme-2026",
+      "programme_pages": [
+        71,
+        79
+      ],
+      "expert_source": "esc-expert-2026",
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    },
+    {
+      "action": "ESC-HUMAID-VOL",
+      "program": "ESC",
+      "year": 2026,
+      "sectors": [
+        "ESC"
+      ],
+      "status": "routing-only-not-assessed",
+      "checklist_ids": [
+        "shared-review-baseline"
+      ],
+      "item_ids": [],
+      "programme_source": "esc-programme-2026",
+      "programme_pages": [
+        80,
+        88
+      ],
+      "expert_source": "esc-expert-2026",
+      "expert_pages": null,
+      "gaps": [
+        "Form actual and per-field rules not assessed",
+        "Current-round national provisions and budget rates require verification",
+        "Read full action, general conditions, applicable quality standards and build project-specific requirements matrix"
+      ],
+      "instruction": "Routing-only is not a passed compliance review; create source-grounded extension before approving relevant stage."
+    }
+  ],
+  "program": "SHARED",
+  "year": 2026,
+  "coverage": {
+    "status": "routing-only-with-partial-youth-extension",
+    "exhaustive": false
+  }
+}

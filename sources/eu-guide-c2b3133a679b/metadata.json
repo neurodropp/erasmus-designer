@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-c2b3133a679b",
+  "title": "Glossary of terms - Sport",
+  "path": "raw/web/eu-guide-c2b3133a679b.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d/sport",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d/sport?",
+  "sha256": "d3efad3dc248f687537ad75d888c2ac8ba8885ee56953aa04ccebe5f6df1d9fb",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "d3efad3dc248f687537ad75d888c2ac8ba8885ee56953aa04ccebe5f6df1d9fb",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-c2b3133a679b:p0001",
+      "path": "sources/eu-guide-c2b3133a679b/revisions/d3efad3dc248f687537ad75d888c2ac8ba8885ee56953aa04ccebe5f6df1d9fb/pages/page-0001.md",
+      "active_path": "sources/eu-guide-c2b3133a679b/pages/page-0001.md",
+      "derived_sha256": "bf6d83d7ee95dd3f2767a63199c6846dd6918f6ffed48011abc52eea1aea01fc"
+    }
+  ],
+  "full_path": "sources/eu-guide-c2b3133a679b/revisions/d3efad3dc248f687537ad75d888c2ac8ba8885ee56953aa04ccebe5f6df1d9fb/full.md",
+  "full_sha256": "bf6d83d7ee95dd3f2767a63199c6846dd6918f6ffed48011abc52eea1aea01fc",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

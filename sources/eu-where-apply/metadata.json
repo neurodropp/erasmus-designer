@@ -1,0 +1,38 @@
+{
+  "id": "eu-where-apply",
+  "title": "Erasmus+ - where to apply",
+  "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/how-to-apply/where-to-apply",
+  "path": "raw/web/eu-where-apply.html",
+  "kind": "routing",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "authority": "European Commission",
+  "year": 2026,
+  "language": "en",
+  "download": true,
+  "sha256": "a836b0e670d8573bf9b99df3a5f5ee8ed908f325a3da2fcb206d8a2098429b43",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/how-to-apply/where-to-apply",
+  "checked_at": "2026-09-12",
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "a836b0e670d8573bf9b99df3a5f5ee8ed908f325a3da2fcb206d8a2098429b43",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-where-apply:p0001",
+      "path": "sources/eu-where-apply/revisions/a836b0e670d8573bf9b99df3a5f5ee8ed908f325a3da2fcb206d8a2098429b43/pages/page-0001.md",
+      "active_path": "sources/eu-where-apply/pages/page-0001.md",
+      "derived_sha256": "c050b91001ea1d659468c36643d63a5267c820a336a1a09381c8b3d82360f9ca"
+    }
+  ],
+  "full_path": "sources/eu-where-apply/revisions/a836b0e670d8573bf9b99df3a5f5ee8ed908f325a3da2fcb206d8a2098429b43/full.md",
+  "full_sha256": "c050b91001ea1d659468c36643d63a5267c820a336a1a09381c8b3d82360f9ca",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

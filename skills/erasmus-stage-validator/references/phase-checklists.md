@@ -1,0 +1,27 @@
+# Phase Checklists
+
+This map guides the review; the exact criteria are selected for the route, located in the sources, and frozen in the package. This is not a new regulation. Apply cross-cutting action requirements even when they are not repeated in the table.
+
+| Technical phase | Evidence and artifacts to check | Decisive discrepancies |
+|---|---|---|
+| phase-zero (pre-file) | Identified idea version; substantive `brainstorm.md` and `brainstorm.json` with primary/alternative, provenance, and convergence; route shortlist and current sources; priority matrix; primary/secondary targets; multilevel causal chain; scale/tier scenarios; nine axes; recommendation and open questions | Divergence only asserted or alternative absent without a demonstrated exception; silent call default; decorative priorities; incompatible target; need or mechanism without evidence/plan; invented tier; confusion between output/outcome/impact; inferred user decision; `PROCEED` with an insufficient axis or hard blocker |
+| idea-validation | Brief with problem and target, actual route and role, preliminary eligibility, applicable priorities, alternatives, and constraints | Unobserved problem, priorities only nominally addressed, incompatible target/organization/activities, undeclared action change |
+| needs-impact-research | Register of original sources with quality/scope, baseline and authentic consultations, existing response and gap, change mechanism | EU data presented as local data, causality inferred without limits, invented consultations, exclusively favorable research |
+| concept-note | Readable concept with needs, provisional objectives, activities, results, partners/status, resources, and open questions | Outputs confused with changes, disproportionate scale, nonexistent confirmations, solution without a link to the problem |
+| intervention-design | needs→objectives→activities→outputs→results→impact model, priorities, indicators and assumptions, relevant scales | Missing links, invented baseline, decorative European impact, required participation or inclusion reduced to slogans |
+| work-packages | WP where relevant, tasks/activities, dependencies, schedule, skills/owners, preliminary budget, risk, and monitoring | Owner without documented capacity, impossible dependencies, incompatible costs, KA220 management above 20%, KA220 model imposed on another action |
+| partner-concept | Shareable concept, contributions/roles/workloads, real confirmations, negotiable points, and consistent allocations | Commitments asserted without evidence, contradictory responsibilities, submission/signature confused with drafting |
+| answer-outlines | Correct action/sector/round form, complete field/instance/limit matrix, linked criteria, evidence and budget for each response | Omitted field or instance, cap taken from another form, examples mistaken for facts, necessary item without space or evidence |
+| application-draft | Plain-text responses, actual counts, consistent model and evidence, responsiveness to the question, verified placeholders and limits | Over-limit even counting spaces/line breaks, same facts with different numbers, quality asserted without demonstration, participants described as passive recipients when the action requires an active role |
+| annexes | Manifest, dedicated owners, materialized files, appropriate schemas, reconciliation with model/WP/budget/Gantt/KPI, current upload | Annex required only by habit, incorrect/not-recalculated formulas declared valid, output only promised, agreement ready for signature without relevant checks |
+| review | Frozen application and annexes, applicable grid, criterion-level findings with locators/evidence and priority | Rubric from another action, subpoints presented as official scores, review without coverage, funding forecast |
+| repair | New model/artifacts, findings register, verifiable correction, and reopened dependencies | Finding closed by assertion, score increase without correction, budget/activity change not propagated |
+| qa | Identified complete version, all relevant gates, current requirements/form, counts, annexes, and resolved blockers | Acceptance of old version, changed hash, current requirement not verified, false readiness for signature/submission |
+
+## Compliance and Educational Quality
+
+For each route, check its specific checklist: participant/organization type, ages and countries, format/duration/number, role of target groups, educational quality, inclusion/accessibility, preparation and support, recognition of learning, safeguarding, follow-up, and relevant financial provisions. Do not impose every item on every action: require a source and explain what does not apply.
+
+For a Youth Exchange, verify young people's participation in preparation, implementation, and follow-up in the relevant data and products: what decisions they made, by what method, what responsibilities they exercise, how learning is recognized, and how feedback is collected. An adult's statement “young people will be involved” alone does not demonstrate co-design. Do not invent consultations that have already taken place: distinguish collected evidence from planned involvement.
+
+A rule that is valid but not yet verified for the current version/action is an open question. The validator refers to package evidence and, if needed, requests the relevant original passage; it does not independently construct a regulation by mixing Erasmus+, ESC, and historical templates.

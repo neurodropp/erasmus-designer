@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-3a7c0733edff",
+  "title": "Part C - Information for applicants",
+  "path": "raw/web/eu-guide-3a7c0733edff.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c",
+  "sha256": "a8d0a262d7513ebb3e1063a96f3c4533d4e69f6228887b8f5ee2fae79b423ba9",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "a8d0a262d7513ebb3e1063a96f3c4533d4e69f6228887b8f5ee2fae79b423ba9",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-3a7c0733edff:p0001",
+      "path": "sources/eu-guide-3a7c0733edff/revisions/a8d0a262d7513ebb3e1063a96f3c4533d4e69f6228887b8f5ee2fae79b423ba9/pages/page-0001.md",
+      "active_path": "sources/eu-guide-3a7c0733edff/pages/page-0001.md",
+      "derived_sha256": "99b80969c136e5b011803835dbad6a4d29255ead9ea901eb0a7328994a590041"
+    }
+  ],
+  "full_path": "sources/eu-guide-3a7c0733edff/revisions/a8d0a262d7513ebb3e1063a96f3c4533d4e69f6228887b8f5ee2fae79b423ba9/full.md",
+  "full_sha256": "99b80969c136e5b011803835dbad6a4d29255ead9ea901eb0a7328994a590041",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

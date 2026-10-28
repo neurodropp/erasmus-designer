@@ -1,0 +1,54 @@
+# Who can participate in the Erasmus+ Programme?
+
+Individuals constitute the main target population of Erasmus+. The Programme reaches these individuals through organisations, institutions, bodies, or groups that organise activities it supports. The conditions of access to the Programme therefore relate to these two actors: the "participants" (individuals taking part in the Erasmus+ project activities and who may receive part of EU grant intended to cover their costs of participation) and the "participating organisations"
+  1
+
+.(including informal groups of young people involved in an Erasmus+ project, as either applicants or partners and self-employed persons). For both participants and participating organisations, the conditions for participation depend on the country in which they are based.
+
+Participants in Erasmus+ project activities
+
+As a general rule, participants in Erasmus+ projects must be established in an EU Member State or third country associated to the Programme. Some Actions, notably in the fields of higher education, vocational education and training, youth and sport, are also open to participants from third countries not associated to the Programme.
+
+The specific conditions for participating in an Erasmus+ project depend on the type of Action concerned.
+
+In general terms, the main target groups are:
+
+for projects relevant for the field of higher education, the main targets are: higher education students (short cycle, first, second or third cycle), higher education teachers and professors, staff of higher education institutions, trainers and professionals in enterprises
+
+for projects relevant for the field of vocational education and training, the main targets are: apprentices and students in vocational education and training, professionals and trainers in vocational education and training, staff of initial vocational education and training organisations, trainers and professionals in enterprises
+
+for projects relevant for the field of school education, the main targets are: school leaders, school teachers and school staff, pupils in pre-primary, primary and secondary education
+
+for projects relevant for the field of adult education, the main targets are: members of non-vocational adult education organisations, trainers, staff and learners in non-vocational adult education
+
+for projects relevant for the youth field the main targets are: young people from 13 to 30
+  2
+
+, youth workers, staff and members of organisations active in the youth field
+
+for projects relevant to the field of sport, the main targets are: professionals and volunteers in the field of sport, athletes and coaches.
+
+For more details on the conditions for participation in each specific Action, please consult Part B of this Guide.
+
+Participating organisations
+
+Erasmus+ projects are submitted and implemented by participating organisations. If a project is selected, the applicant organisation becomes a beneficiary of an Erasmus+ grant. Beneficiaries sign a grant agreement which entitles them to receive financial support for the implementation of their project.
+
+As a general rule, organisations participating in Erasmus+ projects must be established in an EU Member State or third country associated to the Programme. Some Actions are also open to participating organisations from third countries not associated to the Programme, notably in the field of higher education, vocational education and training, youth and sport.
+
+The specific conditions for participating in an Erasmus+ project depend on the type of Action supported by the Programme. In general terms, the Programme is open to any organisation active in the fields of education, training, youth or sport. Several Actions are also open to the participation of other players in the labour market.
+
+For more details, please consult Part B of this Guide.
+
+Footnote
+
+Natural persons are not eligible to directly apply for a grant to the Erasmus+ National Agencies or the Executive Agency EACEA,with the exception of self-employed persons (i.e. sole traders, where the company does not have legal personality separate from that of the natural person).
+Entities which do not have legal personality under their national law may exceptionally participate, provided that their representatives have the capacity to undertake legal obligations on their behalf, and offer guarantees for the protection of the EU financial interests equivalent to that offered by legal persons.
+EU bodies (with the exception of the European Commission Joint Research Centre) cannot be part of the consortium.
+
+        ↩ back
+
+        Different age limits apply depending on the different types of activities. For more information please consult Part B of this Guide. Please also consider the following:  
+- lower age limits - participants must have reached the minimum age at the start date of the activity
+- upper age limits - participants must not be older than the indicated maximum age at the start date of the activity.
+        ↩ back

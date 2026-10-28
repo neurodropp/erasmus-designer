@@ -1,0 +1,61 @@
+# Key Action 1: Learning Mobility of Individuals
+
+The Actions supported under this Key Action are expected to bring positive and long-lasting effects on the participants and participating organisations involved, as well as on the policy systems in which such activities are framed.
+
+As regards pupils, students, trainees, apprentices, adult learners and young people, the mobility activities supported under this Key Action are meant to produce one or more of the following outcomes: 
+
+improved learning performance
+
+enhanced employability and improved career prospects
+
+increased sense of initiative and entrepreneurship
+
+increased self-empowerment and self-esteem
+
+improved foreign language and digital competences
+
+enhanced intercultural awareness
+
+more active participation in society
+
+enhanced positive interactions with people from different backgrounds
+
+better awareness of the European project and the EU values
+
+increased motivation for taking part in future (formal/non-formal) education or training after the mobility period abroad
+
+As regards staff, youth workers and professionals involved in education, training and youth, the mobility activities are expected to produce one or more of the following outcomes:
+
+improved competences, linked to their occupational profiles (teaching, training, youth work, etc.)
+
+broader understanding of practices, policies and systems in education, training or youth work across countries
+
+increased capacity to trigger changes in terms of modernisation and international opening within their educational organisations
+
+greater understanding of interconnections between formal and non-formal education, vocational training and the labour market respectively
+
+better quality of their work and activities in favour of students, trainees, apprentices, pupils, adult learners and young people
+
+greater understanding and responsiveness to all kinds of diversity, e.g. social, ethnic, linguistic, gender and cultural diversity, as well as diverse abilities
+
+increased ability to address the needs of people with fewer opportunities
+
+increased support for and promotion of mobility activities for learners
+
+increased opportunities for professional and career development
+
+improved foreign language and digital competences
+
+increased motivation and satisfaction in their daily work
+
+Activities supported under this Action are also expected to produce one or more of the following outcomes on participating organisations:
+
+increased capacity to operate at EU/international level: improved management skills and internationalisation strategies; reinforced cooperation with partners from other countries; increased allocation of financial resources (other than EU funds) to organise EU/international projects; increased quality in the preparation, implementation, monitoring and follow up of EU/international projects
+
+innovative and improved way of operating towards their target groups, by providing for example: more attractive programmes for students, trainees, apprentices and young people in line with their needs and expectations; improved qualifications of teaching and training staff; improved processes of recognition and validation of competences gained during learning periods abroad; more effective activities for the benefit of local communities, improved youth work methods and practices to actively involve young people and/or to address disadvantaged groups, etc.
+
+more ready to integrate good practices and new methods into daily activities; open to synergies with organisations active in different social, educational and employment fields; planning strategically the professional development of their staff in relation to individual needs and organisational objectives; maintaining communication, knowledge transfer and outreach of improvements if relevant, capable of attracting excellent students and academic staff from all over the world
+
+In the long run, the combined effect of the several thousands of projects supported under this Key Action is expected to have an impact on the systems of education, training and youth in the participating countries, stimulating policy reforms and attracting new resources for mobility opportunities in Europe and beyond.
+
+In this regard, the Programme will continue in 2026 to be mobilised to mitigate the socio-economic and educational consequences of the Russia's war of agression against Ukraine by supporting mobility projects that facilitate the integration of people fleeing the war in Ukraine.

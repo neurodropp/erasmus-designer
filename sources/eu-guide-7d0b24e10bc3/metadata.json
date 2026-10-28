@@ -1,0 +1,38 @@
+{
+  "id": "eu-guide-7d0b24e10bc3",
+  "title": "Alliances for innovation",
+  "path": "raw/web/eu-guide-7d0b24e10bc3.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/alliances-for-innovation",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/alliances-for-innovation",
+  "sha256": "e1cdabd7d12408e127804bf4ffeaa362845554cb6b74cef7c619942101fc350b",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "HED",
+    "VET"
+  ],
+  "actions": [
+    "ALLIANCES-INNOVATION"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "e1cdabd7d12408e127804bf4ffeaa362845554cb6b74cef7c619942101fc350b",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-7d0b24e10bc3:p0001",
+      "path": "sources/eu-guide-7d0b24e10bc3/revisions/e1cdabd7d12408e127804bf4ffeaa362845554cb6b74cef7c619942101fc350b/pages/page-0001.md",
+      "active_path": "sources/eu-guide-7d0b24e10bc3/pages/page-0001.md",
+      "derived_sha256": "ef3e5ea60c1e8127af4e375d4959684b395d72e3be5713f2c47145ed047d71ab"
+    }
+  ],
+  "full_path": "sources/eu-guide-7d0b24e10bc3/revisions/e1cdabd7d12408e127804bf4ffeaa362845554cb6b74cef7c619942101fc350b/full.md",
+  "full_sha256": "ef3e5ea60c1e8127af4e375d4959684b395d72e3be5713f2c47145ed047d71ab",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

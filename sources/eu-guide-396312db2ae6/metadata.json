@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-396312db2ae6",
+  "title": "Other important provisions",
+  "path": "raw/web/eu-guide-396312db2ae6.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/other-provisions",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/other-provisions",
+  "sha256": "3dd6df4e1076db34fd032a18bdb5accb49ea1fc96f989531ad2b530820045f08",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "3dd6df4e1076db34fd032a18bdb5accb49ea1fc96f989531ad2b530820045f08",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-396312db2ae6:p0001",
+      "path": "sources/eu-guide-396312db2ae6/revisions/3dd6df4e1076db34fd032a18bdb5accb49ea1fc96f989531ad2b530820045f08/pages/page-0001.md",
+      "active_path": "sources/eu-guide-396312db2ae6/pages/page-0001.md",
+      "derived_sha256": "26598c57a29460b26d32a3b8108045e2ef9700557256a1c8b162aa9874f8281e"
+    }
+  ],
+  "full_path": "sources/eu-guide-396312db2ae6/revisions/3dd6df4e1076db34fd032a18bdb5accb49ea1fc96f989531ad2b530820045f08/full.md",
+  "full_sha256": "26598c57a29460b26d32a3b8108045e2ef9700557256a1c8b162aa9874f8281e",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

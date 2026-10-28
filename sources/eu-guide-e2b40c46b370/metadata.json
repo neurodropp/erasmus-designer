@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-e2b40c46b370",
+  "title": "Capacity building in the field of youth",
+  "path": "raw/web/eu-guide-e2b40c46b370.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/capacity-building-youth",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/capacity-building-youth",
+  "sha256": "6b16dd656cba151e41f1404b6329957e697be1ef57973b545451644623e6fce7",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "YOU"
+  ],
+  "actions": [
+    "CBYOUTH"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "6b16dd656cba151e41f1404b6329957e697be1ef57973b545451644623e6fce7",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-e2b40c46b370:p0001",
+      "path": "sources/eu-guide-e2b40c46b370/revisions/6b16dd656cba151e41f1404b6329957e697be1ef57973b545451644623e6fce7/pages/page-0001.md",
+      "active_path": "sources/eu-guide-e2b40c46b370/pages/page-0001.md",
+      "derived_sha256": "df9db2cb8b2ef7def89cc094d337c7d4582067ea1e9e23857aff0e060679b2c0"
+    }
+  ],
+  "full_path": "sources/eu-guide-e2b40c46b370/revisions/6b16dd656cba151e41f1404b6329957e697be1ef57973b545451644623e6fce7/full.md",
+  "full_sha256": "df9db2cb8b2ef7def89cc094d337c7d4582067ea1e9e23857aff0e060679b2c0",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

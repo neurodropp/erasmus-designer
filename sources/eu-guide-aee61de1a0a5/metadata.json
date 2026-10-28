@@ -1,0 +1,38 @@
+{
+  "id": "eu-guide-aee61de1a0a5",
+  "title": "Mobility for learners and staff in vocational education and training",
+  "path": "raw/web/eu-guide-aee61de1a0a5.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/vet-learners-and-staff",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/vet-learners-and-staff",
+  "sha256": "451c919792de31d74b8a9ca1e8bb3397aaa315ab2c1b083f2ccacf9334c49852",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "VET"
+  ],
+  "actions": [
+    "KA121-VET",
+    "KA122-VET"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "451c919792de31d74b8a9ca1e8bb3397aaa315ab2c1b083f2ccacf9334c49852",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-aee61de1a0a5:p0001",
+      "path": "sources/eu-guide-aee61de1a0a5/revisions/451c919792de31d74b8a9ca1e8bb3397aaa315ab2c1b083f2ccacf9334c49852/pages/page-0001.md",
+      "active_path": "sources/eu-guide-aee61de1a0a5/pages/page-0001.md",
+      "derived_sha256": "a6fe0ba3b129cf197614b159f3132d1fdf6bb40351be6854c39593c53919e91f"
+    }
+  ],
+  "full_path": "sources/eu-guide-aee61de1a0a5/revisions/451c919792de31d74b8a9ca1e8bb3397aaa315ab2c1b083f2ccacf9334c49852/full.md",
+  "full_sha256": "a6fe0ba3b129cf197614b159f3132d1fdf6bb40351be6854c39593c53919e91f",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

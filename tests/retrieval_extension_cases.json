@@ -1,0 +1,57 @@
+[
+  {
+    "question": "ESC30 solidarity projects relevance 40 design 40 management 20",
+    "paraphrase": "ESC30 criteri progetti solidarietà soglie punteggio",
+    "page": "esc-2026-routing",
+    "sources": [
+      "esc-programme-2026",
+      "esc-expert-2026"
+    ]
+  },
+  {
+    "question": "ESC50 host support lead quality label pass fail",
+    "paraphrase": "ESC50 marchio qualità capofila ruoli accoglienza sostegno",
+    "page": "esc-2026-routing",
+    "sources": [
+      "esc-programme-2026",
+      "esc-expert-2026"
+    ]
+  },
+  {
+    "question": "activities-expected-results 250 wp-main-results 2000",
+    "paraphrase": "Risultati attesi delle attività limite 250 risultati principali WP 2000",
+    "page": "ka220-question-playbook",
+    "sources": [
+      "programme-2026",
+      "expert-2026",
+      "template-ka220-user"
+    ]
+  },
+  {
+    "question": "DEOR DUMMYFUNCTION cached errors budget template",
+    "paraphrase": "DEOR errori salvati formule LAMBDA template budget",
+    "page": "annex-template-catalog",
+    "sources": [
+      "template-task-file-2024",
+      "template-deor-budget-user"
+    ]
+  },
+  {
+    "question": "Gantt dipendenze work packages deliverable task owner annex",
+    "paraphrase": "annex-blueprints calendario WP deliverable responsabili",
+    "page": "annex-blueprints",
+    "sources": [
+      "template-task-file-2024",
+      "template-deor-budget-user"
+    ]
+  },
+  {
+    "question": "brainstorming needs impact partner concept answer outlines workflow",
+    "paraphrase": "workflow-erasmus-esc idea ricerca concept partner risposte allegati",
+    "page": "workflow-erasmus-esc",
+    "sources": [
+      "programme-2026",
+      "esc-programme-2026"
+    ]
+  }
+]

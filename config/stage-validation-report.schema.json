@@ -1,0 +1,275 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Independent step validation report",
+  "type": "object",
+  "required": [
+    "packet_id",
+    "packet_sha256",
+    "phase",
+    "reviewer_id",
+    "verdict",
+    "summary",
+    "checks",
+    "discrepancies",
+    "verification_limits",
+    "missing_information",
+    "critical_review",
+    "automatic_checks"
+  ],
+  "properties": {
+    "packet_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "packet_sha256": {
+      "type": "string",
+      "minLength": 1
+    },
+    "phase": {
+      "type": "string",
+      "minLength": 1
+    },
+    "reviewer_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "verdict": {
+      "enum": [
+        "accept",
+        "revise",
+        "blocked"
+      ]
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "checks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "status",
+          "reason",
+          "verification",
+          "evidence"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "pass",
+              "fail",
+              "unknown",
+              "not-applicable"
+            ]
+          },
+          "reason": {
+            "type": "string",
+            "minLength": 1
+          },
+          "evidence": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": [
+                "file_id",
+                "locator"
+              ],
+              "properties": {
+                "file_id": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "locator": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            }
+          },
+          "verification": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "discrepancies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "severity",
+          "classification",
+          "check_id",
+          "file_id",
+          "locator",
+          "problem",
+          "correction",
+          "reopen_phase"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "severity": {
+            "type": "string",
+            "minLength": 1,
+            "enum": [
+              "blocking",
+              "major",
+              "minor",
+              "editorial"
+            ]
+          },
+          "classification": {
+            "type": "string",
+            "minLength": 1,
+            "enum": [
+              "requirement",
+              "award-criterion",
+              "recommendation",
+              "good-practice",
+              "local-method",
+              "data-consistency",
+              "unknown"
+            ]
+          },
+          "check_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "file_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "locator": {
+            "type": "string",
+            "minLength": 1
+          },
+          "problem": {
+            "type": "string",
+            "minLength": 1
+          },
+          "correction": {
+            "type": "string",
+            "minLength": 1
+          },
+          "reopen_phase": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "verification_limits": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "missing_information": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "critical_review": {
+      "type": "object",
+      "required": [
+        "weaknesses",
+        "alternative",
+        "decision_basis"
+      ],
+      "properties": {
+        "weaknesses": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "alternative": {
+          "type": "string",
+          "minLength": 1
+        },
+        "decision_basis": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "automatic_checks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "status",
+          "reason",
+          "evidence"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "pass",
+              "fail",
+              "blocked",
+              "not-applicable"
+            ]
+          },
+          "reason": {
+            "type": "string",
+            "minLength": 1
+          },
+          "evidence": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": [
+                "file_id",
+                "locator"
+              ],
+              "properties": {
+                "file_id": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "locator": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            }
+          },
+          "command": {
+            "type": "string",
+            "minLength": 1
+          },
+          "result": {
+            "type": "object"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "eu-guide-d446592dfb84",
+  "title": "Erasmus accreditation in the fields of vocational education and training, school education and adult education",
+  "path": "raw/web/eu-guide-d446592dfb84.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/erasmus-accreditation-vet-schools-adult-education",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/erasmus-accreditation-vet-schools-adult-education",
+  "sha256": "7108831bd876559353b4fb53e9f17955fda52df1b220270afe5b277bdb991ca0",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ADU",
+    "SCH",
+    "VET"
+  ],
+  "actions": [
+    "KA120-ADU",
+    "KA120-SCH",
+    "KA120-VET"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "7108831bd876559353b4fb53e9f17955fda52df1b220270afe5b277bdb991ca0",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-d446592dfb84:p0001",
+      "path": "sources/eu-guide-d446592dfb84/revisions/7108831bd876559353b4fb53e9f17955fda52df1b220270afe5b277bdb991ca0/pages/page-0001.md",
+      "active_path": "sources/eu-guide-d446592dfb84/pages/page-0001.md",
+      "derived_sha256": "d3b9ce3ed6228f5f5dafd873cf37fe80245bc6cc7aa10f7e439b28e17ebc54a8"
+    }
+  ],
+  "full_path": "sources/eu-guide-d446592dfb84/revisions/7108831bd876559353b4fb53e9f17955fda52df1b220270afe5b277bdb991ca0/full.md",
+  "full_sha256": "d3b9ce3ed6228f5f5dafd873cf37fe80245bc6cc7aa10f7e439b28e17ebc54a8",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

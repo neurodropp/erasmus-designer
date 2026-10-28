@@ -1,0 +1,38 @@
+{
+  "id": "eu-guide-d72d9939d95b",
+  "title": "Jean Monnet teacher training",
+  "path": "raw/web/eu-guide-d72d9939d95b.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/teacher-training",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/teacher-training",
+  "sha256": "453fd5a03308b2bcfbf47511238bb021cce062a6802a5db9c8c6f1eaf9c37538",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "SCH",
+    "VET"
+  ],
+  "actions": [
+    "JEAN-MONNET-SCH-VET"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "453fd5a03308b2bcfbf47511238bb021cce062a6802a5db9c8c6f1eaf9c37538",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-d72d9939d95b:p0001",
+      "path": "sources/eu-guide-d72d9939d95b/revisions/453fd5a03308b2bcfbf47511238bb021cce062a6802a5db9c8c6f1eaf9c37538/pages/page-0001.md",
+      "active_path": "sources/eu-guide-d72d9939d95b/pages/page-0001.md",
+      "derived_sha256": "428812f730a367f56f7d5c6085fe231f3363d3648507f64f37d2fb1dcbc2484f"
+    }
+  ],
+  "full_path": "sources/eu-guide-d72d9939d95b/revisions/453fd5a03308b2bcfbf47511238bb021cce062a6802a5db9c8c6f1eaf9c37538/full.md",
+  "full_sha256": "428812f730a367f56f7d5c6085fe231f3363d3648507f64f37d2fb1dcbc2484f",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

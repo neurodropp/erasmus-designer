@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-deb828a818c8",
+  "title": "Part A: General information about the Erasmus+ Programme",
+  "path": "raw/web/eu-guide-deb828a818c8.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a",
+  "sha256": "9a2e0c8d805dbd90002aa3d23d484fa1ce1bac8ce05584fefb524de6d0c6bb2d",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "9a2e0c8d805dbd90002aa3d23d484fa1ce1bac8ce05584fefb524de6d0c6bb2d",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-deb828a818c8:p0001",
+      "path": "sources/eu-guide-deb828a818c8/revisions/9a2e0c8d805dbd90002aa3d23d484fa1ce1bac8ce05584fefb524de6d0c6bb2d/pages/page-0001.md",
+      "active_path": "sources/eu-guide-deb828a818c8/pages/page-0001.md",
+      "derived_sha256": "8fcf5bde62254f912678afa4b239bbf04f2773d102d739835f146095487dc59a"
+    }
+  ],
+  "full_path": "sources/eu-guide-deb828a818c8/revisions/9a2e0c8d805dbd90002aa3d23d484fa1ce1bac8ce05584fefb524de6d0c6bb2d/full.md",
+  "full_sha256": "8fcf5bde62254f912678afa4b239bbf04f2773d102d739835f146095487dc59a",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

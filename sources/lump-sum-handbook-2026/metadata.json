@@ -1,0 +1,296 @@
+{
+  "id": "lump-sum-handbook-2026",
+  "title": "Handbook on the lump sum funding model - Call 2026",
+  "url": "https://www.erasmusplus.sk/erasmus_2021_2027/doc/vyzva/2026/Handbook_on_the_lump_sum_funding_model_2026.pdf",
+  "path": "raw/pdf/lump-sum-handbook-2026.pdf",
+  "kind": "funding-handbook",
+  "sectors": [
+    "SCH",
+    "ADU",
+    "VET",
+    "HED",
+    "YOU"
+  ],
+  "actions": [
+    "KA210",
+    "KA220",
+    "KA240"
+  ],
+  "authority": "European Commission - official national-agency mirror",
+  "year": 2026,
+  "language": "en",
+  "download": true,
+  "sha256": "c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0",
+  "resolved_url": "https://www.erasmusplus.sk/erasmus_2021_2027/doc/vyzva/2026/Handbook_on_the_lump_sum_funding_model_2026.pdf",
+  "checked_at": "2026-09-12",
+  "program": "ERASMUS",
+  "pages": 37,
+  "original_sha256": "c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "lump-sum-handbook-2026:p0001",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0001.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0001.md",
+      "derived_sha256": "1fdb882555a4e369acb22ad6d1325e930d524c937ddfeb457e298cd3230614cc"
+    },
+    {
+      "number": 2,
+      "id": "lump-sum-handbook-2026:p0002",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0002.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0002.md",
+      "derived_sha256": "90699e2216eee4c62dd271a700828f337ee1dfca2a50583462ee28b25f10c381"
+    },
+    {
+      "number": 3,
+      "id": "lump-sum-handbook-2026:p0003",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0003.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0003.md",
+      "derived_sha256": "6e2032cf58d164898abe8ef09fe83788b351ef240a883e3dd06e0f7ba656a56c"
+    },
+    {
+      "number": 4,
+      "id": "lump-sum-handbook-2026:p0004",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0004.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0004.md",
+      "derived_sha256": "adfe8c5adf8552daf3d7f98771d60f92ba1b66468e8231c4275e1e85bb404072"
+    },
+    {
+      "number": 5,
+      "id": "lump-sum-handbook-2026:p0005",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0005.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0005.md",
+      "derived_sha256": "1ec3b24d7c149eefbd3d90b497623007618b518a10fb9ea9926b99d77b3cd1c9"
+    },
+    {
+      "number": 6,
+      "id": "lump-sum-handbook-2026:p0006",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0006.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0006.md",
+      "derived_sha256": "7178253973fd3713eac201d1a06ed4ea139ac3e8cc300a21c027925669d00fe3"
+    },
+    {
+      "number": 7,
+      "id": "lump-sum-handbook-2026:p0007",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0007.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0007.md",
+      "derived_sha256": "5b2a7625aa552691f524ddee2ff920586d3f6fd9be5611937ca4b1dcf182abbf"
+    },
+    {
+      "number": 8,
+      "id": "lump-sum-handbook-2026:p0008",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0008.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0008.md",
+      "derived_sha256": "c57365455c04b3325d171fc6f4aeea82f3fd97282ce1a822b5eb8d1c88c3a6d2"
+    },
+    {
+      "number": 9,
+      "id": "lump-sum-handbook-2026:p0009",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0009.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0009.md",
+      "derived_sha256": "ede67096d5f99218c450e27b51847d2d3292a36a0f72d1e89e8900a1ef499299"
+    },
+    {
+      "number": 10,
+      "id": "lump-sum-handbook-2026:p0010",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0010.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0010.md",
+      "derived_sha256": "9785d143e49bebeeceb8bd26e37c84fa1d585a67d81144a20ffb4c454d99422d"
+    },
+    {
+      "number": 11,
+      "id": "lump-sum-handbook-2026:p0011",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0011.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0011.md",
+      "derived_sha256": "b0c439007425aa106bee679a10d13dadc2903c82930184b7bcebd797f16e94a5"
+    },
+    {
+      "number": 12,
+      "id": "lump-sum-handbook-2026:p0012",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0012.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0012.md",
+      "derived_sha256": "c4d651d6038b3ef9aad6ea1923096bd36b0d311d32fe254635dca85e59225ea6"
+    },
+    {
+      "number": 13,
+      "id": "lump-sum-handbook-2026:p0013",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0013.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0013.md",
+      "derived_sha256": "51f36ce9fdcebc42088a6a607d182e253fdd7c4d5ca64a237ebf98945043a59b"
+    },
+    {
+      "number": 14,
+      "id": "lump-sum-handbook-2026:p0014",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0014.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0014.md",
+      "derived_sha256": "fda509de94e10cc54e74ac78bfd9107e6107a1d934479f2ca96ff2c7a4970ad4"
+    },
+    {
+      "number": 15,
+      "id": "lump-sum-handbook-2026:p0015",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0015.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0015.md",
+      "derived_sha256": "562fda36d3fee29077b4cdc5d2a50e981bcef9982532dee0eb6377bee933bcf4"
+    },
+    {
+      "number": 16,
+      "id": "lump-sum-handbook-2026:p0016",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0016.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0016.md",
+      "derived_sha256": "dc2c5a39392c7fd82468d2a70e298d4903c9d9cf524e7c39dfc9077e9ba75bb4"
+    },
+    {
+      "number": 17,
+      "id": "lump-sum-handbook-2026:p0017",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0017.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0017.md",
+      "derived_sha256": "370f1a554c39186f186f064c4dc35e07818116b7d0f305fc44ebb6c88cc3f3e7"
+    },
+    {
+      "number": 18,
+      "id": "lump-sum-handbook-2026:p0018",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0018.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0018.md",
+      "derived_sha256": "a016f076f37f87d2e82de4a7a30a834935ebe6e24ccb7ada1936c395146205ce"
+    },
+    {
+      "number": 19,
+      "id": "lump-sum-handbook-2026:p0019",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0019.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0019.md",
+      "derived_sha256": "c332b3c2f9dd7a8c816c31f9b85c2a3efb4fc7d322d234701c5112a842d7be0b"
+    },
+    {
+      "number": 20,
+      "id": "lump-sum-handbook-2026:p0020",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0020.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0020.md",
+      "derived_sha256": "0d19c5e3317c04e73a94a1d5f7811e7fdc52b83c9cd9e6919a836dbdc697002e"
+    },
+    {
+      "number": 21,
+      "id": "lump-sum-handbook-2026:p0021",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0021.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0021.md",
+      "derived_sha256": "fd3a50408b8d3541b3f0839895b11bbd6a2f07e2a3629cb5f03139ef5ced06f9"
+    },
+    {
+      "number": 22,
+      "id": "lump-sum-handbook-2026:p0022",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0022.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0022.md",
+      "derived_sha256": "04d15cef38aca603de927874cfca77de1272d06589362592149f86a65eb849bf"
+    },
+    {
+      "number": 23,
+      "id": "lump-sum-handbook-2026:p0023",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0023.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0023.md",
+      "derived_sha256": "256df905b1b10829e2046bc0f0a66a41f54db33c0c9d718a9eb085fa0ea5072b"
+    },
+    {
+      "number": 24,
+      "id": "lump-sum-handbook-2026:p0024",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0024.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0024.md",
+      "derived_sha256": "18242c168ca4e9d4942411df296daddda56d51dcf8a739b845fd50e52b6805c7"
+    },
+    {
+      "number": 25,
+      "id": "lump-sum-handbook-2026:p0025",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0025.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0025.md",
+      "derived_sha256": "50026f7ffb6b9c5e1dac2e97dacb3e938541a2b475c0ca9a02b488aa43e84be5"
+    },
+    {
+      "number": 26,
+      "id": "lump-sum-handbook-2026:p0026",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0026.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0026.md",
+      "derived_sha256": "5a46aba3c96be934e5d7474353c2ddd39f1e74473736f7d48e28021dc7cf937d"
+    },
+    {
+      "number": 27,
+      "id": "lump-sum-handbook-2026:p0027",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0027.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0027.md",
+      "derived_sha256": "1e21b062f85c9e1850324c2918ea6e669c0fec3d628317b6363383a183f37c1b"
+    },
+    {
+      "number": 28,
+      "id": "lump-sum-handbook-2026:p0028",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0028.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0028.md",
+      "derived_sha256": "77d2272688cc84132b1da619d75f23891ca26791074e2930a4dd5ccbe5032b28"
+    },
+    {
+      "number": 29,
+      "id": "lump-sum-handbook-2026:p0029",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0029.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0029.md",
+      "derived_sha256": "b3ac1ae0482e13442a1c6077b14288d41112e765090c84a81f953b74a60b03e5"
+    },
+    {
+      "number": 30,
+      "id": "lump-sum-handbook-2026:p0030",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0030.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0030.md",
+      "derived_sha256": "56bc77677db6586756c59465d860ec8bc484529ee848ab78fc09994c1cff3087"
+    },
+    {
+      "number": 31,
+      "id": "lump-sum-handbook-2026:p0031",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0031.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0031.md",
+      "derived_sha256": "bb2d5de5b2193acd3d2cfa3dabbcdf9f7df63c46f12ea21835d90b26fad51cfc"
+    },
+    {
+      "number": 32,
+      "id": "lump-sum-handbook-2026:p0032",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0032.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0032.md",
+      "derived_sha256": "3f6eb41d58b73e630ff86ed08aa85ebbee5395be611721d0aa9da19ec1fe1f7a"
+    },
+    {
+      "number": 33,
+      "id": "lump-sum-handbook-2026:p0033",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0033.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0033.md",
+      "derived_sha256": "0824a0074b5609f776760a4a3485d562516ffa5358147a51a6045a562863e563"
+    },
+    {
+      "number": 34,
+      "id": "lump-sum-handbook-2026:p0034",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0034.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0034.md",
+      "derived_sha256": "fdd0de257289afa8459b95762d4bd0cbf5ad8ae76790487ae390a9a7f57ba799"
+    },
+    {
+      "number": 35,
+      "id": "lump-sum-handbook-2026:p0035",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0035.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0035.md",
+      "derived_sha256": "60927e894b9acd93f0be17b46c6221b54148da2f349f02f7a252c5b0ce27ebcb"
+    },
+    {
+      "number": 36,
+      "id": "lump-sum-handbook-2026:p0036",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0036.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0036.md",
+      "derived_sha256": "a436a67e92de112c2eda287fba63b17fa92a1e9a4508df0708c036288cac82e8"
+    },
+    {
+      "number": 37,
+      "id": "lump-sum-handbook-2026:p0037",
+      "path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/pages/page-0037.md",
+      "active_path": "sources/lump-sum-handbook-2026/pages/page-0037.md",
+      "derived_sha256": "6d40e04d997398717f059f9752519a3a1308485ca859672b205b96cb47f6ab68"
+    }
+  ],
+  "full_path": "sources/lump-sum-handbook-2026/revisions/c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0/full.md",
+  "full_sha256": "2a2a19a3f9c146fccdd33e35a57140658ac7d6392619986d3696a87c956a2464",
+  "repaired_from_verified_original": [],
+  "extraction": "pdftotext -layout, physical one-based PDF pages",
+  "extracted_at": "2026-09-16"
+}

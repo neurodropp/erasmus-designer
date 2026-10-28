@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "coverage_status": "targeted-partial",
+  "verified_at": "2026-09-12",
+  "source_authority": "Exact user-supplied program guide 2026 and immutable local evidence; live official sections checked for corroboration, not blanket freshness certification",
+  "live_checks": [
+    {
+      "action": "KA152",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-exchanges",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA153",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/mobility-youth-workers",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA154",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-participation",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA155",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/discovereu",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA150",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/erasmus-accreditation-youth",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA220-YOU",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/cooperation-partnerships",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA151",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/accredited-youth-organisations",
+      "checked_at": "2026-09-12",
+      "status": "direct-open-failed; local guide verified; live route needs verification"
+    }
+  ],
+  "id": "ka154-2026",
+  "scope": {
+    "program": "ERASMUS",
+    "year": 2026,
+    "actions": [
+      "KA154"
+    ],
+    "sectors": [
+      "YOU"
+    ]
+  },
+  "program": "ERASMUS",
+  "year": 2026,
+  "actions": [
+    "KA154"
+  ],
+  "coverage": {
+    "status": "targeted-partial",
+    "exhaustive": false
+  },
+  "checks": [
+    {
+      "id": "ka154-meaningful",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA154"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "award-criterion",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Meaningful participation of young people at all stages, with adaptable intensity but aligned with the principles; do not transform meetings organized by adults into only nominal participation.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 183; Setting up a project",
+          "page": 183,
+          "section": "Setting up a project",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0183.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        },
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 184; Setting up a project",
+          "page": 184,
+          "section": "Setting up a project",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0184.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA154"
+      ]
+    },
+    {
+      "id": "ka154-feedback",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA154"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "recommendation",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Follow-up with return to young people of the concrete results and how communicated/used by the stakeholders.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 184; Follow up",
+          "page": 184,
+          "section": "Follow-up",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0184.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA154"
+      ]
+    },
+    {
+      "id": "ka154-all-learning",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA154"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "requirement",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Support reflection and documentation of the learning of all participants, even beyond the group preparing/implementing the project, in particular Youthpass.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 184; Learning process",
+          "page": 184,
+          "section": "Learning process",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0184.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA154"
+      ]
+    },
+    {
+      "id": "ka154-events",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA154"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "requirement",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Event financing: physically present audience larger than just the implementing group; participation in a third-party event does not generate event-specific funding; distinguish event with/without mobility.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 182; Youth participation events",
+          "page": 182,
+          "section": "Youth participation events",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0182.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        },
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 183; Youth participation events",
+          "page": 183,
+          "section": "Youth participation events",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0183.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA154"
+      ]
+    },
+    {
+      "id": "ka154-excluded",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA154"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "requirement",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Excludes statutory meetings, partisan political events and permanent physical infrastructure; mobility must support other project activities.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 182; Supported activities and costs",
+          "page": 182,
+          "section": "Supported activities and costs",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0182.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        },
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 183; Supported activities and costs",
+          "page": 183,
+          "section": "Supported activities and costs",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0183.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA154"
+      ]
+    },
+    {
+      "id": "ka154-eu-dimension",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA154"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "award-criterion",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Even a national project must have a European dimension and connection with EU values/themes, civic participation and opportunities to influence decisions.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 182; Description of activities",
+          "page": 182,
+          "section": "Description of activities",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0182.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA154"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-2ffb02941ee4",
+  "title": "What happens when the application is approved?",
+  "path": "raw/web/eu-guide-2ffb02941ee4.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/after-approval",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/after-approval",
+  "sha256": "23419c5397caec61dbf3ed71242d143d61360c955302ff2a19ef151266a2be02",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "23419c5397caec61dbf3ed71242d143d61360c955302ff2a19ef151266a2be02",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-2ffb02941ee4:p0001",
+      "path": "sources/eu-guide-2ffb02941ee4/revisions/23419c5397caec61dbf3ed71242d143d61360c955302ff2a19ef151266a2be02/pages/page-0001.md",
+      "active_path": "sources/eu-guide-2ffb02941ee4/pages/page-0001.md",
+      "derived_sha256": "120b2ba339634f81d09051184863d73c933aa8d5100f00b7d164447b4d6b81e6"
+    }
+  ],
+  "full_path": "sources/eu-guide-2ffb02941ee4/revisions/23419c5397caec61dbf3ed71242d143d61360c955302ff2a19ef151266a2be02/full.md",
+  "full_sha256": "120b2ba339634f81d09051184863d73c933aa8d5100f00b7d164447b4d6b81e6",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

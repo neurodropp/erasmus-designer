@@ -1,0 +1,264 @@
+{
+  "schema_version": "replication-requirements-v1",
+  "inventory_date": "2026-09-13",
+  "language": "it",
+  "status": "release_tooling_implemented_destination_not_tested",
+  "guide": "docs/replication.md",
+  "scope": {
+    "engine": [
+      "AGENTS.md",
+      "README.md",
+      "scripts/",
+      "skills/",
+      "config/",
+      "docs/",
+      "tests/",
+      "wiki/",
+      "raw/",
+      "sources/",
+      "index/*.json",
+      "vendor/lwc/package.json",
+      "vendor/lwc/package-lock.json",
+      "requirements-import.txt",
+      "requirements-import.lock.txt"
+    ],
+    "canonical_memory": ".lwc/",
+    "rebuildable_evidence_index": "index/evidence.sqlite",
+    "new_project_root": "projects/",
+    "historical_project_root": "wiki/projects/",
+    "application_copy_policy": "separate_selective_copy_with_hash_manifest",
+    "layout_contract": "config/project-layout.json",
+    "resolver": "scripts/project_paths.py",
+    "example_new_project_id": "base--ka220-youth--2026",
+    "verify_layout_command_on_transferred_revision": true
+  },
+  "required_runtime": [
+    {
+      "name": "python",
+      "minimum_version": "3.11",
+      "reason": "stdlib tools; install_project_agents.py imports tomllib"
+    },
+    {
+      "name": "node",
+      "minimum_version": "22",
+      "reason": "official @i-xor/lwc npm package engines and native binary installer"
+    },
+    {
+      "name": "npm",
+      "reason": "npm ci with preserved vendor/lwc/package-lock.json"
+    },
+    {
+      "name": "POSIX shell",
+      "reason": "scripts/lwc uses /bin/sh, executable permissions and project-local native binary"
+    },
+    {
+      "name": "authenticated Codex host",
+      "reason": "local project discovery, tools, account model availability and policy verified on destination"
+    }
+  ],
+  "optional_runtime": [
+    {
+      "name": "python-docx",
+      "used_by": "scripts/extract_application_template.py",
+      "required_when": "reextract original DOCX"
+    },
+    {
+      "name": "openpyxl",
+      "used_by": "scripts/extract_annex_templates.py",
+      "required_when": "reextract original XLSX"
+    },
+    {
+      "name": "Poppler pdftotext",
+      "used_by": "scripts/brain.py",
+      "required_when": "extract PDF sources or rebuild requiring PDF extraction"
+    },
+    {
+      "name": "PDF rendering tools",
+      "required_when": "visual QA of PDF artifacts"
+    },
+    {
+      "name": "document/spreadsheet artifact skill runtimes",
+      "required_when": "authoring or rendering DOCX/XLSX artifacts; reinstall or use destination bundled runtimes"
+    }
+  ],
+  "lwc": {
+    "package": "@i-xor/lwc",
+    "pinned_version": "0.18.5",
+    "manifest_range_observed": "^0.18.5",
+    "lockfile": "vendor/lwc/package-lock.json",
+    "installation_command_on_destination": "npm ci",
+    "installation_workdir": "vendor/lwc",
+    "native_binary_policy": "reinstall for destination OS and architecture; do not copy node_modules or native binaries",
+    "official_repository": "https://github.com/JanYork/llm-wiki-cli",
+    "supported_upstream_platforms": [
+      "macOS x64/arm64",
+      "glibc Linux x64/arm64",
+      "Windows x64/arm64"
+    ],
+    "project_wrapper_windows_native_status": "unsupported_by_current_shell_wrapper_and_not_tested",
+    "windows_route": "WSL glibc environment with Python, Node and wrapper/MCP executed in same environment; verify host integration",
+    "canonical_policy": "SQLite authoritative; only scripts/lwc CLI mutations; generated Markdown is projection",
+    "source_mapping": "index/lwc-source-map.json",
+    "archive_commands": [
+      "scripts/lwc lint",
+      "scripts/lwc checkpoint create before-replication-2026-09-12",
+      "scripts/lwc compress /authorized/path/erasmus-memory.lwc.zst"
+    ],
+    "import_command": "scripts/lwc decompress /authorized/path/erasmus-memory.lwc.zst",
+    "import_policy": "empty destination memory; no automatic overwrite; validate IDs, citations and source-map after import",
+    "backup_policy": "stop active readers/writers and copy complete .lwc including present WAL/SHM and checkpoints; never copy only live wiki.db",
+    "checkpoint_vs_compress": "checkpoint preserves complete database recovery state; compress is portable semantic memory archive; not assumed byte-identical or equivalent retention",
+    "compact_vs_compress": "maintenance compact claims derived/WAL storage; not an archive export; inspector busy",
+    "known_recovery_limitation": "LWC0.18.5 sparse draft foreign-key failure documented; explicit checkpoint/live CLI recovery only, not automatic",
+    "recovery_reference": "docs/validation-orchestrator.md",
+    "forbidden_bootstrap_shortcut": "do not run scripts/sync_lwc.py to overwrite richer maintained memory",
+    "source_identity_reference": "index/lwc-source-identities.json",
+    "post_import_map_reconciliation": "scripts/reconcile_lwc_sources.py --apply on destination only after reviewing hash-based plan",
+    "import_numeric_ids_observed": "remapped in real local empty-root CLI import; do not reuse old numeric map"
+  },
+  "codex_project": {
+    "skill_count": 29,
+    "native_agent_definition_count": 29,
+    "specialists": 28,
+    "coordinator_definitions": 1,
+    "annex_owner_count": 16,
+    "installer": "scripts/install_project_agents.py",
+    "regenerate_on_destination": [
+      ".codex/config.toml",
+      ".codex/agents/",
+      ".agents/skills"
+    ],
+    "conflict_policy": "preserve customizations separately, compare before regeneration; installer refuses conflicting configuration and preserves existing agent definitions",
+    "model_policy": "project-owned definitions omit model selection; inherit coordinator unless destination host/account overrides",
+    "maximum_total_agents_including_coordinator": 4,
+    "maximum_concurrent_specialists": 3,
+    "config_semantics": "OpenAI documents max_concurrent_threads_per_session as spawned children excluding primary; destination configuration must enforce project total limit",
+    "mcp": {
+      "name": "erasmus_wiki",
+      "command": "destination-root/scripts/lwc",
+      "args": [
+        "serve",
+        "--mcp"
+      ],
+      "capability": "read-only retrieval; authorized knowledge mutations via CLI"
+    },
+    "reload_required": true,
+    "missing_multiagent_tools": "serial production possible; independent accepted fresh-step-v1 gates require actual fresh fork none spawn and observed distinct identity",
+    "not_copied": [
+      "model weights",
+      "account entitlements",
+      "agent processes",
+      "MCP processes",
+      "credentials",
+      "client session state",
+      "plugin connections"
+    ],
+    "maximum_spawned_threads_config_value": 3
+  },
+  "exclude_from_operational_copy": [
+    "vendor/**/node_modules/",
+    "native binaries",
+    "virtualenvs",
+    "caches",
+    "__pycache__/",
+    "*.pyc",
+    "tmp/",
+    "index/evidence.sqlite*",
+    ".codex/config.toml",
+    ".codex/agents/",
+    ".agents/skills",
+    "personal ~/.codex profile",
+    "tokens/cookies/credentials",
+    "global runtime plugin caches"
+  ],
+  "preserve_as_history": [
+    "frozen validation packets",
+    "archived accepted/review receipts",
+    "observed spawn/session receipts within selected application dossiers",
+    "immutable source revisions",
+    "original source IDs, hashes and provenance"
+  ],
+  "relocation": {
+    "source_origin_absolute_paths": "may refer to old computer; immutable cited content retained; live status may be unresolved",
+    "validation_receipt_absolute_paths": "not automatically portable; do not rewrite frozen files to repair locations",
+    "strategy": "record old-root to new-root mapping and hashes externally; use read-only audit if available; create new baseline and invalidate first affected stage for resumed changed inputs",
+    "automatic_archive_rewrite": false,
+    "audit_cli_status": "scripts/relocation_audit.py implements read-only explicit-root mapping/hash audit; no archive rewriting or automatic gate acceptance",
+    "corpus_year": 2026,
+    "online_call_freshness_asserted": false
+  },
+  "destination_acceptance_checks": [
+    "file/hash manifest comparison",
+    "Python/Node/npm/LWC version and platform",
+    "regenerated Codex paths and discovery",
+    "LWC doctor/lint, maintained search, cited page/source retrieval",
+    "imported source IDs and citations vs source-map",
+    "brain rebuilding of only rebuildable evidence index then brain check",
+    "relevant unittest regressions",
+    "dossier status and read-only relocation audit if supported",
+    "observed bounded fresh spawn if host offers multiagent tools",
+    "write destination result receipt with limitations before declaring operational"
+  ],
+  "never_implied": [
+    "transfer already tested on another PC",
+    "cloud upload authorized",
+    "partner contact authorized",
+    "submission authorized",
+    "signature authorized",
+    "funding guaranteed",
+    "historic receipts validate new host inputs"
+  ],
+  "primary_sources_checked": [
+    {
+      "title": "OpenAI desktop app",
+      "url": "https://learn.chatgpt.com/docs/app",
+      "checked_at": "2026-09-12"
+    },
+    {
+      "title": "OpenAI subagents",
+      "url": "https://learn.chatgpt.com/docs/agent-configuration/subagents",
+      "checked_at": "2026-09-12"
+    },
+    {
+      "title": "LWC official README",
+      "url": "https://github.com/JanYork/llm-wiki-cli/blob/main/README.md",
+      "checked_at": "2026-09-12"
+    }
+  ],
+  "local_sources_checked": [
+    "AGENTS.md",
+    "scripts/install_project_agents.py",
+    "scripts/lwc",
+    "scripts/*.py imports",
+    "config/agent-registry.json",
+    ".codex/config.toml",
+    ".codex/agents/",
+    "skills/*/SKILL.md",
+    "vendor/lwc/package.json",
+    "vendor/lwc/package-lock.json",
+    "vendor/lwc/node_modules/@i-xor/lwc/package.json",
+    "vendor/lwc/node_modules/@i-xor/lwc/README.md",
+    "raw/tooling/lwc-npm-metadata.json",
+    "scripts/lwc compress --help",
+    "scripts/lwc decompress --help",
+    "scripts/lwc checkpoint --help",
+    "scripts/lwc maintenance compact --help",
+    "docs/validation-orchestrator.md"
+  ],
+  "optional_extraction_requirements": "requirements-import.txt",
+  "optional_extraction_lock": "requirements-import.lock.txt",
+  "release": {
+    "version_contract": "config/engine-version.json",
+    "tool": "scripts/release_bundle.py",
+    "guide": "docs/release-bundles.md",
+    "versioning": "private immutable ZIP releases with external SHA256 manifests",
+    "runtime_installation_implied": false
+  },
+  "working_memory": {
+    "project": "projects/<ID>/memory/",
+    "engine": "work/engine-memory/",
+    "canonical": "append-only event log and hash chain; local index rebuildable",
+    "default_export": "engine memory included, candidate memory only with explicitly selected projects",
+    "separate_from_normative_LWC": true
+  }
+}

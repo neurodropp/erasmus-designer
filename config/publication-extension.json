@@ -1,0 +1,503 @@
+{
+  "sources": [
+    "esc-programme-2026",
+    "esc-expert-2026",
+    "esc-aig-allocation-2026",
+    "esc-documents-resources",
+    "esc-calls-2026",
+    "esc-aig-apply-2026",
+    "esc-aig-allocation-news-2026"
+  ],
+  "pages": [
+    {
+      "path": "wiki/actions/ka131.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka171.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka120-vet.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka121-vet.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka122-vet.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka120-sch.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka121-sch.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka122-sch.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka120-adu.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka121-adu.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka122-adu.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka150.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka151.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka152.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka153.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka154.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka155.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka182.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/virtual-exchanges.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka220-sch.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka220-adu.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka220-vet.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka220-hed.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka220-you.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka220-spo.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka210-sch.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka210-adu.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka210-vet.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka210-you.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka210-spo.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/ka240.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/cove.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/erasmus-mundus.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/alliances-innovation.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/cbhe.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/cbvet.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/cbyouth.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/cbsport.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/sport-events.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/european-youth-together.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/jean-monnet-hed.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/jean-monnet-sch-vet.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/jean-monnet-networks.md",
+      "sources": [
+        "programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/esc50-host-support.md",
+      "sources": [
+        "esc-programme-2026",
+        "esc-expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/esc50-lead.md",
+      "sources": [
+        "esc-programme-2026",
+        "esc-expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/esc51.md",
+      "sources": [
+        "esc-programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/esc30.md",
+      "sources": [
+        "esc-programme-2026",
+        "esc-expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/esc-vthpa.md",
+      "sources": [
+        "esc-programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/esc-humaid-ql.md",
+      "sources": [
+        "esc-programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/actions/esc-humaid-vol.md",
+      "sources": [
+        "esc-programme-2026"
+      ]
+    },
+    {
+      "path": "wiki/topics/workflow-erasmus-esc.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026",
+        "esc-programme-2026",
+        "esc-expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/templates/project-memory-contract.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026",
+        "esc-programme-2026",
+        "esc-expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/templates/response-contract.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026",
+        "esc-programme-2026",
+        "esc-expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/templates/annex-template-catalog.md",
+      "sources": [
+        "programme-2026",
+        "lump-sum-handbook-2026"
+      ]
+    },
+    {
+      "path": "wiki/templates/annex-blueprints.md",
+      "sources": [
+        "programme-2026",
+        "lump-sum-handbook-2026"
+      ]
+    },
+    {
+      "path": "wiki/templates/ka220-question-playbook.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/research/esc-2026-routing.md",
+      "sources": [
+        "esc-programme-2026",
+        "esc-expert-2026",
+        "esc-aig-allocation-2026",
+        "esc-documents-resources",
+        "esc-calls-2026",
+        "esc-aig-apply-2026",
+        "esc-aig-allocation-news-2026"
+      ]
+    },
+    {
+      "path": "wiki/indice-azioni.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026",
+        "esc-programme-2026",
+        "esc-expert-2026"
+      ]
+    },
+    {
+      "path": "wiki/indice-fonti.md",
+      "sources": [
+        "programme-2026",
+        "expert-2026",
+        "indire-sch-adu-2026",
+        "indire-hed-2026",
+        "inapp-priorities-2026",
+        "inapp-faq-ka2-2026",
+        "aig-priorities-2026",
+        "indire-inclusion-2026",
+        "lump-sum-handbook-2026",
+        "eu-programme-version",
+        "italy-official-documents",
+        "italy-deadlines-2026",
+        "eu-where-apply",
+        "eu-guide-be6881b7bbb2",
+        "eu-guide-3a7c0733edff",
+        "eu-guide-deb828a818c8",
+        "eu-guide-32f92e65130e",
+        "eu-guide-de9ad805f1fe",
+        "eu-guide-d3fd02cbb735",
+        "eu-guide-9ea1c2797683",
+        "eu-guide-ad8ed6a9b98a",
+        "eu-guide-3b9fca0360ab",
+        "eu-guide-8dc6135c00f6",
+        "eu-guide-7fb1965d6f59",
+        "eu-guide-73da94471c83",
+        "eu-guide-b3abbf35cd52",
+        "eu-guide-21abc928ce56",
+        "eu-guide-bb0ff02e1522",
+        "eu-guide-1343d5e7bd3b",
+        "eu-guide-038b6d9b44fd",
+        "eu-guide-808653561462",
+        "eu-guide-3427af9dbb1a",
+        "eu-guide-4f3e65261af0",
+        "eu-guide-7313d2861676",
+        "eu-guide-2776fdafedf1",
+        "eu-guide-e5270c4e915c",
+        "eu-guide-d72d9939d95b",
+        "eu-guide-59b7eb5c87b3",
+        "eu-guide-4feba8e3e6c8",
+        "eu-guide-46abeaa2ee7a",
+        "eu-guide-d446592dfb84",
+        "eu-guide-5d25c7c5be36",
+        "eu-guide-aee61de1a0a5",
+        "eu-guide-906a018a9583",
+        "eu-guide-1ca8ebcae572",
+        "eu-guide-0feed74bc645",
+        "eu-guide-e82fb0c80fda",
+        "eu-guide-f1d5cade6a08",
+        "eu-guide-282593d8ded9",
+        "eu-guide-d1612b1a4e83",
+        "eu-guide-c15a00ea26f4",
+        "eu-guide-7c8e6e3770e2",
+        "eu-guide-e2b40c46b370",
+        "eu-guide-7d0b24e10bc3",
+        "eu-guide-20c574f0d080",
+        "eu-guide-53b5ff81fc31",
+        "eu-guide-17318a93d656",
+        "eu-guide-5df6bf6eebf0",
+        "eu-guide-59c7ba134ffe",
+        "eu-guide-468ccd1ea4d2",
+        "eu-guide-2c34e31ff487",
+        "eu-guide-27e92ba6a030",
+        "eu-guide-8276c2ae022d",
+        "eu-guide-9f93009e70f1",
+        "eu-guide-a1c9773829ab",
+        "eu-guide-ffae20fec023",
+        "eu-guide-0829e756a3e9",
+        "eu-guide-1f7abde4e855",
+        "eu-guide-e368b4eab739",
+        "eu-guide-99535b1cfe2c",
+        "eu-guide-866bf1cc65e5",
+        "eu-guide-396312db2ae6",
+        "eu-guide-2ffb02941ee4",
+        "eu-guide-58636e225d09",
+        "eu-guide-9260dd5f11ea",
+        "eu-guide-9b5391655c4c",
+        "eu-guide-8aacbf03eb3d",
+        "eu-guide-b300f3a7bd2c",
+        "eu-guide-c2b3133a679b",
+        "eu-guide-916e4f6928c5",
+        "eu-guide-97557dc0c8c9",
+        "quality-standards-mobility",
+        "quality-standards-youth",
+        "salto-participation-toolkit",
+        "salto-inclusion-design",
+        "impacttool-netherlands",
+        "eu-project-results",
+        "esc-programme-2026",
+        "esc-expert-2026",
+        "esc-aig-allocation-2026",
+        "esc-documents-resources",
+        "esc-calls-2026",
+        "esc-aig-apply-2026",
+        "esc-aig-allocation-news-2026"
+      ]
+    }
+  ]
+}

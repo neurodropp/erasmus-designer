@@ -1,0 +1,171 @@
+{
+  "schema": "routing-labels-v1",
+  "scope": "Instrumented model selection, not host implicit-discovery benchmark",
+  "cases": [
+    {
+      "id": "R001",
+      "acceptable_primary_skills": [
+        "erasmus-project-design"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R002",
+      "acceptable_primary_skills": [
+        "erasmus-budget"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R003",
+      "acceptable_primary_skills": [
+        "erasmus-annex-budget"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R004",
+      "acceptable_primary_skills": [
+        "erasmus-annex-branding"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R005",
+      "acceptable_primary_skills": [
+        "erasmus-annex-meetings-evidence"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R006",
+      "acceptable_primary_skills": [
+        "erasmus-wayfinder"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R007",
+      "acceptable_primary_skills": [
+        "erasmus-designer"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R008",
+      "acceptable_primary_skills": [
+        "erasmus-answer-planning"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R009",
+      "acceptable_primary_skills": [
+        "erasmus-application-writing"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R010",
+      "acceptable_primary_skills": [
+        "erasmus-evaluator"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R011",
+      "acceptable_primary_skills": [
+        "erasmus-stage-validator"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R012",
+      "acceptable_primary_skills": [
+        "erasmus-project-memory"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R013",
+      "acceptable_primary_skills": [
+        "erasmus-knowledge-maintenance"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R014",
+      "acceptable_primary_skills": [
+        "erasmus-evidence-eligibility"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R015",
+      "acceptable_primary_skills": [
+        "esc-evidence-eligibility"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R016",
+      "acceptable_primary_skills": [
+        "erasmus-annex-activity-timetable"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R017",
+      "acceptable_primary_skills": [
+        "erasmus-quality-impact"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R018",
+      "acceptable_primary_skills": [
+        "erasmus-annex-kpi"
+      ],
+      "ambiguous": false
+    },
+    {
+      "id": "R019",
+      "acceptable_primary_skills": [],
+      "ambiguous": false
+    },
+    {
+      "id": "R020",
+      "acceptable_primary_skills": [],
+      "ambiguous": false
+    },
+    {
+      "id": "R021",
+      "acceptable_primary_skills": [],
+      "ambiguous": false
+    },
+    {
+      "id": "R022",
+      "acceptable_primary_skills": [
+        "erasmus-annex-branding",
+        "erasmus-annex-meetings-evidence"
+      ],
+      "ambiguous": true
+    },
+    {
+      "id": "R023",
+      "acceptable_primary_skills": [
+        "erasmus-budget",
+        "erasmus-annex-budget"
+      ],
+      "ambiguous": true
+    },
+    {
+      "id": "R024",
+      "acceptable_primary_skills": [
+        "erasmus-evaluator",
+        "erasmus-stage-validator"
+      ],
+      "ambiguous": true
+    }
+  ]
+}

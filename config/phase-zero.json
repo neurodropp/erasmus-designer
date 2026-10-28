@@ -1,0 +1,233 @@
+{
+  "schema_version": "phase-zero-policy-v1",
+  "authority": "user-authorized-operational-method-not-new-grant-rule",
+  "active_year": 2026,
+  "workspace": "work/idea-lab/<slug>--<year>/",
+  "route_identity_fields": [
+    "program",
+    "year",
+    "action",
+    "sector",
+    "country",
+    "agency",
+    "role",
+    "round"
+  ],
+  "purpose": "Free but recorded co-creation before a route-typed candidature dossier exists",
+  "brainstorming": {
+    "schema_version": "phase-zero-brainstorm-v1",
+    "free_record": "brainstorm.md",
+    "structured_record": "brainstorm.json",
+    "minimum": "One primary formulation and at least one relevant alternative across problem, primary target, mechanism and scale, with provenance and convergence reasons",
+    "exception": "If no relevant alternative can be constructed, record a localized evidence-backed reason and owner; the validator judges whether the exception is credible",
+    "binding": "idea_version must equal the reviewed decision version"
+  },
+  "next_project_phase": "idea-validation",
+  "recommendations": [
+    "PROCEED",
+    "REFINE",
+    "PIVOT",
+    "STOP"
+  ],
+  "recommendation_meanings": {
+    "PROCEED": "The exact route/call context is verified enough for a project dossier; no decisive mismatch remains and open questions have credible owners/plans. This authorizes only handoff to idea-validation.",
+    "REFINE": "The core route and problem are plausible, but material assumptions, targets, causal links, scale or evidence need bounded repair before handoff.",
+    "PIVOT": "A valuable problem remains, but route, target, mechanism, solution or scale is materially misaligned; compare and select a substantially different option.",
+    "STOP": "No credible supported route/problem fit remains, or an ethical/legal/mission incompatibility makes further candidacy design unjustified on current evidence."
+  },
+  "decision_precedence": [
+    "STOP when a decisive incompatibility has no credible repair or pivot",
+    "PIVOT when the problem remains valuable but a core route/target/mechanism/scale mismatch requires a different concept",
+    "REFINE when the core concept remains plausible and gaps can be resolved without changing its identity",
+    "PROCEED only when every mandatory axis is adequate and no hard blocker remains"
+  ],
+  "mandatory_axes": {
+    "route_call_fit": [
+      "adequate",
+      "research-needed",
+      "conflict"
+    ],
+    "priority_contribution": [
+      "operational",
+      "plausible",
+      "nominal",
+      "conflict"
+    ],
+    "primary_target_fit": [
+      "aligned",
+      "conditional",
+      "mismatch"
+    ],
+    "secondary_target_fit": [
+      "aligned",
+      "conditional",
+      "inflated-or-mismatch"
+    ],
+    "need_evidence": [
+      "supported",
+      "plausible",
+      "research-needed",
+      "unsupported"
+    ],
+    "causal_chain": [
+      "coherent",
+      "repairable",
+      "broken"
+    ],
+    "scale_budget_fit": [
+      "proportionate",
+      "needs-rescope",
+      "incompatible",
+      "not-applicable"
+    ],
+    "capability_partner_fit": [
+      "plausible",
+      "gap",
+      "incompatible"
+    ],
+    "european_added_value": [
+      "specific",
+      "plausible",
+      "weak-or-nominal"
+    ]
+  },
+  "proceed_requires": {
+    "route_call_fit": "adequate",
+    "priority_contribution": [
+      "operational",
+      "plausible"
+    ],
+    "primary_target_fit": "aligned",
+    "secondary_target_fit": [
+      "aligned",
+      "conditional"
+    ],
+    "need_evidence": [
+      "supported",
+      "plausible"
+    ],
+    "causal_chain": "coherent",
+    "scale_budget_fit": [
+      "proportionate",
+      "not-applicable"
+    ],
+    "capability_partner_fit": "plausible",
+    "european_added_value": [
+      "specific",
+      "plausible"
+    ],
+    "fresh_validation": "accept",
+    "human_choice": "observed for exact idea version and selected route"
+  },
+  "hard_blockers": [
+    "No exact supported/current route can plausibly host the intervention",
+    "Primary participants/beneficiaries, organisations, activities or geography conflict with the selected call",
+    "Problem is unsupported and there is no credible evidence plan",
+    "Solution has no plausible mechanism linking it to the stated problem",
+    "Scale/resource model is incompatible with the call and cannot be rescaled without changing the concept",
+    "Critical organisational/partner capacity is absent with no credible acquisition plan",
+    "Ethical, safeguarding, legal or mission incompatibility"
+  ],
+  "priority_layers": [
+    {
+      "id": "call-action-authority",
+      "role": "decisive",
+      "contents": "Current Program Guide/call, exact action objectives and priorities, eligibility, award criteria, national provisions when applicable"
+    },
+    {
+      "id": "erasmus-programme-priorities",
+      "role": "official-programme-context",
+      "contents": "Horizontal and sector-specific Erasmus+ priorities actually applicable to the route"
+    },
+    {
+      "id": "eu-policy-bridges",
+      "role": "contextual-coherence-unless-incorporated-by-applicable-call",
+      "contents": "European Youth Goals/EU Youth Strategy and other verified EU frameworks relevant to target and mechanism. If the exact action/call explicitly incorporates one, record that official role and locator; otherwise it remains contextual and never substitutes call fit or becomes an invented award criterion."
+    }
+  ],
+  "route_discovery": {
+    "when_missing": "Search current official calls and the registered route catalogue; return a shortlist, not a silent default",
+    "shortlist_fields": [
+      "program",
+      "year",
+      "call-or-action",
+      "sector",
+      "agency-or-management",
+      "role",
+      "deadline-or-round",
+      "eligible-primary-target",
+      "activities",
+      "duration",
+      "funding-model",
+      "budget-tiers-if-any",
+      "priority-fit",
+      "award-fit",
+      "decisive-mismatches",
+      "source-and-verified-at"
+    ],
+    "selection_rule": "Compare at least one credible alternative when available and preserve why it was rejected; unresolved current-call evidence prevents PROCEED"
+  },
+  "targets": {
+    "primary": "People or organizations directly experiencing the evidenced need and intended direct change; must match the exact call role/participant/beneficiary rules.",
+    "secondary": "Actors indirectly benefiting, enabling implementation, adoption or wider effects; must be separately named and must not inflate eligible participant or direct beneficiary counts.",
+    "required_fields": [
+      "definition",
+      "age-or-organisational-type",
+      "territory",
+      "disadvantage-or-access-factors",
+      "baseline-or-evidence-gap",
+      "expected-direct-or-indirect-change",
+      "role-in-co-design",
+      "call-fit-source"
+    ]
+  },
+  "causal_chain": {
+    "sequence": [
+      "needs",
+      "problems",
+      "solutions",
+      "activities",
+      "outputs",
+      "results",
+      "impact"
+    ],
+    "required_for_each_link": [
+      "claim",
+      "target",
+      "mechanism-or-rationale",
+      "evidence-status",
+      "assumption",
+      "risk-or-external-factor",
+      "test-or-next-evidence"
+    ],
+    "impact_levels": [
+      "participant-or-individual",
+      "organisation",
+      "local-or-community",
+      "sector-or-system",
+      "European"
+    ],
+    "impact_policy": "Use only relevant levels, distinguish contribution from attribution, and do not treat dissemination reach as impact."
+  },
+  "budget_scale": {
+    "policy": "Retrieve the exact current financial model before using amounts; budget tiers may be official options, estimates or not applicable and these statuses must remain distinct.",
+    "phase_zero_fields": [
+      "verified-financial-model",
+      "allowed-tiers-or-rates",
+      "candidate-tier",
+      "activity-resource-envelope",
+      "participants-partners-duration",
+      "tier-choice-rationale",
+      "rescope-alternative",
+      "unknowns-and-owner"
+    ],
+    "limit": "Phase0 tests proportionality and strategic feasibility; it does not create the detailed budget or declare costs eligible."
+  },
+  "human_and_fresh_gates": {
+    "assistant_output": "Evidence-based recommendation with weaknesses, alternatives and strengthening directions",
+    "human_output": "Observed choice of exact version and route; not approval of a nomination bundle",
+    "validator_output": "Independent accept/revise/blocked on evidence, internal coherence and recommendation discipline; not preference substitution or official scoring",
+    "promotion": "Only accepted PROCEED plus observed human route/version choice may create a projects/<ID>/ dossier; idea-validation remains mandatory"
+  },
+  "reasoning_record_policy": "Store alternatives, decision matrix, evidence, assumptions, unresolved questions and concise reasons; never store private chain-of-thought."
+}

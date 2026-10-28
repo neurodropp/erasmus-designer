@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-9b5391655c4c",
+  "title": "Part D – Glossary of terms",
+  "path": "raw/web/eu-guide-9b5391655c4c.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d?",
+  "sha256": "45beceb7f931f9fb6b0c7727b53021d7e6b18df55650287059abf5a49a7bf300",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "45beceb7f931f9fb6b0c7727b53021d7e6b18df55650287059abf5a49a7bf300",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-9b5391655c4c:p0001",
+      "path": "sources/eu-guide-9b5391655c4c/revisions/45beceb7f931f9fb6b0c7727b53021d7e6b18df55650287059abf5a49a7bf300/pages/page-0001.md",
+      "active_path": "sources/eu-guide-9b5391655c4c/pages/page-0001.md",
+      "derived_sha256": "fc16a18482185d6727eca84ccc6dae45e569a967847699c358264cd5ffc00b19"
+    }
+  ],
+  "full_path": "sources/eu-guide-9b5391655c4c/revisions/45beceb7f931f9fb6b0c7727b53021d7e6b18df55650287059abf5a49a7bf300/full.md",
+  "full_sha256": "fc16a18482185d6727eca84ccc6dae45e569a967847699c358264cd5ffc00b19",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

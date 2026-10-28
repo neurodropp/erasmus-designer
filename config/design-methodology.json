@@ -1,0 +1,66 @@
+{
+  "schema_version": "design-methodology-v1",
+  "authority": "user-authorized-operational-method-not-new-grant-requirement",
+  "active_year": 2026,
+  "shared_contract": "docs/design-methodology.md",
+  "model_version": "project-model-v2",
+  "design_product": "design/design-plan-vN.md",
+  "answer_product": "application/answer-plan-vN.md",
+  "product_policy": "Versioned phase step-products; preserve accepted bytes, invalidate owning/dependent phase before replacement",
+  "handbook": {
+    "source_id": "lump-sum-handbook-2026",
+    "programme": "ERASMUS",
+    "actions": [
+      "KA210",
+      "KA220",
+      "KA240"
+    ],
+    "sectors": [
+      "SCH",
+      "ADU",
+      "VET",
+      "HED",
+      "YOU"
+    ],
+    "jurisdiction": "NA",
+    "url": "https://www.erasmusplus.sk/erasmus_2021_2027/doc/vyzva/2026/Handbook_on_the_lump_sum_funding_model_2026.pdf",
+    "note": "KA240 is SCH only; KA210 has no HED route. Actual route/catalog governs each action/sector. Program Guide/call prevails; no application to centralized Sport/ENGO or KA1/ESC."
+  },
+  "impact_tools": [
+    {
+      "id": "impacttool-ka1",
+      "program": "ERASMUS",
+      "family": "KA1",
+      "url": "https://www.erasmusplus.nl/en/impacttool-mobility",
+      "authority": "Dutch National Agency methodological tool; not call rule",
+      "source_id": "impacttool-mobility-complete"
+    },
+    {
+      "id": "impacttool-ka2",
+      "program": "ERASMUS",
+      "family": "KA2",
+      "url": "https://www.erasmusplus.nl/en/impacttool-strategicpartnerships",
+      "authority": "Dutch National Agency methodological tool; other KA2 formats adapt only with explicit rationale",
+      "source_id": "impacttool-partnerships"
+    }
+  ],
+  "coverage_policy": "Retrieve complete current route award criteria; mapping per element and question/instance with official vs editorial status; administrative NA reason; no official subpoints per question",
+  "checklist": "config/compliance/design-methodology-2026.json",
+  "product_phases": {
+    "design": {
+      "integrated": "intervention-design",
+      "compact": "design"
+    },
+    "answers": {
+      "integrated": "answer-outlines",
+      "compact": "draft"
+    }
+  },
+  "phase_zero": {
+    "policy": "config/phase-zero.json",
+    "workspace": "work/idea-lab/<slug>--<year>/",
+    "product": "phase-zero-decision.md plus immutable structured decision/checklist evidence",
+    "relationship": "Pre-dossier co-creation and route discovery; accepted PROCEED plus observed human route/version choice creates a route-typed dossier whose first phase remains idea-validation",
+    "model_policy": "No parallel project.json before promotion; provisional values ​​remain hypotheses in idea-lab"
+  }
+}

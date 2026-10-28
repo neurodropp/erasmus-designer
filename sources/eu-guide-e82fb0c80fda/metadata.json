@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-e82fb0c80fda",
+  "title": "Learning mobility in the field of youth",
+  "path": "raw/web/eu-guide-e82fb0c80fda.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-learning-mobility",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-learning-mobility",
+  "sha256": "34f28cd29c9a8758660d2ed1250a55ef6fa961abbd854039417f2f3897f8b6ee",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "34f28cd29c9a8758660d2ed1250a55ef6fa961abbd854039417f2f3897f8b6ee",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-e82fb0c80fda:p0001",
+      "path": "sources/eu-guide-e82fb0c80fda/revisions/34f28cd29c9a8758660d2ed1250a55ef6fa961abbd854039417f2f3897f8b6ee/pages/page-0001.md",
+      "active_path": "sources/eu-guide-e82fb0c80fda/pages/page-0001.md",
+      "derived_sha256": "c32d2921119c8f26c281e72a4eeec25cf13420f0f00399aa9ec33fe361088042"
+    }
+  ],
+  "full_path": "sources/eu-guide-e82fb0c80fda/revisions/34f28cd29c9a8758660d2ed1250a55ef6fa961abbd854039417f2f3897f8b6ee/full.md",
+  "full_sha256": "c32d2921119c8f26c281e72a4eeec25cf13420f0f00399aa9ec33fe361088042",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

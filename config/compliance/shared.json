@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "id": "shared-review-baseline",
+  "scope": {
+    "program": "SHARED",
+    "actions": [
+      "ALL"
+    ],
+    "year": 2026
+  },
+  "classification": "good-practice",
+  "coverage_status": "operational-baseline-not-normative",
+  "program": "SHARED",
+  "year": 2026,
+  "actions": [
+    "ALL"
+  ],
+  "coverage": {
+    "status": "operational-baseline-not-normative",
+    "exhaustive": false
+  },
+  "checks": [
+    {
+      "id": "shared-scope",
+      "classification": "good-practice",
+      "stages": [
+        "ALL"
+      ],
+      "check": "Block silent transfers of year, program, action, sector, role, management and rounds.",
+      "evidence_needed": [
+        "Project identity and current-call evidence"
+      ],
+      "authority": "Local assistant process policy derived from user request; not a grant eligibility rule",
+      "applicability": "Every project stage",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    },
+    {
+      "id": "shared-live",
+      "classification": "good-practice",
+      "stages": [
+        "ALL"
+      ],
+      "check": "Check guide/corrigenda, call, form, competent agency and current national provisions; Local integrity is not the same as online updating.",
+      "evidence_needed": [
+        "Official URLs with date, version and relevant passage"
+      ],
+      "authority": "Local assistant process policy derived from user request; not a grant eligibility rule",
+      "applicability": "Every project stage",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    },
+    {
+      "id": "shared-full-route",
+      "classification": "good-practice",
+      "stages": [
+        "ALL"
+      ],
+      "check": "Open entire section of the action, general conditions and relevant expert source; expand checklist by countries, organizations, age, duration, activities, budget, deadlines and attachments.",
+      "evidence_needed": [
+        "Coverage matrix with every relevant section and outstanding gaps"
+      ],
+      "authority": "Local assistant process policy derived from user request; not a grant eligibility rule",
+      "applicability": "Every project stage",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    },
+    {
+      "id": "shared-facts",
+      "classification": "good-practice",
+      "stages": [
+        "ALL"
+      ],
+      "check": "Separate real data, hypotheses, future plans and examples; do not invent consultations, young people/partners already involved or results.",
+      "evidence_needed": [
+        "Origin and status of the claims"
+      ],
+      "authority": "Local assistant process policy derived from user request; not a grant eligibility rule",
+      "applicability": "Every project stage",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    },
+    {
+      "id": "shared-logic",
+      "classification": "good-practice",
+      "stages": [
+        "ALL"
+      ],
+      "check": "Check needs→objectives→activities→outputs→results→impact and proportionality of resources.",
+      "evidence_needed": [
+        "Master data and evidence links"
+      ],
+      "authority": "Local assistant process policy derived from user request; not a grant eligibility rule",
+      "applicability": "Every project stage",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    },
+    {
+      "id": "shared-critique",
+      "classification": "good-practice",
+      "stages": [
+        "ALL"
+      ],
+      "check": "Evaluate observed weaknesses, alternatives and well-founded decisions; no complacency or invented defects.",
+      "evidence_needed": [
+        "Critical review"
+      ],
+      "authority": "Local assistant process policy derived from user request; not a grant eligibility rule",
+      "applicability": "Every project stage",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    },
+    {
+      "id": "shared-form",
+      "classification": "good-practice",
+      "stages": [
+        "ALL"
+      ],
+      "check": "Check each question/instance/real form limit and applicability; check conservative character count.",
+      "evidence_needed": [
+        "Verified profile; answer report"
+      ],
+      "authority": "Local assistant process policy derived from user request; not a grant eligibility rule",
+      "applicability": "Every project stage",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    },
+    {
+      "id": "shared-annex",
+      "classification": "good-practice",
+      "stages": [
+        "ALL"
+      ],
+      "check": "Attachments consistent with master data; required only with current source; draft contracts distinct from those ready for signature.",
+      "evidence_needed": [
+        "Annex manifest and owner reports"
+      ],
+      "authority": "Local assistant process policy derived from user request; not a grant eligibility rule",
+      "applicability": "Every project stage",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    },
+    {
+      "id": "shared-fresh",
+      "classification": "good-practice",
+      "stages": [
+        "ALL"
+      ],
+      "check": "Independent validator receives frozen artifacts, sources, outline/checklist and neutral mandate, without conversation, desired conclusions or persuasive self-assessment.",
+      "evidence_needed": [
+        "Packet identity, hashes, findings with localized proofs"
+      ],
+      "authority": "Local assistant process policy derived from user request; not a grant eligibility rule",
+      "applicability": "Every project stage",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    },
+    {
+      "id": "shared-coverage",
+      "classification": "good-practice",
+      "stages": [
+        "ALL"
+      ],
+      "check": "Never call a partial checklist complete compliance; each item has an outcome, evidence, NA rationale, and severity.",
+      "evidence_needed": [
+        "Checklist instance with coverage and unresolved items"
+      ],
+      "authority": "Local assistant process policy derived from user request; not a grant eligibility rule",
+      "applicability": "Every project stage",
+      "default_status": "to-verify",
+      "sources": [],
+      "actions": [
+        "ALL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "esc-aig-allocation-2026",
+  "title": "AIG Corpo europeo di solidarietà - allocazione fondi e regole Lead 2026",
+  "path": "raw/pdf/esc-aig-allocation-2026.pdf",
+  "url": "https://agenziagioventu.gov.it/wp-content/uploads/2026/02/News_Allocazione-fondi-ESCQL_2026_DEF.pdf",
+  "kind": "national-provisions",
+  "program": "ESC",
+  "year": 2026,
+  "language": "it",
+  "version": "2026 official definitive allocation scheme; linked news 09/02/2026",
+  "authority": "Agenzia Italiana per la Gioventù",
+  "actions": [
+    "ESC30",
+    "ESC51"
+  ],
+  "sectors": [
+    "ESC"
+  ],
+  "checked_at": "2026-09-12",
+  "sha256": "821b25b3ce642d8e7196b789a8ec8ab1666b50946bd85e0f0686ccc28a59f4ad",
+  "download": true,
+  "physical_pages": 5,
+  "scope_note": "Italian ESC funding rounds and ESC51 allocation. Page1-2 also ESC30; pages3-5 ESC51 only. Quality Label lead mentioned as prerequisite and allocation input, not a new ESC50 rubric.",
+  "page_scopes": [
+    {
+      "pages": [
+        1,
+        2
+      ],
+      "actions": [
+        "ESC30",
+        "ESC51"
+      ],
+      "sectors": [
+        "ESC"
+      ],
+      "scope_note": ""
+    },
+    {
+      "pages": [
+        3,
+        5
+      ],
+      "actions": [
+        "ESC51"
+      ],
+      "sectors": [
+        "ESC"
+      ],
+      "scope_note": ""
+    }
+  ],
+  "resolved_url": "https://agenziagioventu.gov.it/wp-content/uploads/2026/02/News_Allocazione-fondi-ESCQL_2026_DEF.pdf",
+  "pages": 5,
+  "original_sha256": "821b25b3ce642d8e7196b789a8ec8ab1666b50946bd85e0f0686ccc28a59f4ad",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "esc-aig-allocation-2026:p0001",
+      "path": "sources/esc-aig-allocation-2026/revisions/821b25b3ce642d8e7196b789a8ec8ab1666b50946bd85e0f0686ccc28a59f4ad/pages/page-0001.md",
+      "active_path": "sources/esc-aig-allocation-2026/pages/page-0001.md",
+      "derived_sha256": "3ae4125c50a48fc74b06f4aa865bb897de159bc965e775d5b8b03c091242f8c9"
+    },
+    {
+      "number": 2,
+      "id": "esc-aig-allocation-2026:p0002",
+      "path": "sources/esc-aig-allocation-2026/revisions/821b25b3ce642d8e7196b789a8ec8ab1666b50946bd85e0f0686ccc28a59f4ad/pages/page-0002.md",
+      "active_path": "sources/esc-aig-allocation-2026/pages/page-0002.md",
+      "derived_sha256": "a28af4659ef330e41ac81120e1f93662866cfd0a7679d425996ce69979cca076"
+    },
+    {
+      "number": 3,
+      "id": "esc-aig-allocation-2026:p0003",
+      "path": "sources/esc-aig-allocation-2026/revisions/821b25b3ce642d8e7196b789a8ec8ab1666b50946bd85e0f0686ccc28a59f4ad/pages/page-0003.md",
+      "active_path": "sources/esc-aig-allocation-2026/pages/page-0003.md",
+      "derived_sha256": "42750de6b54b42fdf291ff1ea7f2f4cfd0e2498ae4ef1217b3b021f0061e9e90"
+    },
+    {
+      "number": 4,
+      "id": "esc-aig-allocation-2026:p0004",
+      "path": "sources/esc-aig-allocation-2026/revisions/821b25b3ce642d8e7196b789a8ec8ab1666b50946bd85e0f0686ccc28a59f4ad/pages/page-0004.md",
+      "active_path": "sources/esc-aig-allocation-2026/pages/page-0004.md",
+      "derived_sha256": "03b8eb91c1f8143214dbeaec2ecec166fbd0aa31b628d033ff10bba0e23f076f"
+    },
+    {
+      "number": 5,
+      "id": "esc-aig-allocation-2026:p0005",
+      "path": "sources/esc-aig-allocation-2026/revisions/821b25b3ce642d8e7196b789a8ec8ab1666b50946bd85e0f0686ccc28a59f4ad/pages/page-0005.md",
+      "active_path": "sources/esc-aig-allocation-2026/pages/page-0005.md",
+      "derived_sha256": "a3c5a375e2ea66bea2834a63881e71a6fcd3deb1bdc5832c9b8caf100cd21af6"
+    }
+  ],
+  "full_path": "sources/esc-aig-allocation-2026/revisions/821b25b3ce642d8e7196b789a8ec8ab1666b50946bd85e0f0686ccc28a59f4ad/full.md",
+  "full_sha256": "e31d2c75184f14824da4c014098f8ce2837972c7e7f6ff0f4e5c67cf253429a2",
+  "repaired_from_verified_original": [],
+  "extraction": "pdftotext -layout, physical one-based PDF pages",
+  "extracted_at": "2026-09-16"
+}

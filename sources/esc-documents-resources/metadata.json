@@ -1,0 +1,46 @@
+{
+  "id": "esc-documents-resources",
+  "title": "European Youth Portal - ESC documents and versions",
+  "path": "raw/web/esc-documents-resources.html",
+  "url": "https://youth.europa.eu/solidarity/organisations/documents-resources_en",
+  "kind": "version-discovery",
+  "program": "ESC",
+  "year": 2026,
+  "language": "en",
+  "version": "snapshot 12/09/2026",
+  "authority": "European Commission",
+  "actions": [
+    "ESC50-HOST-SUPPORT",
+    "ESC50-LEAD",
+    "ESC51",
+    "ESC30",
+    "ESC-VTHPA",
+    "ESC-HUMAID-QL",
+    "ESC-HUMAID-VOL"
+  ],
+  "sectors": [
+    "ESC"
+  ],
+  "checked_at": "2026-09-12",
+  "sha256": "38737050285b3022b4745b8205e6927d9d348e323207a249aed494436e8e9dd9",
+  "download": true,
+  "scope_note": "Discovery/version evidence only; page contains archived guides. Match year on each linked document. No 2026 corrigendum found in current resource-card listing; this does not prove none can be issued later.",
+  "resolved_url": "https://youth.europa.eu/solidarity/organisations/documents-resources_en",
+  "pages": 1,
+  "original_sha256": "38737050285b3022b4745b8205e6927d9d348e323207a249aed494436e8e9dd9",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "esc-documents-resources:p0001",
+      "path": "sources/esc-documents-resources/revisions/38737050285b3022b4745b8205e6927d9d348e323207a249aed494436e8e9dd9/pages/page-0001.md",
+      "active_path": "sources/esc-documents-resources/pages/page-0001.md",
+      "derived_sha256": "748abfe5d99fd8c3c146e32f5757e57c293e3dc20146a29deb56ef28019270fc"
+    }
+  ],
+  "full_path": "sources/esc-documents-resources/revisions/38737050285b3022b4745b8205e6927d9d348e323207a249aed494436e8e9dd9/full.md",
+  "full_sha256": "748abfe5d99fd8c3c146e32f5757e57c293e3dc20146a29deb56ef28019270fc",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

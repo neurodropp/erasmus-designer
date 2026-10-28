@@ -1,0 +1,404 @@
+{
+  "schema_version": 1,
+  "coverage_status": "targeted-partial",
+  "verified_at": "2026-09-12",
+  "source_authority": "Exact user-supplied program guide 2026 and immutable local evidence; live official sections checked for corroboration, not blanket freshness certification",
+  "live_checks": [
+    {
+      "action": "KA152",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-exchanges",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA153",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/mobility-youth-workers",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA154",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-participation",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA155",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/discovereu",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA150",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/erasmus-accreditation-youth",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA220-YOU",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/cooperation-partnerships",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA151",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/accredited-youth-organisations",
+      "checked_at": "2026-09-12",
+      "status": "direct-open-failed; local guide verified; live route needs verification"
+    }
+  ],
+  "id": "ka220-you-2026",
+  "scope": {
+    "program": "ERASMUS",
+    "year": 2026,
+    "actions": [
+      "KA220-YOU"
+    ],
+    "sectors": [
+      "YOU"
+    ]
+  },
+  "program": "ERASMUS",
+  "year": 2026,
+  "actions": [
+    "KA220-YOU"
+  ],
+  "coverage": {
+    "status": "targeted-partial",
+    "exhaustive": false
+  },
+  "checks": [
+    {
+      "id": "ka220-you-youth-context",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA220-YOU"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "award-criterion",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Profile, experience and activities of organizations relevant to the youth sector; genuine needs of targets and organisations, complementarity and proven European value.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 240; Relevance",
+          "page": 240,
+          "section": "Relevance",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0240.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA220-YOU"
+      ]
+    },
+    {
+      "id": "ka220-you-partners-role",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA220-YOU"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "award-criterion",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "All partners have active contributions and tasks consistent with expertise; comprehensive preparation, implementation and follow-up plan with people involved.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 239; Setting up; Partnerships",
+          "page": 239,
+          "section": "Setting up; Partnerships",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0239.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        },
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 241; Setting up; Partnerships",
+          "page": 241,
+          "section": "Setting up; Partnerships",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0241.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA220-YOU"
+      ]
+    },
+    {
+      "id": "ka220-you-youth-participation",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA220-YOU"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "award-criterion",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Civic participation and inclusive decision-making opportunities appropriate to the target; do not transfer by analogy the formal composition/groups/age requirement KA152 to KA220.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 239; Horizontal dimensions; Design",
+          "page": 239,
+          "section": "Horizontal dimensions; Design",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0239.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        },
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 240; Horizontal dimensions; Design",
+          "page": 240,
+          "section": "Horizontal dimensions; Design",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0240.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        },
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 241; Horizontal dimensions; Design",
+          "page": 241,
+          "section": "Horizontal dimensions; Design",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0241.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA220-YOU"
+      ]
+    },
+    {
+      "id": "ka220-you-wp-management",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA220-YOU"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "requirement",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Dedicated WP management and maximum 20% of the total; objectives/results for implementation WP. Maximum four WP implementation is recommendation, not outright ban.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 243; Description of project",
+          "page": 243,
+          "section": "Description of project",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0243.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA220-YOU"
+      ]
+    },
+    {
+      "id": "ka220-you-wp-count",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA220-YOU"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "recommendation",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "If over four WP implementation, justify necessity and readability; the WP2–6 user template does not impose five WPs.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 243; Description of project",
+          "page": 243,
+          "section": "Description of project",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0243.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA220-YOU"
+      ]
+    },
+    {
+      "id": "ka220-you-impact",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA220-YOU"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "award-criterion",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Realistic qualitative/quantitative indicators; verifiable routine adoption, impact on targets/communities, external use, dissemination, open licensing when relevant and sustainability.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 241; Design and Impact",
+          "page": 241,
+          "section": "Design and Impact",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0241.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        },
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 242; Design and Impact",
+          "page": 242,
+          "section": "Design and Impact",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0242.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA220-YOU"
+      ]
+    },
+    {
+      "id": "ka220-you-finance",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA220-YOU"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "requirement",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Lump sums 120k/250k/400k proportionate to assets; estimated overall cost higher than the amount requested for co-financing. Do not use rates workbook as the official rate.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 242; Funding rules",
+          "page": 242,
+          "section": "Funding rules",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0242.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        },
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 243; Funding rules",
+          "page": 243,
+          "section": "Funding rules",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0243.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA220-YOU"
+      ]
+    }
+  ]
+}

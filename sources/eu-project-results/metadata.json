@@ -1,0 +1,40 @@
+{
+  "id": "eu-project-results",
+  "title": "Erasmus+ Project Results Platform - discovery",
+  "url": "https://erasmus-plus.ec.europa.eu/projects",
+  "path": "raw/web/eu-project-results.html",
+  "year": 2026,
+  "publication_year": null,
+  "kind": "methodological-resource",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "authority": "European Commission",
+  "language": "en",
+  "download": true,
+  "scope_note": "Documento metodologico/standard richiamato nel corpus 2026; non è una priorità italiana né una griglia universale.",
+  "sha256": "ee23f2b1aaddbba4e7efd4ba9bccd5e16f588862d4d230a0091bfd988b020ee9",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/projects",
+  "checked_at": "2026-09-12",
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "ee23f2b1aaddbba4e7efd4ba9bccd5e16f588862d4d230a0091bfd988b020ee9",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-project-results:p0001",
+      "path": "sources/eu-project-results/revisions/ee23f2b1aaddbba4e7efd4ba9bccd5e16f588862d4d230a0091bfd988b020ee9/pages/page-0001.md",
+      "active_path": "sources/eu-project-results/pages/page-0001.md",
+      "derived_sha256": "f53781d746a25b2fb5333ff3fe2826cae39495b48034d6e56bd287ef0c9ed10a"
+    }
+  ],
+  "full_path": "sources/eu-project-results/revisions/ee23f2b1aaddbba4e7efd4ba9bccd5e16f588862d4d230a0091bfd988b020ee9/full.md",
+  "full_sha256": "f53781d746a25b2fb5333ff3fe2826cae39495b48034d6e56bd287ef0c9ed10a",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

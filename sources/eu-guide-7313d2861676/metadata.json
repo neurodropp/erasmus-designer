@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-7313d2861676",
+  "title": "Jean Monnet Networks in other fields of education and training",
+  "path": "raw/web/eu-guide-7313d2861676.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/networks",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/networks",
+  "sha256": "d8ee4d739b056178ac2993ac7bbfc41a42abb112f20eec66fa4e51748dfb2886",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "d8ee4d739b056178ac2993ac7bbfc41a42abb112f20eec66fa4e51748dfb2886",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-7313d2861676:p0001",
+      "path": "sources/eu-guide-7313d2861676/revisions/d8ee4d739b056178ac2993ac7bbfc41a42abb112f20eec66fa4e51748dfb2886/pages/page-0001.md",
+      "active_path": "sources/eu-guide-7313d2861676/pages/page-0001.md",
+      "derived_sha256": "5bcbe803f57631c2e596fda1a117dafb77154864e8de0ca8e6847cd5ff557248"
+    }
+  ],
+  "full_path": "sources/eu-guide-7313d2861676/revisions/d8ee4d739b056178ac2993ac7bbfc41a42abb112f20eec66fa4e51748dfb2886/full.md",
+  "full_sha256": "5bcbe803f57631c2e596fda1a117dafb77154864e8de0ca8e6847cd5ff557248",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

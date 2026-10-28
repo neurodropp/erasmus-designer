@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-5d25c7c5be36",
+  "title": "What is a mobility project?",
+  "path": "raw/web/eu-guide-5d25c7c5be36.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/what-is-a-mobility-project",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/what-is-a-mobility-project",
+  "sha256": "562462721828312edb8733b836d40e379478bc009b4cb1f84e898f7f65798145",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "562462721828312edb8733b836d40e379478bc009b4cb1f84e898f7f65798145",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-5d25c7c5be36:p0001",
+      "path": "sources/eu-guide-5d25c7c5be36/revisions/562462721828312edb8733b836d40e379478bc009b4cb1f84e898f7f65798145/pages/page-0001.md",
+      "active_path": "sources/eu-guide-5d25c7c5be36/pages/page-0001.md",
+      "derived_sha256": "d5950ed13616cb902aa77763765381ff0845193548ecb31e68f999a511817641"
+    }
+  ],
+  "full_path": "sources/eu-guide-5d25c7c5be36/revisions/562462721828312edb8733b836d40e379478bc009b4cb1f84e898f7f65798145/full.md",
+  "full_sha256": "d5950ed13616cb902aa77763765381ff0845193548ecb31e68f999a511817641",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

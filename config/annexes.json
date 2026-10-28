@@ -1,0 +1,851 @@
+[
+  {
+    "id": "budget-table",
+    "title": "Detailed budget",
+    "agent_name": "erasmus-annex-budget",
+    "skill": "erasmus-annex-budget",
+    "owner_count": 1,
+    "status": "blueprint-not-populated",
+    "signing_status": "not-applicable",
+    "attachment_status": "internal-or-optional-until-current-form-requires",
+    "required_only_if": "current_form_or_call_explicitly_requests_this_annex",
+    "required_source_reference": null,
+    "official": false,
+    "source_model": "project-master-data-and-approved-design",
+    "output_formats": [
+      "xlsx",
+      "pdf-if-requested"
+    ],
+    "columns": [
+      "budget_line_id",
+      "wp_id",
+      "activity_id",
+      "partner_id",
+      "cost_category",
+      "financial_model",
+      "quantity",
+      "unit",
+      "rate",
+      "currency",
+      "rate_source_id",
+      "rate_version_date",
+      "estimated_total_cost",
+      "grant_allocation",
+      "other_funding",
+      "rounding_rule",
+      "assumption_status",
+      "evidence_id"
+    ],
+    "minimum_inputs": [
+      "Financial models and verified calls",
+      "Approved activities, partners and resources",
+      "Quantity and installments source/internal cost confirmed",
+      "Grant required and separate cofunding"
+    ],
+    "checks": [
+      "Detail totals = partner totals = WP totals = overview",
+      "No double counting of subtotal/detail or cofunding",
+      "Quantity × rate only with valid data and compatible drives",
+      "KA220 management <= 20% total; KA210 20% non automatic roof",
+      "Unit cost KA1/ESC current source only by category; rates template not inherited",
+      "No #REF/#DIV0 or zero fallback to hide missing data"
+    ],
+    "source_refs": [],
+    "legal_validation_required": false,
+    "financial_rates_inherited": false
+  },
+  {
+    "id": "dissemination-table",
+    "title": "Dissemination plan and register",
+    "agent_name": "erasmus-annex-dissemination",
+    "skill": "erasmus-annex-dissemination",
+    "owner_count": 1,
+    "status": "blueprint-not-populated",
+    "signing_status": "not-applicable",
+    "attachment_status": "internal-or-optional-until-current-form-requires",
+    "required_only_if": "current_form_or_call_explicitly_requests_this_annex",
+    "required_source_reference": null,
+    "official": false,
+    "source_model": "project-master-data-and-approved-design",
+    "output_formats": [
+      "xlsx",
+      "pdf-if-requested"
+    ],
+    "columns": [
+      "communication_id",
+      "deliverable_id",
+      "output_id",
+      "objective_id",
+      "audience_id",
+      "owner_partner_id",
+      "channel",
+      "message",
+      "start_date",
+      "end_date",
+      "milestone_id",
+      "budget_line_id",
+      "kpi_id",
+      "planned_target",
+      "actual_value",
+      "evidence_id",
+      "reuse_call_to_action",
+      "privacy_status"
+    ],
+    "minimum_inputs": [
+      "Results, target groups and real owners",
+      "Channels/schedules and resources",
+      "Defined KPI and motivated target"
+    ],
+    "checks": [
+      "Dates consistent with release and Gantt",
+      "Targets not imported from min10/5000/150 examples",
+      "Single audience distinguished by attendance/impressions",
+      "Budget and owner aligned with tasks",
+      "Emblem/license/grant requirements verified"
+    ],
+    "source_refs": [],
+    "legal_validation_required": false,
+    "financial_rates_inherited": false
+  },
+  {
+    "id": "gantt-table",
+    "title": "Gantt and milestones",
+    "agent_name": "erasmus-annex-gantt",
+    "skill": "erasmus-annex-gantt",
+    "owner_count": 1,
+    "status": "blueprint-not-populated",
+    "signing_status": "not-applicable",
+    "attachment_status": "internal-or-optional-until-current-form-requires",
+    "required_only_if": "current_form_or_call_explicitly_requests_this_annex",
+    "required_source_reference": null,
+    "official": false,
+    "source_model": "project-master-data-and-approved-design",
+    "output_formats": [
+      "xlsx",
+      "pdf-if-requested"
+    ],
+    "columns": [
+      "schedule_id",
+      "wp_id",
+      "activity_id",
+      "task_id",
+      "deliverable_id",
+      "owner_partner_id",
+      "start_date",
+      "end_date",
+      "duration_unit",
+      "predecessor_ids",
+      "dependency_type",
+      "lag",
+      "milestone_id",
+      "gate_id",
+      "status"
+    ],
+    "minimum_inputs": [
+      "True start/duration",
+      "Approved task/activity and dependencies",
+      "Owner and gate/release dates"
+    ],
+    "checks": [
+      "Start <=end, real dates and within project duration",
+      "No loop dependencies",
+      "WP dates min/max children, not sum parallel duration",
+      "Deliverable precedes dissemination and pilots that use it",
+      "No fragile/#N/A MATCH of source matrices"
+    ],
+    "source_refs": [],
+    "legal_validation_required": false,
+    "financial_rates_inherited": false
+  },
+  {
+    "id": "work-packages-table",
+    "title": "WPs, activities, tasks, outputs and deliverables",
+    "agent_name": "erasmus-annex-work-packages",
+    "skill": "erasmus-annex-work-packages",
+    "owner_count": 1,
+    "status": "blueprint-not-populated",
+    "signing_status": "not-applicable",
+    "attachment_status": "internal-or-optional-until-current-form-requires",
+    "required_only_if": "current_form_or_call_explicitly_requests_this_annex",
+    "required_source_reference": null,
+    "official": false,
+    "source_model": "project-master-data-and-approved-design",
+    "output_formats": [
+      "xlsx",
+      "pdf-if-requested"
+    ],
+    "columns": [
+      "row_kind",
+      "entity_id",
+      "parent_id",
+      "wp_id",
+      "objective_id",
+      "need_id",
+      "owner_partner_id",
+      "contributor_ids",
+      "title",
+      "description",
+      "method",
+      "learning_outcome_id",
+      "target_group_id",
+      "output_id",
+      "outcome_id",
+      "deliverable_id",
+      "acceptance_criteria",
+      "schedule_id",
+      "budget_line_ids",
+      "kpi_ids",
+      "evidence_ids"
+    ],
+    "minimum_inputs": [
+      "Approved needs/objectives and designs",
+      "Verified partners/roles",
+      "Results/acceptance criteria and times"
+    ],
+    "checks": [
+      "Each output/deliverable produced by activity/owner",
+      "Each activity responds to objective/need",
+      "No output confused with outcome",
+      "WP1 distinct management; max4 implementation recommendation KA220",
+      "EFORMS only mapping to actual form; NOT PAX to clarify",
+      "Unique IDs, valid parents and consistent allocation sums"
+    ],
+    "source_refs": [],
+    "legal_validation_required": false,
+    "financial_rates_inherited": false
+  },
+  {
+    "id": "monitoring-risk-plan",
+    "title": "Monitoring plan, quality gates and risk register",
+    "agent_name": "erasmus-annex-monitoring-risk",
+    "skill": "erasmus-annex-monitoring-risk",
+    "owner_count": 1,
+    "status": "blueprint-not-populated",
+    "signing_status": "not-applicable",
+    "attachment_status": "internal-or-optional-until-current-form-requires",
+    "required_only_if": "current_form_or_call_explicitly_requests_this_annex",
+    "required_source_reference": null,
+    "official": false,
+    "source_model": "project-master-data-and-approved-design",
+    "output_formats": [
+      "xlsx",
+      "pdf-if-requested"
+    ],
+    "columns": [
+      "record_kind",
+      "monitoring_or_risk_id",
+      "wp_id",
+      "activity_id",
+      "deliverable_id",
+      "kpi_id",
+      "definition",
+      "method",
+      "frequency",
+      "owner_partner_id",
+      "threshold",
+      "trigger",
+      "probability_scale",
+      "probability",
+      "impact_scale",
+      "impact",
+      "calculated_risk_score",
+      "prevention",
+      "response",
+      "residual_risk",
+      "status",
+      "review_date",
+      "evidence_id"
+    ],
+    "minimum_inputs": [
+      "KPIs/gates and calendar",
+      "Owner and agreed risk scale",
+      "Actual protection/accident procedures and evidence collection"
+    ],
+    "checks": [
+      "Each risk/monitoring row owner + review/trigger",
+      "Score =probability×impact chosen scale only; do not import static",
+      "Explicit thresholds and corrective actions",
+      "27 QA checks only if real list",
+      "QA, inclusion, safeguarding, contextual data and licensing",
+      "Check tables observe builds and do not feed business calculations"
+    ],
+    "source_refs": [],
+    "legal_validation_required": false,
+    "financial_rates_inherited": false
+  },
+  {
+    "id": "partner-contract",
+    "title": "Partner agreement architecture",
+    "agent_name": "erasmus-annex-partner-contract",
+    "skill": "erasmus-annex-partner-contract",
+    "owner_count": 1,
+    "status": "blueprint-not-populated",
+    "signing_status": "not-ready-to-sign",
+    "attachment_status": "internal-or-optional-until-current-form-requires",
+    "required_only_if": "current_form_or_call_explicitly_requests_this_annex",
+    "required_source_reference": null,
+    "official": false,
+    "source_model": "project-master-data-and-approved-design",
+    "output_formats": [
+      "docx",
+      "pdf"
+    ],
+    "columns": [
+      "clause_id",
+      "topic",
+      "parameter_name",
+      "proposed_clause_scope",
+      "project_id",
+      "party_partner_ids",
+      "legal_representative_status",
+      "grant_reference",
+      "applicable_jurisdiction_to_verify",
+      "source_reference",
+      "legal_issue",
+      "validation_owner",
+      "validation_status"
+    ],
+    "minimum_inputs": [
+      "Current grant agreement and attachments",
+      "Identity/powers of representation of the parties",
+      "Jurisdictions and law/forum to be professionally validated",
+      "Roles, budget, IPR/data and governance agreed"
+    ],
+    "checks": [
+      "Status not-ready-to-sign until legal validation and parts incomplete",
+      "No made up jurisdictions/laws/ownership/liability",
+      "RACI/allocation/effort consistent with design/budget",
+      "IPR/open access and data to be verified in the specific case",
+      "Ascertained signatories, grants and signature methods",
+      "Core tasks and non-subcontractable changes managed by current grant"
+    ],
+    "source_refs": [],
+    "legal_validation_required": true,
+    "financial_rates_inherited": false
+  },
+  {
+    "id": "participant-rules-code",
+    "title": "Reimbursement process and code of conduct",
+    "agent_name": "erasmus-annex-participant-rules",
+    "skill": "erasmus-annex-participant-rules",
+    "owner_count": 1,
+    "status": "blueprint-not-populated",
+    "signing_status": "not-ready-to-sign",
+    "attachment_status": "internal-or-optional-until-current-form-requires",
+    "required_only_if": "current_form_or_call_explicitly_requests_this_annex",
+    "required_source_reference": null,
+    "official": false,
+    "source_model": "project-master-data-and-approved-design",
+    "output_formats": [
+      "docx",
+      "pdf"
+    ],
+    "columns": [
+      "document_kind",
+      "rule_id",
+      "activity_id",
+      "participant_category_id",
+      "partner_id",
+      "rule_topic",
+      "parameter_name",
+      "source_reference",
+      "current_call_grant_version",
+      "eligibility_condition_to_verify",
+      "amount_or_rate_verified",
+      "currency",
+      "required_evidence",
+      "submission_deadline_confirmed",
+      "approver_role",
+      "safeguarding_contact_role",
+      "complaint_or_incident_process",
+      "privacy_status",
+      "legal_validation_status"
+    ],
+    "minimum_inputs": [
+      "Action/activity, participant category and grant",
+      "Travel/support budget verified",
+      "True organizational rules and protection",
+      "Legal validation and participant information"
+    ],
+    "checks": [
+      "Grant support distinct from reimbursement entitlement",
+      "No invented fees, deductions, deposits/penalties/terms",
+      "Consistency with trip/budget and number of participants",
+      "Minors/accompanying persons/consents verified",
+      "Protection and reporting code without waiver of rights invented",
+      "Status not-ready-to-sign before validation/adaptation"
+    ],
+    "source_refs": [],
+    "legal_validation_required": true,
+    "financial_rates_inherited": false
+  },
+  {
+    "id": "ka2-task-file",
+    "title": "Task file KA2 / Project Management Quality Plan",
+    "agent_name": "erasmus-annex-ka2-task-file",
+    "skill": "erasmus-annex-ka2-task-file",
+    "owner_count": 1,
+    "status": "blueprint-not-populated",
+    "signing_status": "not-applicable",
+    "attachment_status": "internal-or-optional-until-current-form-requires",
+    "required_only_if": "current_form_or_call_explicitly_requests_this_annex",
+    "required_source_reference": null,
+    "official": false,
+    "source_model": "project-master-data-and-approved-design",
+    "output_formats": [
+      "xlsx",
+      "pdf-if-requested"
+    ],
+    "columns": [
+      "task_id",
+      "wp_id",
+      "activity_id",
+      "deliverable_id",
+      "owner_partner_id",
+      "assignee_role",
+      "start_date",
+      "due_date",
+      "status",
+      "date_done",
+      "depends_on_task_ids",
+      "acceptance_owner",
+      "evidence_ids",
+      "document_version",
+      "reporting_period_id",
+      "change_request_id"
+    ],
+    "minimum_inputs": [
+      "Master project/partners",
+      "Approved WPs/activities/tasks",
+      "Link outputs of other owners and revision workflows"
+    ],
+    "checks": [
+      "Task→deliverable→budget→Consistent Gantt",
+      "Linked data, no second editable copy attachments",
+      "Overdue with respect to explicit as_of_date; blank deadline nonzero",
+      "Owner and completion validated with acceptance/evidence",
+      "Report dates within project; no 31/09",
+      "Call attachment status derived from the form"
+    ],
+    "source_refs": [],
+    "legal_validation_required": false,
+    "financial_rates_inherited": false
+  },
+  {
+    "id": "kpi-table",
+    "title": "KPIs and evidence plans",
+    "agent_name": "erasmus-annex-kpi",
+    "skill": "erasmus-annex-kpi",
+    "owner_count": 1,
+    "status": "blueprint-not-populated",
+    "signing_status": "not-applicable",
+    "attachment_status": "internal-or-optional-until-current-form-requires",
+    "required_only_if": "current_form_or_call_explicitly_requests_this_annex",
+    "required_source_reference": null,
+    "official": false,
+    "source_model": "project-master-data-and-approved-design",
+    "output_formats": [
+      "xlsx",
+      "pdf-if-requested"
+    ],
+    "columns": [
+      "kpi_id",
+      "objective_id",
+      "outcome_id",
+      "output_id",
+      "deliverable_id",
+      "scope",
+      "indicator_type",
+      "definition",
+      "unit",
+      "numerator",
+      "denominator",
+      "baseline",
+      "baseline_date",
+      "target",
+      "target_date",
+      "target_rationale",
+      "collection_method",
+      "frequency",
+      "owner_partner_id",
+      "evidence_id",
+      "limitations",
+      "actual_value"
+    ],
+    "minimum_inputs": [
+      "Objectives/outcomes and target groups",
+      "Actual baseline or collection plan",
+      "Approved targets and method/resources"
+    ],
+    "checks": [
+      "Baseline unknown distinct from0",
+      "Explicit scope/denominator without duplication",
+      "Output reach not equal to outcome/impact",
+      "Targets per project/per partner/per country not added if overlapping",
+      "Proportionate collection burden and ownership by KPI",
+      "Cross refs monitor/dissemination/results valid"
+    ],
+    "source_refs": [],
+    "legal_validation_required": false,
+    "financial_rates_inherited": false
+  },
+  {
+    "id": "meetings-evidence",
+    "title": "Meeting/event pack and evidence register",
+    "agent_name": "erasmus-annex-meetings-evidence",
+    "skill": "erasmus-annex-meetings-evidence",
+    "owner_count": 1,
+    "status": "blueprint-not-populated",
+    "signing_status": "not-applicable",
+    "attachment_status": "internal-or-optional-until-current-form-requires",
+    "required_only_if": "current_form_or_call_explicitly_requests_this_annex",
+    "required_source_reference": null,
+    "official": false,
+    "source_model": "project-master-data-and-approved-design",
+    "output_formats": [
+      "xlsx",
+      "pdf-if-requested"
+    ],
+    "columns": [
+      "meeting_id",
+      "activity_id",
+      "event_type",
+      "host_partner_id",
+      "start_datetime",
+      "end_datetime",
+      "timezone",
+      "agenda_deliverable_id",
+      "minutes_deliverable_id",
+      "decision_ids",
+      "action_task_ids",
+      "participant_scope",
+      "attendance_evidence_id",
+      "other_evidence_ids",
+      "privacy_status",
+      "acceptance_owner"
+    ],
+    "minimum_inputs": [
+      "Real meetings/agenda and owner",
+      "Applicable presence/evidence collection procedures",
+      "Timezone and contextual permissions/consents"
+    ],
+    "checks": [
+      "End>=start and timezoneDST",
+      "Action points linked to tasks",
+      "Document requirements from call/contract, not presetphotos",
+      "Evidence access/language/version checked"
+    ],
+    "source_refs": [],
+    "legal_validation_required": false,
+    "financial_rates_inherited": false
+  },
+  {
+    "id": "results-register",
+    "title": "Output, deliverables, translations and releases",
+    "agent_name": "erasmus-annex-results-register",
+    "skill": "erasmus-annex-results-register",
+    "owner_count": 1,
+    "status": "blueprint-not-populated",
+    "signing_status": "not-applicable",
+    "attachment_status": "internal-or-optional-until-current-form-requires",
+    "required_only_if": "current_form_or_call_explicitly_requests_this_annex",
+    "required_source_reference": null,
+    "official": false,
+    "source_model": "project-master-data-and-approved-design",
+    "output_formats": [
+      "xlsx",
+      "pdf-if-requested"
+    ],
+    "columns": [
+      "artifact_id",
+      "deliverable_id",
+      "output_id",
+      "wp_id",
+      "activity_id",
+      "owner_partner_id",
+      "artifact_type",
+      "language",
+      "version",
+      "editable_source_path",
+      "published_url",
+      "license",
+      "third_party_rights_status",
+      "acceptance_criteria",
+      "acceptance_date",
+      "approved_by",
+      "kpi_ids"
+    ],
+    "minimum_inputs": [
+      "Real results catalogue",
+      "Lingue/owner/criteria",
+      "Licenses/rights and approved versions"
+    ],
+    "checks": [
+      "Each artifact producer and modifiable source",
+      "Approval before release/dissemination",
+      "Open educational materials license compatible",
+      "Languages ​​​​not inherited from 5partner or English presets",
+      "Outcome not exchanged with document"
+    ],
+    "source_refs": [],
+    "legal_validation_required": false,
+    "financial_rates_inherited": false
+  },
+  {
+    "id": "timesheets-register",
+    "title": "Effort, timesheet and staff statement conditional",
+    "agent_name": "erasmus-annex-timesheets",
+    "skill": "erasmus-annex-timesheets",
+    "owner_count": 1,
+    "status": "blueprint-not-populated",
+    "signing_status": "not-applicable",
+    "attachment_status": "internal-or-optional-until-current-form-requires",
+    "required_only_if": "current_form_or_call_explicitly_requests_this_annex",
+    "required_source_reference": null,
+    "official": false,
+    "source_model": "project-master-data-and-approved-design",
+    "output_formats": [
+      "xlsx",
+      "pdf-if-requested"
+    ],
+    "columns": [
+      "effort_record_id",
+      "person_ref",
+      "partner_id",
+      "role",
+      "wp_id",
+      "activity_id",
+      "date_or_period",
+      "hours",
+      "mandays",
+      "conversion_assumption",
+      "internal_rate_source",
+      "evidence_id",
+      "approval_role",
+      "requirement_source",
+      "requirement_status"
+    ],
+    "minimum_inputs": [
+      "Model/contract applicability",
+      "Real staff/effort and unit basis",
+      "Contextual rules/approval and privacy"
+    ],
+    "checks": [
+      "No double counting person/date/time",
+      "Effort reconcile budget est. vs actual separate",
+      "Hours↔days conversion only with confirmed hiring",
+      "Do not universalize timesheet/staff statements from B7 template",
+      "Pseudonymous people in public outputs"
+    ],
+    "source_refs": [],
+    "legal_validation_required": false,
+    "financial_rates_inherited": false
+  },
+  {
+    "id": "reporting-checklist",
+    "title": "Checklist reports, evidence and approvals",
+    "agent_name": "erasmus-annex-reporting-checklist",
+    "skill": "erasmus-annex-reporting-checklist",
+    "owner_count": 1,
+    "status": "blueprint-not-populated",
+    "signing_status": "not-applicable",
+    "attachment_status": "internal-or-optional-until-current-form-requires",
+    "required_only_if": "current_form_or_call_explicitly_requests_this_annex",
+    "required_source_reference": null,
+    "official": false,
+    "source_model": "project-master-data-and-approved-design",
+    "output_formats": [
+      "xlsx",
+      "pdf-if-requested"
+    ],
+    "columns": [
+      "requirement_id",
+      "document_kind",
+      "origin_source",
+      "applicability",
+      "activity_id",
+      "reporting_period_id",
+      "deliverable_id",
+      "owner_partner_id",
+      "due_date",
+      "evidence_id",
+      "version",
+      "status",
+      "reviewer",
+      "review_date"
+    ],
+    "minimum_inputs": [
+      "Call/grant reporting instructions",
+      "Periods/dates and owner",
+      "Evidence register and conversions"
+    ],
+    "checks": [
+      "Required if current source requires it",
+      "N/A other than missing",
+      "Valid dates included in the project",
+      "Completion requires file/version/reviewer",
+      "No universal requirement for photos/certificates/five reports"
+    ],
+    "source_refs": [],
+    "legal_validation_required": false,
+    "financial_rates_inherited": false
+  },
+  {
+    "id": "branding-register",
+    "title": "Branding, minutes and attendance templates",
+    "agent_name": "erasmus-annex-branding",
+    "skill": "erasmus-annex-branding",
+    "owner_count": 1,
+    "status": "blueprint-not-populated",
+    "signing_status": "not-applicable",
+    "attachment_status": "internal-or-optional-until-current-form-requires",
+    "required_only_if": "current_form_or_call_explicitly_requests_this_annex",
+    "required_source_reference": null,
+    "official": false,
+    "source_model": "project-master-data-and-approved-design",
+    "output_formats": [
+      "xlsx",
+      "pdf-if-requested"
+    ],
+    "columns": [
+      "asset_id",
+      "asset_type",
+      "document_template_id",
+      "project_id",
+      "language",
+      "version",
+      "owner_partner_id",
+      "eu_funding_statement_source",
+      "eu_emblem_source",
+      "license_source",
+      "approval_status",
+      "file_path"
+    ],
+    "minimum_inputs": [
+      "Project identity and communication requirements",
+      "Asset/rights/versioni",
+      "Data to parameterise in the document template"
+    ],
+    "checks": [
+      "Emblem and statement from current grant",
+      "No old funding statement imposed",
+      "Minutes/attendance evidence only when relevant",
+      "Template must distinguish sample from actual"
+    ],
+    "source_refs": [],
+    "legal_validation_required": false,
+    "financial_rates_inherited": false
+  },
+  {
+    "id": "follow-up-plan",
+    "title": "Exploitation, institutional adoption and sustainability",
+    "agent_name": "erasmus-annex-follow-up",
+    "skill": "erasmus-annex-follow-up",
+    "owner_count": 1,
+    "status": "blueprint-not-populated",
+    "signing_status": "not-applicable",
+    "attachment_status": "internal-or-optional-until-current-form-requires",
+    "required_only_if": "current_form_or_call_explicitly_requests_this_annex",
+    "required_source_reference": null,
+    "official": false,
+    "source_model": "project-master-data-and-approved-design",
+    "output_formats": [
+      "xlsx",
+      "pdf-if-requested"
+    ],
+    "columns": [
+      "continuity_id",
+      "output_id",
+      "outcome_id",
+      "deliverable_id",
+      "user_group_id",
+      "adopting_partner_or_org_ref",
+      "adoption_step",
+      "owner_partner_id",
+      "start_after_project",
+      "review_date",
+      "maintenance_resources",
+      "funding_source",
+      "funding_commitment_status",
+      "kpi_id",
+      "target",
+      "evidence_id",
+      "risk_ids",
+      "open_access_status"
+    ],
+    "minimum_inputs": [
+      "Results and real users",
+      "Owner maintenance and resources/commitments",
+      "Measurable adoption/followup indicators"
+    ],
+    "checks": [
+      "CONNECTED/adults 55+ not automatically inherited",
+      "Target 20k/five years/example percentages not imported",
+      "Confirmed resources distinct from intentions",
+      "Use/adoption other than communication reach",
+      "Fees/access/IPR legalissues checked before ready status"
+    ],
+    "source_refs": [],
+    "legal_validation_required": false,
+    "financial_rates_inherited": false
+  },
+  {
+    "id": "ka1-activity-timetable",
+    "title": "Timetable and educational program for KA1 Youth activities",
+    "agent_name": "erasmus-annex-activity-timetable",
+    "skill": "erasmus-annex-activity-timetable",
+    "owner_count": 1,
+    "status": "blueprint-not-populated",
+    "official": false,
+    "attachment_status": "required-for-planned-KA152-exchanges-and-preparatory-visits; confirm current upload format",
+    "required_only_if": "KA152 with planned Youth Exchange or Preparatory Visit; other actions require specific source",
+    "required_source_reference": {
+      "source_id": "programme-2026",
+      "locator": "program-2026:p0157; Annexes"
+    },
+    "source_model": "project-master-data-and-approved-youth-learning-design",
+    "output_formats": [
+      "xlsx",
+      "docx-if-requested",
+      "pdf-if-required"
+    ],
+    "columns": [
+      "activity_id",
+      "date_or_day",
+      "start_time",
+      "end_time",
+      "session_title",
+      "learning_objective_id",
+      "nonformal_method",
+      "youth_role",
+      "youth_input_evidence",
+      "responsible_partner_id",
+      "facilitator",
+      "venue",
+      "accessibility_adjustment",
+      "reflection_youthpass",
+      "linked_risk_id"
+    ],
+    "minimum_inputs": [
+      "Activity dates/duration/venue and program learning objectives",
+      "Verified youth contributions and agreed roles",
+      "Actual current timetable upload template/format when required"
+    ],
+    "checks": [
+      "Timetable for every planned exchange and preparatory visit",
+      "Learning sessions coherent with needs/objectives and participant-led methods",
+      "Times/day counts reconcile activities, travel and budget",
+      "No fabricated co-design, dates, participant confirmations or safety guarantees",
+      "Youthpass/reflection, inclusion, protection and breaks proportionate to participants"
+    ],
+    "source_refs": [
+      {
+        "source_id": "programme-2026",
+        "locator": "program-2026:p0157; Annexes",
+        "authority": "programme-requirement-KA152"
+      }
+    ],
+    "legal_validation_required": false,
+    "financial_rates_inherited": false
+  }
+]

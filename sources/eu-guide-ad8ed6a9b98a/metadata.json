@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-ad8ed6a9b98a",
+  "title": "Priorities of the Erasmus+ Programme",
+  "path": "raw/web/eu-guide-ad8ed6a9b98a.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/priorities",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/priorities",
+  "sha256": "3170e032a842aa15031518a94f1378cd2e8fe1c497206cda869aa5c47f55d0a6",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "3170e032a842aa15031518a94f1378cd2e8fe1c497206cda869aa5c47f55d0a6",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-ad8ed6a9b98a:p0001",
+      "path": "sources/eu-guide-ad8ed6a9b98a/revisions/3170e032a842aa15031518a94f1378cd2e8fe1c497206cda869aa5c47f55d0a6/pages/page-0001.md",
+      "active_path": "sources/eu-guide-ad8ed6a9b98a/pages/page-0001.md",
+      "derived_sha256": "f0eadf6043971f1c59346ae7c34ea756b38a32f20fd31d07947f0a8469449f11"
+    }
+  ],
+  "full_path": "sources/eu-guide-ad8ed6a9b98a/revisions/3170e032a842aa15031518a94f1378cd2e8fe1c497206cda869aa5c47f55d0a6/full.md",
+  "full_sha256": "f0eadf6043971f1c59346ae7c34ea756b38a32f20fd31d07947f0a8469449f11",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

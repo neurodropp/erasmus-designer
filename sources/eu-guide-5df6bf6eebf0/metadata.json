@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-5df6bf6eebf0",
+  "title": "Not-for-profit European Sport Events",
+  "path": "raw/web/eu-guide-5df6bf6eebf0.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/not-for-profit-european-sport-events",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/not-for-profit-european-sport-events",
+  "sha256": "9761442e60a0c51400669d8d4f7d1242961ca365bce18542242e2b9138293f04",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "SPO"
+  ],
+  "actions": [
+    "SPORT-EVENTS"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "9761442e60a0c51400669d8d4f7d1242961ca365bce18542242e2b9138293f04",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-5df6bf6eebf0:p0001",
+      "path": "sources/eu-guide-5df6bf6eebf0/revisions/9761442e60a0c51400669d8d4f7d1242961ca365bce18542242e2b9138293f04/pages/page-0001.md",
+      "active_path": "sources/eu-guide-5df6bf6eebf0/pages/page-0001.md",
+      "derived_sha256": "ed6379815e961904e63d9e7baceabeb6e3f256c6f495e6c52d0cf658341c96a5"
+    }
+  ],
+  "full_path": "sources/eu-guide-5df6bf6eebf0/revisions/9761442e60a0c51400669d8d4f7d1242961ca365bce18542242e2b9138293f04/full.md",
+  "full_sha256": "ed6379815e961904e63d9e7baceabeb6e3f256c6f495e6c52d0cf658341c96a5",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

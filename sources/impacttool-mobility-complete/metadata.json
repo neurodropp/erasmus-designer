@@ -1,0 +1,62 @@
+{
+  "id": "impacttool-mobility-complete",
+  "title": "Impacttool Mobility KA1 - complete methodological extract",
+  "url": "https://www.erasmusplus.nl/en/impacttool-mobility",
+  "path": "raw/web/impacttool-netherlands.html",
+  "year": 2026,
+  "publication_year": null,
+  "kind": "methodological-resource",
+  "sectors": [
+    "SCH",
+    "ADU",
+    "VET",
+    "HED",
+    "YOU"
+  ],
+  "actions": [
+    "KA131",
+    "KA171",
+    "KA120-VET",
+    "KA121-VET",
+    "KA122-VET",
+    "KA120-SCH",
+    "KA121-SCH",
+    "KA122-SCH",
+    "KA120-ADU",
+    "KA121-ADU",
+    "KA122-ADU",
+    "KA150",
+    "KA151",
+    "KA152",
+    "KA153",
+    "KA154",
+    "KA155",
+    "KA182"
+  ],
+  "authority": "Dutch national agency",
+  "language": "en",
+  "download": true,
+  "scope_note": "Complete static KA1 mobility methodological supplement; historic impacttool-netherlands extraction retained unchanged. Batch2026, publication year/version unobserved; no rubric, form limits, national priority or ESC rule. Accreditation/other mobility routes adapt method only with explicit rationale.",
+  "sha256": "2c43ecbe5aae4d13f64b1da403eba899dd8f860f2167cbd8b45580cb7194f3af",
+  "resolved_url": "https://www.erasmusplus.nl/en/impacttool-mobility",
+  "checked_at": "2026-09-14",
+  "html_content_scope": "full-static-document",
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "2c43ecbe5aae4d13f64b1da403eba899dd8f860f2167cbd8b45580cb7194f3af",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "impacttool-mobility-complete:p0001",
+      "path": "sources/impacttool-mobility-complete/revisions/2c43ecbe5aae4d13f64b1da403eba899dd8f860f2167cbd8b45580cb7194f3af/pages/page-0001.md",
+      "active_path": "sources/impacttool-mobility-complete/pages/page-0001.md",
+      "derived_sha256": "d9d4cdacff458fe7da918d582b75af0570ea33a0bbd8ddf28961a4c667c1a1ab"
+    }
+  ],
+  "full_path": "sources/impacttool-mobility-complete/revisions/2c43ecbe5aae4d13f64b1da403eba899dd8f860f2167cbd8b45580cb7194f3af/full.md",
+  "full_sha256": "d9d4cdacff458fe7da918d582b75af0570ea33a0bbd8ddf28961a4c667c1a1ab",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

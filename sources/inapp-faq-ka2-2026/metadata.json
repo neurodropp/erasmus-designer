@@ -1,0 +1,277 @@
+{
+  "id": "inapp-faq-ka2-2026",
+  "title": "FAQ INAPP KA2 2026",
+  "url": "https://www.erasmusplus.it/wp-content/uploads/2026/02/FAQ-KA2-2026-03_02_2026-DEF.pdf",
+  "path": "raw/pdf/inapp-faq-ka2-2026.pdf",
+  "kind": "national-guidance",
+  "sectors": [
+    "VET"
+  ],
+  "actions": [
+    "KA210",
+    "KA220"
+  ],
+  "authority": "INAPP",
+  "year": 2026,
+  "language": "it",
+  "download": true,
+  "sha256": "e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d",
+  "resolved_url": "https://www.erasmusplus.it/wp-content/uploads/2026/02/FAQ-KA2-2026-03_02_2026-DEF.pdf",
+  "checked_at": "2026-09-12",
+  "program": "ERASMUS",
+  "pages": 35,
+  "original_sha256": "e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "inapp-faq-ka2-2026:p0001",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0001.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0001.md",
+      "derived_sha256": "70d85dcf0d0d75e6ecceecdd72a6ba7e23f39a800fde03cdd87a62c84bb79441"
+    },
+    {
+      "number": 2,
+      "id": "inapp-faq-ka2-2026:p0002",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0002.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0002.md",
+      "derived_sha256": "010d047f73858e8ef9655a96257381c9f8b83912a61dd79a22112acd440dd29f"
+    },
+    {
+      "number": 3,
+      "id": "inapp-faq-ka2-2026:p0003",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0003.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0003.md",
+      "derived_sha256": "5ea988f27ec602b26f6677f93a472b2872776bea7c907f260010b509df12577a"
+    },
+    {
+      "number": 4,
+      "id": "inapp-faq-ka2-2026:p0004",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0004.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0004.md",
+      "derived_sha256": "d02169c94c154f7a47411b6212ba6968ea33f6ee322ad3bd7be037f5cbcf6bea"
+    },
+    {
+      "number": 5,
+      "id": "inapp-faq-ka2-2026:p0005",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0005.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0005.md",
+      "derived_sha256": "b367b7c456bc67e4e13144b741d0f7d2b01a79bd87e892507b37434488abe7cb"
+    },
+    {
+      "number": 6,
+      "id": "inapp-faq-ka2-2026:p0006",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0006.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0006.md",
+      "derived_sha256": "40a78c9c0b5312bd2f6c2da5549411cc80d8384490fd002a2413bd0d2405c6aa"
+    },
+    {
+      "number": 7,
+      "id": "inapp-faq-ka2-2026:p0007",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0007.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0007.md",
+      "derived_sha256": "1300f4248212c1009363c571775765ba47733f3683993ab69df8d8202e0a42d3"
+    },
+    {
+      "number": 8,
+      "id": "inapp-faq-ka2-2026:p0008",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0008.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0008.md",
+      "derived_sha256": "d76e01158699eda570edab408b3958156a31a3983ef93657aa87d483d540893e"
+    },
+    {
+      "number": 9,
+      "id": "inapp-faq-ka2-2026:p0009",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0009.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0009.md",
+      "derived_sha256": "f0f8d1ff349389c4d5ab33018f8ce372029fdaebfcab6261de42c33794645d3c"
+    },
+    {
+      "number": 10,
+      "id": "inapp-faq-ka2-2026:p0010",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0010.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0010.md",
+      "derived_sha256": "c04f5360e2ce5c02a96618911d485aae90517aa6ec646a0d2255304c5690366c"
+    },
+    {
+      "number": 11,
+      "id": "inapp-faq-ka2-2026:p0011",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0011.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0011.md",
+      "derived_sha256": "473ff51b00426f5af5d8f1c554e3ea42b16cbbe27db3fa033f061582a5405980"
+    },
+    {
+      "number": 12,
+      "id": "inapp-faq-ka2-2026:p0012",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0012.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0012.md",
+      "derived_sha256": "92cc5cd91b1a3ad756f8d02d18356ebec9c29704f972caeea765b13fb89f0b55"
+    },
+    {
+      "number": 13,
+      "id": "inapp-faq-ka2-2026:p0013",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0013.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0013.md",
+      "derived_sha256": "387febbad1331e444a9af8a4170e9ca1d4ede12e833049f05cdb3a955cb8e366"
+    },
+    {
+      "number": 14,
+      "id": "inapp-faq-ka2-2026:p0014",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0014.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0014.md",
+      "derived_sha256": "94fc3c4dabf2fbeb1be1a5a79745cf8a7a0636235406bf913d2cdfe8d1e79ffc"
+    },
+    {
+      "number": 15,
+      "id": "inapp-faq-ka2-2026:p0015",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0015.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0015.md",
+      "derived_sha256": "a409f32a83f73f1865e01aa9e110b28c6e0ff836fc992d98ba23c6df15bc0e10"
+    },
+    {
+      "number": 16,
+      "id": "inapp-faq-ka2-2026:p0016",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0016.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0016.md",
+      "derived_sha256": "611ef52828d587a888795d17bd11f5a3657cea089aad32399a7dbbcf9dc31495"
+    },
+    {
+      "number": 17,
+      "id": "inapp-faq-ka2-2026:p0017",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0017.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0017.md",
+      "derived_sha256": "da3236773ff608033b4f074ba1078698380627a901634fe42681becf230cb730"
+    },
+    {
+      "number": 18,
+      "id": "inapp-faq-ka2-2026:p0018",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0018.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0018.md",
+      "derived_sha256": "2a2bf37efc5c92c171fe2baa10007eb8f1df14aa6190041586bc845841161a57"
+    },
+    {
+      "number": 19,
+      "id": "inapp-faq-ka2-2026:p0019",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0019.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0019.md",
+      "derived_sha256": "3b9648d25ba049ab714143853a8ec21055faa620900014c2f4457169eecc8b06"
+    },
+    {
+      "number": 20,
+      "id": "inapp-faq-ka2-2026:p0020",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0020.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0020.md",
+      "derived_sha256": "fb9d97c9c4728edaf47c8336bff8da34cf9ad3d6e924e517567d7de08af945d0"
+    },
+    {
+      "number": 21,
+      "id": "inapp-faq-ka2-2026:p0021",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0021.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0021.md",
+      "derived_sha256": "2b5d82222066efe2450979dac25099c60c6332b6b523924c4229d4b64fdd5206"
+    },
+    {
+      "number": 22,
+      "id": "inapp-faq-ka2-2026:p0022",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0022.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0022.md",
+      "derived_sha256": "a6c39f1b69a3cc620e8bf2274d744e4d43b171b886ef0883ae00ad4a61830d06"
+    },
+    {
+      "number": 23,
+      "id": "inapp-faq-ka2-2026:p0023",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0023.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0023.md",
+      "derived_sha256": "8428ad05bf557670f20baa46c41cb8431a4d340f0bcd6f91d665d35c4b8dd018"
+    },
+    {
+      "number": 24,
+      "id": "inapp-faq-ka2-2026:p0024",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0024.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0024.md",
+      "derived_sha256": "81758e9cab92b653b9acb8bcd477b3a3e003306dfeafe891a0f412bac144c306"
+    },
+    {
+      "number": 25,
+      "id": "inapp-faq-ka2-2026:p0025",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0025.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0025.md",
+      "derived_sha256": "8ac8529ae01c7068d4ee78950eb41926007eca65c107bf189abb318655a562d7"
+    },
+    {
+      "number": 26,
+      "id": "inapp-faq-ka2-2026:p0026",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0026.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0026.md",
+      "derived_sha256": "ab54d09c17e3e7da9a33e02905739de961a0d90ba587fd4eaa998f9300cd3e7d"
+    },
+    {
+      "number": 27,
+      "id": "inapp-faq-ka2-2026:p0027",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0027.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0027.md",
+      "derived_sha256": "33dc1bf44702a8a04ff09c5e9fae19f0869899b85a7a49d3a899f2f29ac37846"
+    },
+    {
+      "number": 28,
+      "id": "inapp-faq-ka2-2026:p0028",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0028.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0028.md",
+      "derived_sha256": "1d351ce3bf17899d05f0104a1ed85d62b555f1b4f45d412da94dd72ad3519b74"
+    },
+    {
+      "number": 29,
+      "id": "inapp-faq-ka2-2026:p0029",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0029.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0029.md",
+      "derived_sha256": "dedce04dd8501a9b1d355418dac7d3bde5d39d736615d164ebd0e28b735bf082"
+    },
+    {
+      "number": 30,
+      "id": "inapp-faq-ka2-2026:p0030",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0030.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0030.md",
+      "derived_sha256": "c50310cb730d752a818172076e3da5537d96f8d8328fd286cef7b52559af3708"
+    },
+    {
+      "number": 31,
+      "id": "inapp-faq-ka2-2026:p0031",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0031.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0031.md",
+      "derived_sha256": "9d07b4acac19f11f42df861c8a87ec59ea37458412d16a658b542eb82da1609a"
+    },
+    {
+      "number": 32,
+      "id": "inapp-faq-ka2-2026:p0032",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0032.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0032.md",
+      "derived_sha256": "aabc30873f41bff703ab7e2cc88c2e945cc77a777ce70b2c63c2259a5dd6f019"
+    },
+    {
+      "number": 33,
+      "id": "inapp-faq-ka2-2026:p0033",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0033.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0033.md",
+      "derived_sha256": "1866426b3d2c881d5a29a4575b181650dd91d7742d66f626ce9ca40451684695"
+    },
+    {
+      "number": 34,
+      "id": "inapp-faq-ka2-2026:p0034",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0034.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0034.md",
+      "derived_sha256": "d82ad2db068c2fa50643ee0b393653020745a8f3034d11463d6f275a8e76ec5f"
+    },
+    {
+      "number": 35,
+      "id": "inapp-faq-ka2-2026:p0035",
+      "path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/pages/page-0035.md",
+      "active_path": "sources/inapp-faq-ka2-2026/pages/page-0035.md",
+      "derived_sha256": "c4f8cdc7d60992772743af103479358e391697bcb68fd1fd580d2080ed8d7ee4"
+    }
+  ],
+  "full_path": "sources/inapp-faq-ka2-2026/revisions/e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d/full.md",
+  "full_sha256": "75cdef91f389591af167d614cc364ee6247c215087ccd6c0fe05105f741d828f",
+  "repaired_from_verified_original": [],
+  "extraction": "pdftotext -layout, physical one-based PDF pages",
+  "extracted_at": "2026-09-16"
+}

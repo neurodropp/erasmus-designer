@@ -1,0 +1,2270 @@
+[
+  {
+    "id": "programme-2026",
+    "title": "Erasmus+ Program Guide 2026 EN v1",
+    "path": "raw/pdf/programme-guide-2026-en.pdf",
+    "kind": "programme-guide",
+    "language": "en",
+    "year": 2026,
+    "version": "1 - 12/11/2025",
+    "authority": "European Commission",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/programme-guide-2026_en.pdf",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ],
+    "sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "expert-2026",
+    "title": "Guide for Experts on Quality Assessment 2026 v1",
+    "path": "raw/pdf/expert-guide-2026-v1.pdf",
+    "kind": "expert-guide",
+    "language": "en",
+    "year": 2026,
+    "version": "1 - 22/12/2025",
+    "authority": "European Commission",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ],
+    "scope_note": "Actions managed by national agencies. discovery_url is the HTML library; document_url is a PDF verified for type, version and 85 pages at the Greek national agency mirror. The local PDF digest is not declared identical to the remote bytes.",
+    "sha256": "cb85d893a0ce5ac9ec18ea930b868bc2d77588c9ab126a5b756c5cbc60c458c6",
+    "checked_at": "2026-09-12",
+    "discovery_url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines",
+    "document_url": "https://erasmusplusyouth.gr/wp-content/uploads/2026/01/IV.1a-EPlus-Guide-for-experts-on-quality-assessment-2026_v1.pdf",
+    "document_url_verified_at": "2026-09-12",
+    "document_url_verification": {
+      "provider": "official Greek Erasmus+ Youth national-agency mirror",
+      "content_type": "application/pdf",
+      "physical_pages": 85,
+      "version": "1 (2026): 12-22-2025",
+      "method": "public document opened via web tool; local raw hash independently retained",
+      "remote_byte_sha256_verified": false
+    }
+  },
+  {
+    "id": "indire-sch-adu-2026",
+    "title": "National provisions INDIRE SCH ADU 2026",
+    "url": "https://www.erasmusplus.it/wp-content/uploads/2026/02/Erasmus-Disposizioni-nazionali-SCH_ADU-2026.pdf",
+    "path": "raw/pdf/indire-sch-adu-2026.pdf",
+    "kind": "national-provisions",
+    "sectors": [
+      "SCH",
+      "ADU"
+    ],
+    "actions": [
+      "ALL"
+    ],
+    "authority": "INDIRE",
+    "year": 2026,
+    "language": "it",
+    "download": true,
+    "sha256": "1a1ef9c4dc79994040e868d272d352298c1594281897ca03b02fef453b0cceb9",
+    "resolved_url": "https://www.erasmusplus.it/wp-content/uploads/2026/02/Erasmus-Disposizioni-nazionali-SCH_ADU-2026.pdf",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "indire-hed-2026",
+    "title": "National provisions INDIRE HE 2026 v2 May",
+    "url": "https://www.erasmusplus.it/wp-content/uploads/2026/05/Erasmus-Disposizioni-nazionali-HE_2026_v-2.pdf",
+    "path": "raw/pdf/indire-hed-2026.pdf",
+    "kind": "national-provisions",
+    "sectors": [
+      "HED"
+    ],
+    "actions": [
+      "ALL"
+    ],
+    "authority": "INDIRE",
+    "year": 2026,
+    "language": "it",
+    "download": true,
+    "sha256": "6ba0c6ab49a9f4b41251238e4b3ab5f0bc98619c880191defc8146b2ba5bd1e9",
+    "resolved_url": "https://www.erasmusplus.it/wp-content/uploads/2026/05/Erasmus-Disposizioni-nazionali-HE_2026_v-2.pdf",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "inapp-priorities-2026",
+    "title": "National priorities Erasmus VET 2026 - 24/02/2026",
+    "url": "https://www.erasmusplus.it/wp-content/uploads/2026/02/Priorita_nazionali_Erasmus_VET_2026_24_02_26.pdf",
+    "path": "raw/pdf/inapp-priorities-2026.pdf",
+    "kind": "national-priorities",
+    "sectors": [
+      "VET"
+    ],
+    "actions": [
+      "KA210",
+      "KA220"
+    ],
+    "authority": "INAPP",
+    "year": 2026,
+    "language": "it",
+    "download": true,
+    "sha256": "cf17e6764fc057726c6598a4fae0ec0cb68516cf16c1ed9ce19b16b15c1a5688",
+    "resolved_url": "https://www.erasmusplus.it/wp-content/uploads/2026/02/Priorita_nazionali_Erasmus_VET_2026_24_02_26.pdf",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "inapp-faq-ka2-2026",
+    "title": "INAPP KA2 2026 FAQ",
+    "url": "https://www.erasmusplus.it/wp-content/uploads/2026/02/FAQ-KA2-2026-03_02_2026-DEF.pdf",
+    "path": "raw/pdf/inapp-faq-ka2-2026.pdf",
+    "kind": "national-guidance",
+    "sectors": [
+      "VET"
+    ],
+    "actions": [
+      "KA210",
+      "KA220"
+    ],
+    "authority": "INAPP",
+    "year": 2026,
+    "language": "it",
+    "download": true,
+    "sha256": "e371127c418fbb0361cbb6eb4de853180e8c56e7c78d2ee751a67c191729077d",
+    "resolved_url": "https://www.erasmusplus.it/wp-content/uploads/2026/02/FAQ-KA2-2026-03_02_2026-DEF.pdf",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "aig-priorities-2026",
+    "title": "AIG - national priorities KA220 Youth 2026",
+    "url": "https://agenziagioventu.gov.it/priorita-europee-nel-contesto-nazionale-rilevanti-nel-processo-di-valutazione-dei-partenariati-di-cooperazione-ka220/",
+    "path": "raw/web/aig-priorities-2026.html",
+    "kind": "national-priorities",
+    "sectors": [
+      "YOU"
+    ],
+    "actions": [
+      "KA220"
+    ],
+    "authority": "AIG",
+    "year": 2026,
+    "language": "it",
+    "download": true,
+    "sha256": "787b1777fe1e686e6ea9abd05b9973b15163be621d98decb2239f70fabd0eae7",
+    "resolved_url": "https://agenziagioventu.gov.it/priorita-europee-nel-contesto-nazionale-rilevanti-nel-processo-di-valutazione-dei-partenariati-di-cooperazione-ka220/",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "indire-inclusion-2026",
+    "title": "INDIRE inclusion and diversity strategy March 2026",
+    "url": "https://www.erasmusplus.it/wp-content/uploads/2021/06/Strategia-Inclusione-e-diversita_-INDIRE_marzo-2026.pdf",
+    "path": "raw/pdf/indire-inclusion-2026.pdf",
+    "kind": "strategy",
+    "sectors": [
+      "SCH",
+      "ADU",
+      "HED"
+    ],
+    "actions": [
+      "ALL"
+    ],
+    "authority": "INDIRE",
+    "year": 2026,
+    "language": "it",
+    "download": true,
+    "sha256": "938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d",
+    "resolved_url": "https://www.erasmusplus.it/wp-content/uploads/2021/06/Strategia-Inclusione-e-diversita_-INDIRE_marzo-2026.pdf",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "lump-sum-handbook-2026",
+    "title": "Handbook on the lump sum funding model - Call 2026",
+    "url": "https://www.erasmusplus.sk/erasmus_2021_2027/doc/vyzva/2026/Handbook_on_the_lump_sum_funding_model_2026.pdf",
+    "path": "raw/pdf/lump-sum-handbook-2026.pdf",
+    "kind": "funding-handbook",
+    "sectors": [
+      "SCH",
+      "ADU",
+      "VET",
+      "HED",
+      "YOU"
+    ],
+    "actions": [
+      "KA210",
+      "KA220",
+      "KA240"
+    ],
+    "authority": "European Commission - official national agency mirror",
+    "year": 2026,
+    "language": "en",
+    "download": true,
+    "sha256": "c5af59870c1d744a8dd436403cd6a7550973497b9e7e3b78af929f61012f9dd0",
+    "resolved_url": "https://www.erasmusplus.sk/erasmus_2021_2027/doc/vyzva/2026/Handbook_on_the_lump_sum_funding_model_2026.pdf",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "eu-programme-version",
+    "title": "Erasmus+ - current Program Guide version",
+    "url": "https://erasmus-plus.ec.europa.eu/erasmus-programme-guide",
+    "path": "raw/web/eu-programme-version.html",
+    "kind": "version-discovery",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ],
+    "authority": "European Commission",
+    "year": 2026,
+    "language": "en",
+    "download": true,
+    "sha256": "a2fac1b59519ca7216ed120fb507fa0dab46ddeb7911a7f2870b20e60ad20c62",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/erasmus-programme-guide",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "italy-official-documents",
+    "title": "Erasmus+ Italy - official documents",
+    "url": "https://www.erasmusplus.it/programma/documenti-ufficiali/",
+    "path": "raw/web/italy-official-documents.html",
+    "kind": "discovery",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ],
+    "authority": "Italian national agencies",
+    "year": 2026,
+    "language": "it",
+    "download": true,
+    "sha256": "69ef700f1eabed9469158a6a2cebf7f5a515008e9047956d7d27700ee3bcb6ec",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "italy-deadlines-2026",
+    "title": "Erasmus+ Italy - deadlines 2026",
+    "url": "https://www.erasmusplus.it/programma/scadenze/",
+    "path": "raw/web/italy-deadlines-2026.html",
+    "kind": "deadlines",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ],
+    "authority": "Italian national agencies",
+    "year": 2026,
+    "language": "it",
+    "download": true,
+    "sha256": "e4973580b65b45499a927160635e178a5844e91b928223a817e14415073ab640",
+    "resolved_url": "https://www.erasmusplus.it/programma/scadenze/",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "eu-where-apply",
+    "title": "Erasmus+ - where to apply",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/how-to-apply/where-to-apply",
+    "path": "raw/web/eu-where-apply.html",
+    "kind": "routing",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ],
+    "authority": "European Commission",
+    "year": 2026,
+    "language": "en",
+    "download": true,
+    "sha256": "a836b0e670d8573bf9b99df3a5f5ee8ed908f325a3da2fcb206d8a2098429b43",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/how-to-apply/where-to-apply",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "eu-guide-be6881b7bbb2",
+    "title": "Part B - Information about the actions covered by this guide",
+    "path": "raw/web/eu-guide-be6881b7bbb2.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b",
+    "sha256": "3b9790807ecfd5015dbbd43f59d824219183242f78ec299f4d693866e097f7e1",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-3a7c0733edff",
+    "title": "Part C - Information for applicants",
+    "path": "raw/web/eu-guide-3a7c0733edff.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c",
+    "sha256": "a8d0a262d7513ebb3e1063a96f3c4533d4e69f6228887b8f5ee2fae79b423ba9",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-deb828a818c8",
+    "title": "Part A: General information about the Erasmus+ Programme",
+    "path": "raw/web/eu-guide-deb828a818c8.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a",
+    "sha256": "9a2e0c8d805dbd90002aa3d23d484fa1ce1bac8ce05584fefb524de6d0c6bb2d",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-32f92e65130e",
+    "title": "Introduction",
+    "path": "raw/web/eu-guide-32f92e65130e.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/erasmus-programme-guide/introduction",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/erasmus-programme-guide/introduction",
+    "sha256": "e15df60efc136699367e81900192675e8280330c4231c5f7f8b5def48ad332b3",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-de9ad805f1fe",
+    "title": "How to read the Program Guide",
+    "path": "raw/web/eu-guide-de9ad805f1fe.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/erasmus-programme-guide/how-to-read-the-programme-guide",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/erasmus-programme-guide/how-to-read-the-programme-guide",
+    "sha256": "8aa8dae3435d52b0887dd3af7deeb8ed0be1e1eab4a95b0f141ad97505f13d49",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-d3fd02cbb735",
+    "title": "Who implements the Erasmus+ Programme?",
+    "path": "raw/web/eu-guide-d3fd02cbb735.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/implementation",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/implementation",
+    "sha256": "8fc71ab8f79ddc4ce550c84da15387e0e89e217cb7dff25acb0ed06195389f74",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-9ea1c2797683",
+    "title": "Important features of the Erasmus+ Programme",
+    "path": "raw/web/eu-guide-9ea1c2797683.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/important-features",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/important-features",
+    "sha256": "d7dd37953419b42871c0a1102a7b5718368b18c52f296ffc9caec0b1fed92e86",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-ad8ed6a9b98a",
+    "title": "Priorities of the Erasmus+ Programme",
+    "path": "raw/web/eu-guide-ad8ed6a9b98a.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/priorities",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/priorities",
+    "sha256": "3170e032a842aa15031518a94f1378cd2e8fe1c497206cda869aa5c47f55d0a6",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-3b9fca0360ab",
+    "title": "What is the budget?",
+    "path": "raw/web/eu-guide-3b9fca0360ab.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/budget",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/budget",
+    "sha256": "9c1368a6b6d4306953de2a9fa2bc6b13fdc495fad269f7aede903052b581afa4",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-8dc6135c00f6",
+    "title": "What are the objectives of the Erasmus+ Programme?",
+    "path": "raw/web/eu-guide-8dc6135c00f6.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/objectives",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/objectives",
+    "sha256": "168eb2f6e72d07f7bd40fe8731e1f6a78911621fd07861b82faefcaf7dae1f50",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-7fb1965d6f59",
+    "title": "Who can participate in the Erasmus+ Programme?",
+    "path": "raw/web/eu-guide-7fb1965d6f59.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/participation",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/participation",
+    "sha256": "355fefefee395c90caf6e6cffa47e4fa2280ba18da0f4c25929a10cb527552b0",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-73da94471c83",
+    "title": "Key Action 1: Learning Mobility of Individuals",
+    "path": "raw/web/eu-guide-73da94471c83.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1",
+    "sha256": "f812cb331d8f114be3db044213d2ea96f4b3e51ca51be400312ba0b8c65f04b2",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-b3abbf35cd52",
+    "title": "What is the structure of the Erasmus+ Programme?",
+    "path": "raw/web/eu-guide-b3abbf35cd52.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/structure",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/structure",
+    "sha256": "846e7cbb270bcd6ee317a241e54d3ae443f5c9b98e3da10ef617ac7ac69ae7ab",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-21abc928ce56",
+    "title": "Eligible countries",
+    "path": "raw/web/eu-guide-21abc928ce56.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/eligible-countries",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/eligible-countries",
+    "sha256": "840a068aed41676c74d9803ad44c6b1ebe4eb5847764698b721efee5403b206d",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-bb0ff02e1522",
+    "title": "Mobility for learners and staff in adult education",
+    "path": "raw/web/eu-guide-bb0ff02e1522.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/adult-learners-and-staff",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/adult-learners-and-staff",
+    "sha256": "03f53c618869afdf5fde1ddb9f5e3659d29c7654a6610f67a20548c4e3e16ee9",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ADU"
+    ],
+    "actions": [
+      "KA121-ADU",
+      "KA122-ADU"
+    ]
+  },
+  {
+    "id": "eu-guide-1343d5e7bd3b",
+    "title": "Mobility of staff in the field of sport",
+    "path": "raw/web/eu-guide-1343d5e7bd3b.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/sports-staff",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/sports-staff",
+    "sha256": "a6b3abe7885b0934db087ddb025524edb793b14de0d0b306939fa5ad9f0e68d2",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "SPO"
+    ],
+    "actions": [
+      "KA182"
+    ]
+  },
+  {
+    "id": "eu-guide-038b6d9b44fd",
+    "title": "Mobility projects for higher education students and staff",
+    "path": "raw/web/eu-guide-038b6d9b44fd.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/higher-education-mobility-projects",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/higher-education-mobility-projects",
+    "sha256": "24d6b363e0399f96533b4eff60e498631ca65b30fd1c761117766494a57feacf",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "HED"
+    ],
+    "actions": [
+      "KA131",
+      "KA171"
+    ]
+  },
+  {
+    "id": "eu-guide-808653561462",
+    "title": "Jean Monnet actions in the field of higher education",
+    "path": "raw/web/eu-guide-808653561462.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/higher-education-projects",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/higher-education-projects",
+    "sha256": "f3ab30bd73bcefa3eb32a0302d7da6dee93ce36ad31e971190f363e0080dccdc",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "HED"
+    ],
+    "actions": [
+      "JEAN-MONNET-HED"
+    ]
+  },
+  {
+    "id": "eu-guide-3427af9dbb1a",
+    "title": "Mobility for pupils and staff in school education",
+    "path": "raw/web/eu-guide-3427af9dbb1a.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/school-pupils-and-staff",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/school-pupils-and-staff",
+    "sha256": "3668a2920baf0bbcb2f3f222733bb70bde2d897b7a3e18e295f73f5c61ea406e",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "SCH"
+    ],
+    "actions": [
+      "KA121-SCH",
+      "KA122-SCH"
+    ]
+  },
+  {
+    "id": "eu-guide-4f3e65261af0",
+    "title": "Jean Monnet Actions",
+    "path": "raw/web/eu-guide-4f3e65261af0.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions",
+    "sha256": "7d1dc63ff28e23cd162d169bac774b74497f912e5591511cf67681e99b2ba8e2",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-7313d2861676",
+    "title": "Jean Monnet Networks in other fields of education and training",
+    "path": "raw/web/eu-guide-7313d2861676.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/networks",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/networks",
+    "sha256": "d8ee4d739b056178ac2993ac7bbfc41a42abb112f20eec66fa4e51748dfb2886",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-2776fdafedf1",
+    "title": "Learning EU initiatives in other fields of education and training",
+    "path": "raw/web/eu-guide-2776fdafedf1.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/learning-eu",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/learning-eu",
+    "sha256": "d2d56f8c2ada1d53ec71a1f09e35788a8e588325718eeb694c35d453280c6c69",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "SCH",
+      "VET"
+    ],
+    "actions": [
+      "JEAN-MONNET-SCH-VET"
+    ]
+  },
+  {
+    "id": "eu-guide-e5270c4e915c",
+    "title": "Mobility projects for young people - “DiscoverEU Inclusion Action”",
+    "path": "raw/web/eu-guide-e5270c4e915c.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/discovereu",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/discovereu",
+    "sha256": "e720e11d504ca9437a4eeea7129fd2a963b43dc1d6e607af15d7fbfb44d09497",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "YOU"
+    ],
+    "actions": [
+      "KA155"
+    ]
+  },
+  {
+    "id": "eu-guide-d72d9939d95b",
+    "title": "Jean Monnet teacher training",
+    "path": "raw/web/eu-guide-d72d9939d95b.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/teacher-training",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/teacher-training",
+    "sha256": "453fd5a03308b2bcfbf47511238bb021cce062a6802a5db9c8c6f1eaf9c37538",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "SCH",
+      "VET"
+    ],
+    "actions": [
+      "JEAN-MONNET-SCH-VET"
+    ]
+  },
+  {
+    "id": "eu-guide-59b7eb5c87b3",
+    "title": "Jean Monnet policy debate",
+    "path": "raw/web/eu-guide-59b7eb5c87b3.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/policy-debate",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/policy-debate",
+    "sha256": "9cf51ac6a48d9de208c528e156a782821fa6f78e35e874d417a7ba99d676005e",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "HED",
+      "SCH",
+      "VET"
+    ],
+    "actions": [
+      "JEAN-MONNET-NETWORKS"
+    ]
+  },
+  {
+    "id": "eu-guide-4feba8e3e6c8",
+    "title": "Jean Monnet actions in other fields of education and training",
+    "path": "raw/web/eu-guide-4feba8e3e6c8.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/other-education-and-training-fields",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/jean-monnet-actions/other-education-and-training-fields",
+    "sha256": "9b33b3c4db7338b250dd6f3d779ed9cf36c4f8a804fee6f121a193d12848eb21",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "SCH",
+      "VET"
+    ],
+    "actions": [
+      "JEAN-MONNET-SCH-VET"
+    ]
+  },
+  {
+    "id": "eu-guide-46abeaa2ee7a",
+    "title": "Erasmus+ virtual exchanges",
+    "path": "raw/web/eu-guide-46abeaa2ee7a.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/virtual-exchanges",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/virtual-exchanges",
+    "sha256": "f4f19b3a1feb9176ff298eb1d5d04c66f07b5e83ea159152e89a966ba352d2e4",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "HED",
+      "YOU"
+    ],
+    "actions": [
+      "VIRTUAL-EXCHANGES"
+    ]
+  },
+  {
+    "id": "eu-guide-d446592dfb84",
+    "title": "Erasmus accreditation in the fields of vocational education and training, school education and adult education",
+    "path": "raw/web/eu-guide-d446592dfb84.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/erasmus-accreditation-vet-schools-adult-education",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/erasmus-accreditation-vet-schools-adult-education",
+    "sha256": "7108831bd876559353b4fb53e9f17955fda52df1b220270afe5b277bdb991ca0",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ADU",
+      "SCH",
+      "VET"
+    ],
+    "actions": [
+      "KA120-ADU",
+      "KA120-SCH",
+      "KA120-VET"
+    ]
+  },
+  {
+    "id": "eu-guide-5d25c7c5be36",
+    "title": "What is a mobility project?",
+    "path": "raw/web/eu-guide-5d25c7c5be36.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/what-is-a-mobility-project",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/what-is-a-mobility-project",
+    "sha256": "562462721828312edb8733b836d40e379478bc009b4cb1f84e898f7f65798145",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-aee61de1a0a5",
+    "title": "Mobility for learners and staff in vocational education and training",
+    "path": "raw/web/eu-guide-aee61de1a0a5.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/vet-learners-and-staff",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/vet-learners-and-staff",
+    "sha256": "451c919792de31d74b8a9ca1e8bb3397aaa315ab2c1b083f2ccacf9334c49852",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "VET"
+    ],
+    "actions": [
+      "KA121-VET",
+      "KA122-VET"
+    ]
+  },
+  {
+    "id": "eu-guide-906a018a9583",
+    "title": "Erasmus accreditation in the field of youth",
+    "path": "raw/web/eu-guide-906a018a9583.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/erasmus-accreditation-youth",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/erasmus-accreditation-youth",
+    "sha256": "b651258fa8b95a57a7b30e89f5ccb94c1bf51a957f1dcf7f51dab186de6f5cab",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "YOU"
+    ],
+    "actions": [
+      "KA150"
+    ]
+  },
+  {
+    "id": "eu-guide-1ca8ebcae572",
+    "title": "Youth participation activities",
+    "path": "raw/web/eu-guide-1ca8ebcae572.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-participation",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-participation",
+    "sha256": "7b908b3775ee8e6ca26e9410b882042d95bbea36f78709dfd16f188d2bb6fc31",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "YOU"
+    ],
+    "actions": [
+      "KA154"
+    ]
+  },
+  {
+    "id": "eu-guide-0feed74bc645",
+    "title": "Mobility projects for young people - “Youth Exchanges”",
+    "path": "raw/web/eu-guide-0feed74bc645.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-exchanges",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-exchanges",
+    "sha256": "af407970c387708d16872fee7a5e7b80c6f476260f4673603c8d9ee86a467e25",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "YOU"
+    ],
+    "actions": [
+      "KA152"
+    ]
+  },
+  {
+    "id": "eu-guide-e82fb0c80fda",
+    "title": "Learning mobility in the field of youth",
+    "path": "raw/web/eu-guide-e82fb0c80fda.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-learning-mobility",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-learning-mobility",
+    "sha256": "34f28cd29c9a8758660d2ed1250a55ef6fa961abbd854039417f2f3897f8b6ee",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-f1d5cade6a08",
+    "title": "Key Action 2: Cooperation among organizations and institutions",
+    "path": "raw/web/eu-guide-f1d5cade6a08.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2",
+    "sha256": "a9b7b5ec7860ad6322128182f77d21bc94289ad4302d7ab3f96e582cc515a113",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-282593d8ded9",
+    "title": "Mobility opportunities for accredited Erasmus organizations in the field of youth",
+    "path": "raw/web/eu-guide-282593d8ded9.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/accredited-youth-organisations",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/accredited-youth-organisations",
+    "sha256": "2f3d32e4f09abf3a929a39c7ea44ef81f17350344a840e1b6a1471872f0f1757",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "YOU"
+    ],
+    "actions": [
+      "KA151"
+    ]
+  },
+  {
+    "id": "eu-guide-d1612b1a4e83",
+    "title": "Mobility projects for youth workers",
+    "path": "raw/web/eu-guide-d1612b1a4e83.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-workers",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-workers",
+    "sha256": "786e4a8ff8afdf0a3a0054a7087cea05a69f9676c120f31d73db70e227948e40",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "YOU"
+    ],
+    "actions": [
+      "KA153"
+    ]
+  },
+  {
+    "id": "eu-guide-c15a00ea26f4",
+    "title": "Capacity building in the field of vocational education and training (VET)",
+    "path": "raw/web/eu-guide-c15a00ea26f4.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/capacity-building-vet",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/capacity-building-vet",
+    "sha256": "c054ba631d53babd8b21bef798fcfabfcb637f0a453923cc0a3742bf3d224e09",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "VET"
+    ],
+    "actions": [
+      "CBVET"
+    ]
+  },
+  {
+    "id": "eu-guide-7c8e6e3770e2",
+    "title": "Capacity building in Higher Education",
+    "path": "raw/web/eu-guide-7c8e6e3770e2.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/capacity-building-higher-education",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/capacity-building-higher-education",
+    "sha256": "235b3dc9a11e54e3cd71b8b833c1e7606fb8b30e70f8278a5c14d7178f8e5535",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "HED"
+    ],
+    "actions": [
+      "CBHE"
+    ]
+  },
+  {
+    "id": "eu-guide-e2b40c46b370",
+    "title": "Capacity building in the field of youth",
+    "path": "raw/web/eu-guide-e2b40c46b370.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/capacity-building-youth",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/capacity-building-youth",
+    "sha256": "6b16dd656cba151e41f1404b6329957e697be1ef57973b545451644623e6fce7",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "YOU"
+    ],
+    "actions": [
+      "CBYOUTH"
+    ]
+  },
+  {
+    "id": "eu-guide-7d0b24e10bc3",
+    "title": "Alliances for innovation",
+    "path": "raw/web/eu-guide-7d0b24e10bc3.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/alliances-for-innovation",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/alliances-for-innovation",
+    "sha256": "e1cdabd7d12408e127804bf4ffeaa362845554cb6b74cef7c619942101fc350b",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "HED",
+      "VET"
+    ],
+    "actions": [
+      "ALLIANCES-INNOVATION"
+    ]
+  },
+  {
+    "id": "eu-guide-20c574f0d080",
+    "title": "Centers of Vocational Excellence",
+    "path": "raw/web/eu-guide-20c574f0d080.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/centres-of-vocational-excellence",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/centres-of-vocational-excellence",
+    "sha256": "2d80d47a66876c20724f41cec061adfe74fa0fcd967d80d4b190abbe5ef5a539",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "VET"
+    ],
+    "actions": [
+      "COVE"
+    ]
+  },
+  {
+    "id": "eu-guide-53b5ff81fc31",
+    "title": "Erasmus Mundus action",
+    "path": "raw/web/eu-guide-53b5ff81fc31.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/erasmus-mundus-action",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/erasmus-mundus-action",
+    "sha256": "eefd9b7869b7db929e2ad6997a8606633543fcb03721fe5c1ff33142ce08de7a",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "HED"
+    ],
+    "actions": [
+      "ERASMUS-MUNDUS"
+    ]
+  },
+  {
+    "id": "eu-guide-17318a93d656",
+    "title": "Capacity building in the field of Sport",
+    "path": "raw/web/eu-guide-17318a93d656.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/capacity-building-sport",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/capacity-building-sport",
+    "sha256": "db15e950eac78acaa65608fdf7581e21ea763af194814a55ddc783f36db18539",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "SPO"
+    ],
+    "actions": [
+      "CBSPORT"
+    ]
+  },
+  {
+    "id": "eu-guide-5df6bf6eebf0",
+    "title": "Not-for-profit European Sport Events",
+    "path": "raw/web/eu-guide-5df6bf6eebf0.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/not-for-profit-european-sport-events",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/not-for-profit-european-sport-events",
+    "sha256": "9761442e60a0c51400669d8d4f7d1242961ca365bce18542242e2b9138293f04",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "SPO"
+    ],
+    "actions": [
+      "SPORT-EVENTS"
+    ]
+  },
+  {
+    "id": "eu-guide-59c7ba134ffe",
+    "title": "Partnerships for innovation",
+    "path": "raw/web/eu-guide-59c7ba134ffe.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/partnerships-for-innovation",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/partnerships-for-innovation",
+    "sha256": "c9d5f4826578c8ed4bcd2710be755fd9b70524ed8318486f2559d03adc66e0e6",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-468ccd1ea4d2",
+    "title": "Partnerships for cooperation",
+    "path": "raw/web/eu-guide-468ccd1ea4d2.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/partnerships-for-cooperation",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/partnerships-for-cooperation",
+    "sha256": "1a780d6913f5c74dad0edff2dddd873b0a6d7a02002949843d19f3055fe961c9",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-2c34e31ff487",
+    "title": "Cooperation partnerships",
+    "path": "raw/web/eu-guide-2c34e31ff487.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/cooperation-partnerships",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/cooperation-partnerships",
+    "sha256": "128735441b1741b69b8911b69ea917185557715aa3d340be868cef2bf58752fe",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ADU",
+      "HED",
+      "SCH",
+      "SPO",
+      "VET",
+      "YOU"
+    ],
+    "actions": [
+      "KA220-ADU",
+      "KA220-HED",
+      "KA220-SCH",
+      "KA220-SPO",
+      "KA220-VET",
+      "KA220-YOU"
+    ]
+  },
+  {
+    "id": "eu-guide-27e92ba6a030",
+    "title": "Partnerships for Excellence",
+    "path": "raw/web/eu-guide-27e92ba6a030.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/partnerships-for-excellence",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/partnerships-for-excellence",
+    "sha256": "5f4266ea2ba9d735cbeb24ce5024dae7dd61c3e346e9748f09ff3190a848790d",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-8276c2ae022d",
+    "title": "Key action 3: Support to policy development and cooperation",
+    "path": "raw/web/eu-guide-8276c2ae022d.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-3",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-3",
+    "sha256": "124555fa0e26045bd46b9b896136b8b92687422aab0da8442275f666e9cca32a",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-9f93009e70f1",
+    "title": "Small-scale partnerships",
+    "path": "raw/web/eu-guide-9f93009e70f1.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/small-scale-partnerships",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/small-scale-partnerships",
+    "sha256": "30e1ef8859b85f243bfd61726945985faa384d3751b3fa63611f0cf3e4276cc3",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ADU",
+      "SCH",
+      "SPO",
+      "VET",
+      "YOU"
+    ],
+    "actions": [
+      "KA210-ADU",
+      "KA210-SCH",
+      "KA210-SPO",
+      "KA210-VET",
+      "KA210-YOU"
+    ]
+  },
+  {
+    "id": "eu-guide-a1c9773829ab",
+    "title": "European Partnerships for School Development",
+    "path": "raw/web/eu-guide-a1c9773829ab.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/school-development-partnerships",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/school-development-partnerships",
+    "sha256": "2037f74ba9bea878c7f8074366a548ec27d8c2530cac993755c5a516ec326183",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "SCH"
+    ],
+    "actions": [
+      "KA240"
+    ]
+  },
+  {
+    "id": "eu-guide-ffae20fec023",
+    "title": "How to submit an Erasmus+ Application?",
+    "path": "raw/web/eu-guide-ffae20fec023.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply",
+    "sha256": "4328751e451d4c9537653033ccea7fd943f2e0660a2fc21e81370e1978a9d946",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-0829e756a3e9",
+    "title": "European Youth Together",
+    "path": "raw/web/eu-guide-0829e756a3e9.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-3/european-youth-together",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-3/european-youth-together",
+    "sha256": "df6d28286a5bd31748fc0a25b1d5040e0947b683baace1c302fe4beba29802b4",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "YOU"
+    ],
+    "actions": [
+      "EUROPEAN-YOUTH-TOGETHER"
+    ]
+  },
+  {
+    "id": "eu-guide-1f7abde4e855",
+    "title": "Step 2: Check the compliance with the program criteria",
+    "path": "raw/web/eu-guide-1f7abde4e855.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply/step-2-compliance",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply/step-2-compliance",
+    "sha256": "545131e2a070ee2512a939baa3cb03216faab321607f1f72b1cedb7e2cf19f59",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-e368b4eab739",
+    "title": "Step 3: Check the financial conditions",
+    "path": "raw/web/eu-guide-e368b4eab739.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply/step-3-financial-conditions",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply/step-3-financial-conditions",
+    "sha256": "f08bf57b2dedd53d0729da061c3814787609ec4630031a94f861a184ca670dd5",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-99535b1cfe2c",
+    "title": "Step 1: Registration",
+    "path": "raw/web/eu-guide-99535b1cfe2c.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply/step-1-registration",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply/step-1-registration",
+    "sha256": "a317d9d425d8e757047e0edca2fd346c51191cff9233292b3dd6669e0cf7efea",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-866bf1cc65e5",
+    "title": "What happens once the application is submitted?",
+    "path": "raw/web/eu-guide-866bf1cc65e5.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/after-submission",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/after-submission",
+    "sha256": "22fe42550640ee832bba6b7a388633f4b316fbb2fee95c01f3a22abec183642f",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-396312db2ae6",
+    "title": "Other important provisions",
+    "path": "raw/web/eu-guide-396312db2ae6.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/other-provisions",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/other-provisions",
+    "sha256": "3dd6df4e1076db34fd032a18bdb5accb49ea1fc96f989531ad2b530820045f08",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-2ffb02941ee4",
+    "title": "What happens when the application is approved?",
+    "path": "raw/web/eu-guide-2ffb02941ee4.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/after-approval",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/after-approval",
+    "sha256": "23419c5397caec61dbf3ed71242d143d61360c955302ff2a19ef151266a2be02",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-58636e225d09",
+    "title": "Step 4: Fill in and submit the application form",
+    "path": "raw/web/eu-guide-58636e225d09.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply/step-4-application-form",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply/step-4-application-form",
+    "sha256": "2c5d615fa178a6849bc7a0f868c0346c377507605d5a3d894e1d6369cc3f1f5d",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-9260dd5f11ea",
+    "title": "Glossary of terms - Common terms",
+    "path": "raw/web/eu-guide-9260dd5f11ea.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d/common-terms",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d/common-terms",
+    "sha256": "40f26312b690aa85bd2b5c2a57619aef5efd0cb97aee9e1e774ae8e52a3b945a",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-9b5391655c4c",
+    "title": "Part D – Glossary of terms",
+    "path": "raw/web/eu-guide-9b5391655c4c.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d?",
+    "sha256": "45beceb7f931f9fb6b0c7727b53021d7e6b18df55650287059abf5a49a7bf300",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-8aacbf03eb3d",
+    "title": "Glossary of terms - Adult education",
+    "path": "raw/web/eu-guide-8aacbf03eb3d.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d/adult-education",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d/adult-education?",
+    "sha256": "2516e0aafb91efdf96b416f4e44f0f132c621652c8fc8dc3c737a0dcb7ada645",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-b300f3a7bd2c",
+    "title": "Glossary of terms - Higher Education",
+    "path": "raw/web/eu-guide-b300f3a7bd2c.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d/higher-education",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d/higher-education",
+    "sha256": "3af458097d25bf4a0891e12ca7d3139c23c8fee13b2c6cdff9f17bbedd429878",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-c2b3133a679b",
+    "title": "Glossary of terms - Sports",
+    "path": "raw/web/eu-guide-c2b3133a679b.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d/sport",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d/sport?",
+    "sha256": "d3efad3dc248f687537ad75d888c2ac8ba8885ee56953aa04ccebe5f6df1d9fb",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-916e4f6928c5",
+    "title": "Glossary of terms - Vocational Education and Training",
+    "path": "raw/web/eu-guide-916e4f6928c5.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d/vocational-education-and-training",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d/vocational-education-and-training",
+    "sha256": "08a9c252310da97d0fe8fe9add9822aedc00cc89aea070329808c38fb7ed64f6",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "eu-guide-97557dc0c8c9",
+    "title": "Glossary of terms - Youth",
+    "path": "raw/web/eu-guide-97557dc0c8c9.html",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d/youth",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d/youth",
+    "sha256": "3e6e8c111b893994747e1a35631f7178d9278aeac97352e8f3326df0baa15d0a",
+    "checked_at": "2026-09-12",
+    "kind": "official-web-guide",
+    "year": 2026,
+    "language": "en",
+    "authority": "European Commission",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "quality-standards-mobility",
+    "title": "Erasmus Quality Standards mobility - 2020, recalled 2026",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2021-09/erasmus-quality-standards-mobility-nov-2020_en.pdf",
+    "path": "raw/pdf/quality-standards-mobility.pdf",
+    "year": 2026,
+    "publication_year": 2020,
+    "kind": "quality-standards",
+    "sectors": [
+      "SCH",
+      "ADU",
+      "VET"
+    ],
+    "actions": [
+      "KA120",
+      "KA121",
+      "KA122"
+    ],
+    "authority": "European Commission",
+    "language": "en",
+    "download": true,
+    "scope_note": "Methodological/standard document referred to in the 2026 corpus; it is not an Italian priority nor a universal grid.",
+    "sha256": "631e2b41c14e1761c35f01b2104b15e93e55eb9ba093916ce8addb04d0dc0621",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2021-09/erasmus-quality-standards-mobility-nov-2020_en.pdf",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "quality-standards-youth",
+    "title": "Erasmus Youth Quality Standards, recalled 2026",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2021-10/erasmus-youth-quality-standards_en.pdf",
+    "path": "raw/pdf/quality-standards-youth.pdf",
+    "year": 2026,
+    "publication_year": 2021,
+    "kind": "quality-standards",
+    "sectors": [
+      "YOU"
+    ],
+    "actions": [
+      "KA150",
+      "KA151",
+      "KA152",
+      "KA153",
+      "KA154",
+      "KA155"
+    ],
+    "authority": "European Commission",
+    "language": "en",
+    "download": true,
+    "scope_note": "Methodological/standard document referred to in the 2026 corpus; it is not an Italian priority nor a universal grid.",
+    "sha256": "98ac9a480e89fd66006e27ce445ff80932757ffa749c2dba08c2248005c59a1e",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2021-10/erasmus-youth-quality-standards_en.pdf",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "salto-participation-toolkit",
+    "title": "SALTO Participation Toolkit",
+    "url": "https://participationpool.eu/toolkit/",
+    "path": "raw/web/salto-participation-toolkit.html",
+    "year": 2026,
+    "publication_year": null,
+    "kind": "methodological-resource",
+    "sectors": [
+      "YOU"
+    ],
+    "actions": [
+      "ALL"
+    ],
+    "authority": "SALTO",
+    "language": "en",
+    "download": true,
+    "scope_note": "Methodological/standard document referred to in the 2026 corpus; it is not an Italian priority nor a universal grid.",
+    "sha256": "96a88a13d9eb27031166a464c6f3f5ca5579a517d842c54a6985a1f055a19de3",
+    "resolved_url": "https://participationpool.eu/toolkit/",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "salto-inclusion-design",
+    "title": "SALTO Inclusion by Design",
+    "url": "https://www.salto-youth.net/rc/inclusion/inclusionpublications/inclusionbydesign/",
+    "path": "raw/web/salto-inclusion-design.html",
+    "year": 2026,
+    "publication_year": null,
+    "kind": "methodological-resource",
+    "sectors": [
+      "YOU"
+    ],
+    "actions": [
+      "ALL"
+    ],
+    "authority": "SALTO",
+    "language": "en",
+    "download": true,
+    "scope_note": "Methodological/standard document referred to in the 2026 corpus; it is not an Italian priority nor a universal grid.",
+    "sha256": "2c2b9aeac1f5dc6c977219577bbdcb9757c909f40a6ecb3081fc1c0432e89c70",
+    "resolved_url": "https://www.salto-youth.net/rc/inclusion/inclusionpublications/inclusionbydesign/",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "impacttool-netherlands",
+    "title": "Impacttool mobility - National agency Netherlands",
+    "url": "https://www.erasmusplus.nl/en/impacttool-mobility",
+    "path": "raw/web/impacttool-netherlands.html",
+    "year": 2026,
+    "publication_year": null,
+    "kind": "methodological-resource",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ],
+    "authority": "Dutch national agency",
+    "language": "en",
+    "download": true,
+    "scope_note": "Methodological/standard document referred to in the 2026 corpus; it is not an Italian priority nor a universal grid.",
+    "sha256": "2c43ecbe5aae4d13f64b1da403eba899dd8f860f2167cbd8b45580cb7194f3af",
+    "resolved_url": "https://www.erasmusplus.nl/en/impacttool-mobility",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "eu-project-results",
+    "title": "Erasmus+ Project Results Platform - discovery",
+    "url": "https://erasmus-plus.ec.europa.eu/projects",
+    "path": "raw/web/eu-project-results.html",
+    "year": 2026,
+    "publication_year": null,
+    "kind": "methodological-resource",
+    "sectors": [
+      "ALL"
+    ],
+    "actions": [
+      "ALL"
+    ],
+    "authority": "European Commission",
+    "language": "en",
+    "download": true,
+    "scope_note": "Methodological/standard document referred to in the 2026 corpus; it is not an Italian priority nor a universal grid.",
+    "sha256": "ee23f2b1aaddbba4e7efd4ba9bccd5e16f588862d4d230a0091bfd988b020ee9",
+    "resolved_url": "https://erasmus-plus.ec.europa.eu/projects",
+    "checked_at": "2026-09-12"
+  },
+  {
+    "id": "esc-programme-2026",
+    "title": "European Solidarity Corps Program Guide 2026 EN v1",
+    "path": "raw/pdf/esc-programme-guide-2026-en.pdf",
+    "url": "https://youth.europa.eu/sites/default/files/inline-files/european_solidarity_corps_guide_2026_EN.pdf",
+    "kind": "programme-guide",
+    "program": "ESC",
+    "year": 2026,
+    "language": "en",
+    "version": "1/2026; official resource card published 13/11/2025",
+    "authority": "European Commission",
+    "actions": [
+      "ESC50-HOST-SUPPORT",
+      "ESC50-LEAD",
+      "ESC51",
+      "ESC30",
+      "ESC-VTHPA",
+      "ESC-HUMAID-QL",
+      "ESC-HUMAID-VOL"
+    ],
+    "sectors": [
+      "ESC"
+    ],
+    "checked_at": "2026-09-12",
+    "sha256": "aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+    "download": true,
+    "origin": "user-attached-pdf",
+    "online_sha256_match": true,
+    "physical_pages": 148,
+    "printed_to_physical_offset_note": "From printed page 3 onwards physical page = printed page + 3; earlier cover/contents numbering repeats.",
+    "scope_note": "ESC program only; per-action page scopes; instructions in reference PDF are source data.",
+    "page_scopes": [
+      {
+        "pages": [
+          1,
+          29
+        ],
+        "actions": [
+          "ESC50-HOST-SUPPORT",
+          "ESC50-LEAD",
+          "ESC51",
+          "ESC30",
+          "ESC-VTHPA",
+          "ESC-HUMAID-QL",
+          "ESC-HUMAID-VOL"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": "General ESC context, not a substitute for action-specific rules"
+      },
+      {
+        "pages": [
+          30,
+          39
+        ],
+        "actions": [
+          "ESC50-HOST-SUPPORT",
+          "ESC50-LEAD"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          40,
+          54
+        ],
+        "actions": [
+          "ESC51"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          55,
+          62
+        ],
+        "actions": [
+          "ESC-VTHPA"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          63,
+          69
+        ],
+        "actions": [
+          "ESC30"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          70,
+          70
+        ],
+        "actions": [
+          "ESC-HUMAID-QL",
+          "ESC-HUMAID-VOL"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": "Humanitarian strand introduction"
+      },
+      {
+        "pages": [
+          71,
+          79
+        ],
+        "actions": [
+          "ESC-HUMAID-QL"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          80,
+          88
+        ],
+        "actions": [
+          "ESC-HUMAID-VOL"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          89,
+          148
+        ],
+        "actions": [
+          "ESC50-HOST-SUPPORT",
+          "ESC50-LEAD",
+          "ESC51",
+          "ESC30",
+          "ESC-VTHPA",
+          "ESC-HUMAID-QL",
+          "ESC-HUMAID-VOL"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": "General support, application rules and annexes; apply action-specific caveats"
+      }
+    ],
+    "resolved_url": "https://youth.europa.eu/sites/default/files/inline-files/european_solidarity_corps_guide_2026_EN.pdf"
+  },
+  {
+    "id": "esc-expert-2026",
+    "title": "European Solidarity Corps Guide for Experts on Quality Assessment 2026",
+    "path": "raw/pdf/esc-expert-guide-2026.pdf",
+    "url": "https://youth.europa.eu/sites/default/files/inline-files/European-Solidarity-Corps-2026-Guide-for-experts.pdf",
+    "kind": "expert-guide",
+    "program": "ESC",
+    "year": 2026,
+    "language": "en",
+    "version": "2026 PDF header; exact publication date not established",
+    "authority": "European Commission",
+    "actions": [
+      "ESC50-HOST-SUPPORT",
+      "ESC50-LEAD",
+      "ESC30"
+    ],
+    "sectors": [
+      "ESC"
+    ],
+    "checked_at": "2026-09-12",
+    "sha256": "c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f",
+    "download": true,
+    "origin": "user-attached-pdf",
+    "online_sha256_match": true,
+    "physical_pages": 28,
+    "scope_note": "PDF p.3 explicitly covers ESC50 and ESC30 only. Does not cover ESC51 budget allocation, VTHPA or humanitarian centralized actions. Resource card date 07/08/2025 is inconsistent with replaced 2026 PDF and must not be treated as a verified 2026 release date.",
+    "page_scopes": [
+      {
+        "pages": [
+          1,
+          14
+        ],
+        "actions": [
+          "ESC50-HOST-SUPPORT",
+          "ESC50-LEAD",
+          "ESC30"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": "Common expert-assessment principles for covered national ESC actions only"
+      },
+      {
+        "pages": [
+          15,
+          19
+        ],
+        "actions": [
+          "ESC50-HOST-SUPPORT",
+          "ESC50-LEAD"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": "Host/support criteria, also prerequisite to lead label"
+      },
+      {
+        "pages": [
+          20,
+          21
+        ],
+        "actions": [
+          "ESC50-LEAD"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          22,
+          22
+        ],
+        "actions": [
+          "ESC50-LEAD",
+          "ESC30"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": "Mixed physical page: end of lead grid and beginning of solidarity-project grid"
+      },
+      {
+        "pages": [
+          23,
+          25
+        ],
+        "actions": [
+          "ESC30"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          26,
+          28
+        ],
+        "actions": [
+          "ESC50-HOST-SUPPORT",
+          "ESC50-LEAD",
+          "ESC30"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": "Expert conflict-of-interest/confidentiality annex; reference-only"
+      }
+    ],
+    "resolved_url": "https://youth.europa.eu/sites/default/files/inline-files/European-Solidarity-Corps-2026-Guide-for-experts.pdf"
+  },
+  {
+    "id": "esc-aig-allocation-2026",
+    "title": "AIG European Solidarity Corps - Fund allocation and Lead 2026 rules",
+    "path": "raw/pdf/esc-aig-allocation-2026.pdf",
+    "url": "https://agenziagioventu.gov.it/wp-content/uploads/2026/02/News_Allocazione-fondi-ESCQL_2026_DEF.pdf",
+    "kind": "national-provisions",
+    "program": "ESC",
+    "year": 2026,
+    "language": "it",
+    "version": "2026 official definitive allocation scheme; linked news 02/09/2026",
+    "authority": "Italian Youth Agency",
+    "actions": [
+      "ESC30",
+      "ESC51"
+    ],
+    "sectors": [
+      "ESC"
+    ],
+    "checked_at": "2026-09-12",
+    "sha256": "821b25b3ce642d8e7196b789a8ec8ab1666b50946bd85e0f0686ccc28a59f4ad",
+    "download": true,
+    "physical_pages": 5,
+    "scope_note": "Italian ESC funding rounds and ESC51 allocation. Page1-2 also ESC30; pages3-5 ESC51 only. Quality Label lead mentioned as prerequisite and allocation input, not a new ESC50 rubric.",
+    "page_scopes": [
+      {
+        "pages": [
+          1,
+          2
+        ],
+        "actions": [
+          "ESC30",
+          "ESC51"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          3,
+          5
+        ],
+        "actions": [
+          "ESC51"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      }
+    ],
+    "resolved_url": "https://agenziagioventu.gov.it/wp-content/uploads/2026/02/News_Allocazione-fondi-ESCQL_2026_DEF.pdf"
+  },
+  {
+    "id": "esc-documents-resources",
+    "title": "European Youth Portal - ESC documents and versions",
+    "path": "raw/web/esc-documents-resources.html",
+    "url": "https://youth.europa.eu/solidarity/organisations/documents-resources_en",
+    "kind": "version-discovery",
+    "program": "ESC",
+    "year": 2026,
+    "language": "en",
+    "version": "snapshot 12/09/2026",
+    "authority": "European Commission",
+    "actions": [
+      "ESC50-HOST-SUPPORT",
+      "ESC50-LEAD",
+      "ESC51",
+      "ESC30",
+      "ESC-VTHPA",
+      "ESC-HUMAID-QL",
+      "ESC-HUMAID-VOL"
+    ],
+    "sectors": [
+      "ESC"
+    ],
+    "checked_at": "2026-09-12",
+    "sha256": "38737050285b3022b4745b8205e6927d9d348e323207a249aed494436e8e9dd9",
+    "download": true,
+    "scope_note": "Discovery/version evidence only; page contains archived guides. Match year on each linked document. No 2026 corrigendum found in current resource-card listing; this does not prove none can be issued later.",
+    "resolved_url": "https://youth.europa.eu/solidarity/organisations/documents-resources_en"
+  },
+  {
+    "id": "esc-calls-2026",
+    "title": "European Youth Portal - ESC call 2026 and where to apply",
+    "path": "raw/web/esc-calls-2026.html",
+    "url": "https://youth.europa.eu/solidarity/organisations/calls-for-proposals_en",
+    "kind": "routing",
+    "program": "ESC",
+    "year": 2026,
+    "language": "en",
+    "version": "2026 calls; snapshot 12/09/2026",
+    "authority": "European Commission",
+    "actions": [
+      "ESC50-HOST-SUPPORT",
+      "ESC50-LEAD",
+      "ESC51",
+      "ESC30",
+      "ESC-VTHPA",
+      "ESC-HUMAID-QL",
+      "ESC-HUMAID-VOL"
+    ],
+    "sectors": [
+      "ESC"
+    ],
+    "checked_at": "2026-09-12",
+    "sha256": "68ca575e51f4dce067b9086ccafaa18786b51e94c442939acaa48d9dcd98d1a6",
+    "download": true,
+    "scope_note": "EU deadlines and NA/EACEA routing; optional NA rounds require national confirmation. Quality Label humanitarian deadline-for-grant-year is in program PDF p.76.",
+    "resolved_url": "https://youth.europa.eu/solidarity/organisations/calls-for-proposals_en"
+  },
+  {
+    "id": "esc-aig-apply-2026",
+    "title": "AIG - submit an ESC project, deadlines 2026",
+    "path": "raw/web/esc-aig-apply-2026.html",
+    "url": "https://agenziagioventu.gov.it/new-presenta-un-progetto/",
+    "kind": "national-guidance",
+    "program": "ESC",
+    "year": 2026,
+    "language": "it",
+    "version": "2026 deadline section; snapshot 12/09/2026",
+    "authority": "Italian Youth Agency",
+    "actions": [
+      "ESC50-HOST-SUPPORT",
+      "ESC50-LEAD",
+      "ESC30",
+      "ESC51"
+    ],
+    "sectors": [
+      "ESC"
+    ],
+    "checked_at": "2026-09-12",
+    "sha256": "fc5d74728a91d78b816e999941ab413b60b316eaf240d7715a58fcdacc96088d",
+    "download": true,
+    "scope_note": "ESC national actions only. 2026 deadlines February18/October1 confirmed. The note about Lead deadline October31 2024 explicitly concerns year2025 and is archival; do not apply it to year2026, whose lead deadline is program PDF p.35.",
+    "resolved_url": "https://agenziagioventu.gov.it/new-presenta-un-progetto/"
+  },
+  {
+    "id": "esc-aig-allocation-news-2026",
+    "title": "AIG - ESC funds and Lead allocation rules, 02/09/2026",
+    "path": "raw/web/esc-aig-allocation-news-2026.html",
+    "url": "https://agenziagioventu.gov.it/corpo-europeo-di-solidarieta-allocazione-dei-fondi-anno-2026-e-regole-di-allocazione-per-i-soggetti-accreditati-quality-label-lead/",
+    "kind": "national-guidance",
+    "program": "ESC",
+    "year": 2026,
+    "language": "it",
+    "version": "09/02/2026",
+    "authority": "Italian Youth Agency",
+    "actions": [
+      "ESC30",
+      "ESC51"
+    ],
+    "sectors": [
+      "ESC"
+    ],
+    "checked_at": "2026-09-12",
+    "sha256": "ae5ffde3ed057079dba9f19223918fcc7a3baeaa2270a675ae476406b811e589",
+    "download": true,
+    "scope_note": "Summary/news linking definitive five-page Italian allocation scheme; ESC51 allocation, not an Erasmus priority notice or an ESC30 score formula.",
+    "resolved_url": "https://agenziagioventu.gov.it/corpo-europeo-di-solidarieta-allocazione-dei-fondi-anno-2026-e-regole-di-allocazione-per-i-soggetti-accreditati-quality-label-lead/"
+  },
+  {
+    "id": "impacttool-partnerships",
+    "title": "Impacttool Partnerships KA2 - Dutch National Agency",
+    "url": "https://www.erasmusplus.nl/en/impacttool-strategicpartnerships",
+    "path": "raw/web/impacttool-partnerships.html",
+    "year": 2026,
+    "publication_year": null,
+    "kind": "methodological-resource",
+    "sectors": [
+      "SCH",
+      "ADU",
+      "VET",
+      "HED",
+      "YOU"
+    ],
+    "actions": [
+      "KA220-SCH",
+      "KA220-ADU",
+      "KA220-VET",
+      "KA220-HED",
+      "KA220-YOU",
+      "KA210-SCH",
+      "KA210-ADU",
+      "KA210-VET",
+      "KA210-YOU",
+      "KA240"
+    ],
+    "authority": "Dutch national agency",
+    "language": "en",
+    "download": true,
+    "scope_note": "KA2 partnership impact design method; capture/corpus batch2026, publication year/version unobserved. Not Italian priority, award rubric, current form profile or Erasmus/ESC grant requirement. Other actions require explicit methodological adaptation.",
+    "sha256": "3f33a16df34d76fde0d3faa914498e4a8933de22341ce6df5e27b345a01c2630",
+    "resolved_url": "https://www.erasmusplus.nl/en/impacttool-strategicpartnerships",
+    "checked_at": "2026-09-14",
+    "html_content_scope": "full-static-document"
+  },
+  {
+    "id": "impacttool-mobility-complete",
+    "title": "Impacttool Mobility KA1 - complete methodological extract",
+    "url": "https://www.erasmusplus.nl/en/impacttool-mobility",
+    "path": "raw/web/impacttool-netherlands.html",
+    "year": 2026,
+    "publication_year": null,
+    "kind": "methodological-resource",
+    "sectors": [
+      "SCH",
+      "ADU",
+      "VET",
+      "HED",
+      "YOU"
+    ],
+    "actions": [
+      "KA131",
+      "KA171",
+      "KA120-VET",
+      "KA121-VET",
+      "KA122-VET",
+      "KA120-SCH",
+      "KA121-SCH",
+      "KA122-SCH",
+      "KA120-ADU",
+      "KA121-ADU",
+      "KA122-ADU",
+      "KA150",
+      "KA151",
+      "KA152",
+      "KA153",
+      "KA154",
+      "KA155",
+      "KA182"
+    ],
+    "authority": "Dutch national agency",
+    "language": "en",
+    "download": true,
+    "scope_note": "Complete static KA1 mobility methodological supplement; historic impacttool-netherlands extraction retained unchanged. Batch2026, publication year/version unobserved; no rubric, form limits, national priority or ESC rule. Accreditation/other mobility routes adapt method only with explicit rationale.",
+    "sha256": "2c43ecbe5aae4d13f64b1da403eba899dd8f860f2167cbd8b45580cb7194f3af",
+    "resolved_url": "https://www.erasmusplus.nl/en/impacttool-mobility",
+    "checked_at": "2026-09-14",
+    "html_content_scope": "full-static-document"
+  }
+]

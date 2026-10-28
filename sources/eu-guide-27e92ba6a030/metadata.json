@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-27e92ba6a030",
+  "title": "Partnerships for Excellence",
+  "path": "raw/web/eu-guide-27e92ba6a030.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/partnerships-for-excellence",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/partnerships-for-excellence",
+  "sha256": "5f4266ea2ba9d735cbeb24ce5024dae7dd61c3e346e9748f09ff3190a848790d",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "5f4266ea2ba9d735cbeb24ce5024dae7dd61c3e346e9748f09ff3190a848790d",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-27e92ba6a030:p0001",
+      "path": "sources/eu-guide-27e92ba6a030/revisions/5f4266ea2ba9d735cbeb24ce5024dae7dd61c3e346e9748f09ff3190a848790d/pages/page-0001.md",
+      "active_path": "sources/eu-guide-27e92ba6a030/pages/page-0001.md",
+      "derived_sha256": "e0c1c1192960627c9bbdb5f69ff0f8e24aa15c9c7740c4c2cd3416e2f333c1f8"
+    }
+  ],
+  "full_path": "sources/eu-guide-27e92ba6a030/revisions/5f4266ea2ba9d735cbeb24ce5024dae7dd61c3e346e9748f09ff3190a848790d/full.md",
+  "full_sha256": "e0c1c1192960627c9bbdb5f69ff0f8e24aa15c9c7740c4c2cd3416e2f333c1f8",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

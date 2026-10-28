@@ -1,0 +1,94 @@
+{
+  "id": "indire-hed-2026",
+  "title": "Disposizioni nazionali INDIRE HE 2026 v2 maggio",
+  "url": "https://www.erasmusplus.it/wp-content/uploads/2026/05/Erasmus-Disposizioni-nazionali-HE_2026_v-2.pdf",
+  "path": "raw/pdf/indire-hed-2026.pdf",
+  "kind": "national-provisions",
+  "sectors": [
+    "HED"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "authority": "INDIRE",
+  "year": 2026,
+  "language": "it",
+  "download": true,
+  "sha256": "6ba0c6ab49a9f4b41251238e4b3ab5f0bc98619c880191defc8146b2ba5bd1e9",
+  "resolved_url": "https://www.erasmusplus.it/wp-content/uploads/2026/05/Erasmus-Disposizioni-nazionali-HE_2026_v-2.pdf",
+  "checked_at": "2026-09-12",
+  "program": "ERASMUS",
+  "pages": 9,
+  "original_sha256": "6ba0c6ab49a9f4b41251238e4b3ab5f0bc98619c880191defc8146b2ba5bd1e9",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "indire-hed-2026:p0001",
+      "path": "sources/indire-hed-2026/revisions/6ba0c6ab49a9f4b41251238e4b3ab5f0bc98619c880191defc8146b2ba5bd1e9/pages/page-0001.md",
+      "active_path": "sources/indire-hed-2026/pages/page-0001.md",
+      "derived_sha256": "9881becaa9d51c234d251b349637272d6235407922deb81b76a55cb3443697cc"
+    },
+    {
+      "number": 2,
+      "id": "indire-hed-2026:p0002",
+      "path": "sources/indire-hed-2026/revisions/6ba0c6ab49a9f4b41251238e4b3ab5f0bc98619c880191defc8146b2ba5bd1e9/pages/page-0002.md",
+      "active_path": "sources/indire-hed-2026/pages/page-0002.md",
+      "derived_sha256": "0747de8de323a4974c743533ba39a0bbbe415b7c9a1d88581fab1041bf8d6df0"
+    },
+    {
+      "number": 3,
+      "id": "indire-hed-2026:p0003",
+      "path": "sources/indire-hed-2026/revisions/6ba0c6ab49a9f4b41251238e4b3ab5f0bc98619c880191defc8146b2ba5bd1e9/pages/page-0003.md",
+      "active_path": "sources/indire-hed-2026/pages/page-0003.md",
+      "derived_sha256": "efeb934748e84a4db310e4eee57a846dfd41bb86f2f2c4b9cba625a9b0a85072"
+    },
+    {
+      "number": 4,
+      "id": "indire-hed-2026:p0004",
+      "path": "sources/indire-hed-2026/revisions/6ba0c6ab49a9f4b41251238e4b3ab5f0bc98619c880191defc8146b2ba5bd1e9/pages/page-0004.md",
+      "active_path": "sources/indire-hed-2026/pages/page-0004.md",
+      "derived_sha256": "45ab27226afc3ff58f848b10a319243ebbdd11294f8f9965b760b64da87768e3"
+    },
+    {
+      "number": 5,
+      "id": "indire-hed-2026:p0005",
+      "path": "sources/indire-hed-2026/revisions/6ba0c6ab49a9f4b41251238e4b3ab5f0bc98619c880191defc8146b2ba5bd1e9/pages/page-0005.md",
+      "active_path": "sources/indire-hed-2026/pages/page-0005.md",
+      "derived_sha256": "207d9c7e00f5e2a874a19003546891cea4e3911bb38820bbd3129d01126c65c5"
+    },
+    {
+      "number": 6,
+      "id": "indire-hed-2026:p0006",
+      "path": "sources/indire-hed-2026/revisions/6ba0c6ab49a9f4b41251238e4b3ab5f0bc98619c880191defc8146b2ba5bd1e9/pages/page-0006.md",
+      "active_path": "sources/indire-hed-2026/pages/page-0006.md",
+      "derived_sha256": "008f1ec2f93d945d89e698a32f9d0192500a77bbc74fe8a163ba936846e904fd"
+    },
+    {
+      "number": 7,
+      "id": "indire-hed-2026:p0007",
+      "path": "sources/indire-hed-2026/revisions/6ba0c6ab49a9f4b41251238e4b3ab5f0bc98619c880191defc8146b2ba5bd1e9/pages/page-0007.md",
+      "active_path": "sources/indire-hed-2026/pages/page-0007.md",
+      "derived_sha256": "ec472d0ae9865351f43e1914be821caa749e3c7f979e84625140e74b30d22cb8"
+    },
+    {
+      "number": 8,
+      "id": "indire-hed-2026:p0008",
+      "path": "sources/indire-hed-2026/revisions/6ba0c6ab49a9f4b41251238e4b3ab5f0bc98619c880191defc8146b2ba5bd1e9/pages/page-0008.md",
+      "active_path": "sources/indire-hed-2026/pages/page-0008.md",
+      "derived_sha256": "57f084513db591ce01b9cb301e59648739f35384ad3db4443a986feb80ac9532"
+    },
+    {
+      "number": 9,
+      "id": "indire-hed-2026:p0009",
+      "path": "sources/indire-hed-2026/revisions/6ba0c6ab49a9f4b41251238e4b3ab5f0bc98619c880191defc8146b2ba5bd1e9/pages/page-0009.md",
+      "active_path": "sources/indire-hed-2026/pages/page-0009.md",
+      "derived_sha256": "d729b0909a28e94cf1eff84a6a97da860d1e362922fd65f5ff67edc3be4d1de9"
+    }
+  ],
+  "full_path": "sources/indire-hed-2026/revisions/6ba0c6ab49a9f4b41251238e4b3ab5f0bc98619c880191defc8146b2ba5bd1e9/full.md",
+  "full_sha256": "77a07efbfde4b1998a3ba78f8879e36145b6ad8d31d24381e228b7863a3eed6c",
+  "repaired_from_verified_original": [],
+  "extraction": "pdftotext -layout, physical one-based PDF pages",
+  "extracted_at": "2026-09-16"
+}

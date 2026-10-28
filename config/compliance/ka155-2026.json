@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "coverage_status": "targeted-partial",
+  "verified_at": "2026-09-12",
+  "source_authority": "Exact user-supplied program guide 2026 and immutable local evidence; live official sections checked for corroboration, not blanket freshness certification",
+  "live_checks": [
+    {
+      "action": "KA152",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-exchanges",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA153",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/mobility-youth-workers",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA154",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-participation",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA155",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/discovereu",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA150",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/erasmus-accreditation-youth",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA220-YOU",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/cooperation-partnerships",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA151",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/accredited-youth-organisations",
+      "checked_at": "2026-09-12",
+      "status": "direct-open-failed; local guide verified; live route needs verification"
+    }
+  ],
+  "id": "ka155-2026",
+  "scope": {
+    "program": "ERASMUS",
+    "year": 2026,
+    "actions": [
+      "KA155"
+    ],
+    "sectors": [
+      "YOU"
+    ]
+  },
+  "program": "ERASMUS",
+  "year": 2026,
+  "actions": [
+    "KA155"
+  ],
+  "coverage": {
+    "status": "targeted-partial",
+    "exhaustive": false
+  },
+  "checks": [
+    {
+      "id": "ka155-target",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA155"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "requirement",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "DiscoverEU inclusion concerns young people with fewer opportunities 18–21, not the general DiscoverEU call for 18-year-olds; verify legal residence and age at the applicable time.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 201; Eligible participants",
+          "page": 201,
+          "section": "Eligible participants",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0201.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA155"
+      ]
+    },
+    {
+      "id": "ka155-co-design",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA155"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "award-criterion",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Young people with fewer opportunities participate in all phases; contribute to needs, learning, itinerary, activities and preparation, with proportionate support.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 197; Setting up; Learning process",
+          "page": 197,
+          "section": "Setting up; Learning process",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0197.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        },
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 198; Setting up; Learning process",
+          "page": 198,
+          "section": "Setting up; Learning process",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0198.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA155"
+      ]
+    },
+    {
+      "id": "ka155-travel",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA155"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "requirement",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "An organisation; trips 1–30 days with 1–5 participants and companions if necessary; at least one other country than the country of departure.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 200; Eligibility; Minimum requirements",
+          "page": 200,
+          "section": "Eligibility; Minimum requirements",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0200.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        },
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 201; Eligibility; Minimum requirements",
+          "page": 201,
+          "section": "Eligibility; Minimum requirements",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0201.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA155"
+      ]
+    },
+    {
+      "id": "ka155-fees",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA155"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "requirement",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Do not collect contributions from young people with fewer opportunities or additional fees from chosen suppliers.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 197; Participants contributions",
+          "page": 197,
+          "section": "Participants contributions",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0197.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA155"
+      ]
+    },
+    {
+      "id": "ka155-support",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA155"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "award-criterion",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Protection and support before/during travel, learning documented with Youthpass and sustainable travel practices.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 198; Protection; Learning; Horizontal dimensions",
+          "page": 198,
+          "section": "Protection; Learning; Horizontal dimensions",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0198.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        },
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 199; Protection; Learning; Horizontal dimensions",
+          "page": 199,
+          "section": "Protection; Learning; Horizontal dimensions",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0199.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA155"
+      ]
+    },
+    {
+      "id": "ka155-round",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA155"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "requirement",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Additional round on October 1st is optional and must be opened by the agency: do not hire available in Italy without current AIG source.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 200; When to apply",
+          "page": 200,
+          "section": "When to apply",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0200.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA155"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-866bf1cc65e5",
+  "title": "What happens once the application is submitted?",
+  "path": "raw/web/eu-guide-866bf1cc65e5.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/after-submission",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/after-submission",
+  "sha256": "22fe42550640ee832bba6b7a388633f4b316fbb2fee95c01f3a22abec183642f",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "22fe42550640ee832bba6b7a388633f4b316fbb2fee95c01f3a22abec183642f",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-866bf1cc65e5:p0001",
+      "path": "sources/eu-guide-866bf1cc65e5/revisions/22fe42550640ee832bba6b7a388633f4b316fbb2fee95c01f3a22abec183642f/pages/page-0001.md",
+      "active_path": "sources/eu-guide-866bf1cc65e5/pages/page-0001.md",
+      "derived_sha256": "32b5a46fa0e8be58c5963d78f4e388d1fd5a34817c54e28c20f5d41d59b38498"
+    }
+  ],
+  "full_path": "sources/eu-guide-866bf1cc65e5/revisions/22fe42550640ee832bba6b7a388633f4b316fbb2fee95c01f3a22abec183642f/full.md",
+  "full_sha256": "32b5a46fa0e8be58c5963d78f4e388d1fd5a34817c54e28c20f5d41d59b38498",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

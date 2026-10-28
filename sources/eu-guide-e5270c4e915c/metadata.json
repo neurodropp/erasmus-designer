@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-e5270c4e915c",
+  "title": "Mobility projects for young people - “DiscoverEU Inclusion Action”",
+  "path": "raw/web/eu-guide-e5270c4e915c.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/discovereu",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/discovereu",
+  "sha256": "e720e11d504ca9437a4eeea7129fd2a963b43dc1d6e607af15d7fbfb44d09497",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "YOU"
+  ],
+  "actions": [
+    "KA155"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "e720e11d504ca9437a4eeea7129fd2a963b43dc1d6e607af15d7fbfb44d09497",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-e5270c4e915c:p0001",
+      "path": "sources/eu-guide-e5270c4e915c/revisions/e720e11d504ca9437a4eeea7129fd2a963b43dc1d6e607af15d7fbfb44d09497/pages/page-0001.md",
+      "active_path": "sources/eu-guide-e5270c4e915c/pages/page-0001.md",
+      "derived_sha256": "28590d31ac033145d32fabf904d964e7ab969e80c047aee8c63ae918bfac8202"
+    }
+  ],
+  "full_path": "sources/eu-guide-e5270c4e915c/revisions/e720e11d504ca9437a4eeea7129fd2a963b43dc1d6e607af15d7fbfb44d09497/full.md",
+  "full_sha256": "28590d31ac033145d32fabf904d964e7ab969e80c047aee8c63ae918bfac8202",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

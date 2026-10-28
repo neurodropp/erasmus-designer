@@ -1,0 +1,3630 @@
+[
+  {
+    "code": "KA131",
+    "title": "Higher education mobility - internal policy funds",
+    "sectors": [
+      "HED"
+    ],
+    "programme_pages": [
+      42,
+      72
+    ],
+    "expert_pages": null,
+    "web_slug": "higher-education-mobility",
+    "agency": "INDIRE",
+    "note": "The expert guide specifies here KA171; do not transfer its grid to KA131.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      }
+    ]
+  },
+  {
+    "code": "KA171",
+    "title": "Higher education mobility - external policy funds",
+    "sectors": [
+      "HED"
+    ],
+    "programme_pages": [
+      42,
+      72
+    ],
+    "expert_pages": [
+      16,
+      17
+    ],
+    "web_slug": "higher-education-mobility",
+    "agency": "INDIRE",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      }
+    ]
+  },
+  {
+    "code": "KA120-VET",
+    "title": "Erasmus accreditation - professional training",
+    "sectors": [
+      "VET"
+    ],
+    "programme_pages": [
+      73,
+      81
+    ],
+    "expert_pages": null,
+    "web_slug": "erasmus-accreditation-vet-schools-adult-education",
+    "agency": "INAPP",
+    "note": "Use the Erasmus Plan grid in the program guide; no specific grid in the attached expert guide.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "quality-standards-mobility",
+        "pages": [
+          1,
+          10
+        ],
+        "classification": "quality-standards",
+        "scope_note": "SCH/ADU/VET mobility: check sector and activity, do not transfer to Youth/ESC/HED."
+      }
+    ]
+  },
+  {
+    "code": "KA121-VET",
+    "title": "Accredited mobility - professional training",
+    "sectors": [
+      "VET"
+    ],
+    "programme_pages": [
+      82,
+      102
+    ],
+    "expert_pages": null,
+    "web_slug": "vet-learners-and-staff",
+    "agency": "INAPP",
+    "note": "Requires Accreditation: Do not apply the KA122 grid to the KA121 budget request.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "quality-standards-mobility",
+        "pages": [
+          1,
+          10
+        ],
+        "classification": "quality-standards",
+        "scope_note": "SCH/ADU/VET mobility: check sector and activity, do not transfer to Youth/ESC/HED."
+      }
+    ]
+  },
+  {
+    "code": "KA122-VET",
+    "title": "Short-term mobility - vocational training",
+    "sectors": [
+      "VET"
+    ],
+    "programme_pages": [
+      82,
+      102
+    ],
+    "expert_pages": [
+      18,
+      20
+    ],
+    "web_slug": "vet-learners-and-staff",
+    "agency": "INAPP",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "quality-standards-mobility",
+        "pages": [
+          1,
+          10
+        ],
+        "classification": "quality-standards",
+        "scope_note": "SCH/ADU/VET mobility: check sector and activity, do not transfer to Youth/ESC/HED."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      }
+    ]
+  },
+  {
+    "code": "KA120-SCH",
+    "title": "Erasmus accreditation - school education",
+    "sectors": [
+      "SCH"
+    ],
+    "programme_pages": [
+      73,
+      81
+    ],
+    "expert_pages": null,
+    "web_slug": "erasmus-accreditation-vet-schools-adult-education",
+    "agency": "INDIRE",
+    "note": "Use the Erasmus Plan grid in the program guide; no specific grid in the attached expert guide.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "quality-standards-mobility",
+        "pages": [
+          1,
+          10
+        ],
+        "classification": "quality-standards",
+        "scope_note": "SCH/ADU/VET mobility: check sector and activity, do not transfer to Youth/ESC/HED."
+      }
+    ]
+  },
+  {
+    "code": "KA121-SCH",
+    "title": "Accredited mobility - school education",
+    "sectors": [
+      "SCH"
+    ],
+    "programme_pages": [
+      103,
+      122
+    ],
+    "expert_pages": null,
+    "web_slug": "school-pupils-and-staff",
+    "agency": "INDIRE",
+    "note": "Requires Accreditation: Do not apply the KA122 grid to the KA121 budget request.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "quality-standards-mobility",
+        "pages": [
+          1,
+          10
+        ],
+        "classification": "quality-standards",
+        "scope_note": "SCH/ADU/VET mobility: check sector and activity, do not transfer to Youth/ESC/HED."
+      }
+    ]
+  },
+  {
+    "code": "KA122-SCH",
+    "title": "Short-term mobility - school education",
+    "sectors": [
+      "SCH"
+    ],
+    "programme_pages": [
+      103,
+      122
+    ],
+    "expert_pages": [
+      18,
+      20
+    ],
+    "web_slug": "school-pupils-and-staff",
+    "agency": "INDIRE",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "quality-standards-mobility",
+        "pages": [
+          1,
+          10
+        ],
+        "classification": "quality-standards",
+        "scope_note": "SCH/ADU/VET mobility: check sector and activity, do not transfer to Youth/ESC/HED."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      }
+    ]
+  },
+  {
+    "code": "KA120-ADU",
+    "title": "Erasmus accreditation - adult education",
+    "sectors": [
+      "ADU"
+    ],
+    "programme_pages": [
+      73,
+      81
+    ],
+    "expert_pages": null,
+    "web_slug": "erasmus-accreditation-vet-schools-adult-education",
+    "agency": "INDIRE",
+    "note": "Use the Erasmus Plan grid in the program guide; no specific grid in the attached expert guide.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "quality-standards-mobility",
+        "pages": [
+          1,
+          10
+        ],
+        "classification": "quality-standards",
+        "scope_note": "SCH/ADU/VET mobility: check sector and activity, do not transfer to Youth/ESC/HED."
+      }
+    ]
+  },
+  {
+    "code": "KA121-ADU",
+    "title": "Accredited mobility - adult education",
+    "sectors": [
+      "ADU"
+    ],
+    "programme_pages": [
+      123,
+      142
+    ],
+    "expert_pages": null,
+    "web_slug": "adult-learners-and-staff",
+    "agency": "INDIRE",
+    "note": "Requires Accreditation: Do not apply the KA122 grid to the KA121 budget request.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "quality-standards-mobility",
+        "pages": [
+          1,
+          10
+        ],
+        "classification": "quality-standards",
+        "scope_note": "SCH/ADU/VET mobility: check sector and activity, do not transfer to Youth/ESC/HED."
+      }
+    ]
+  },
+  {
+    "code": "KA122-ADU",
+    "title": "Short-term mobility - adult education",
+    "sectors": [
+      "ADU"
+    ],
+    "programme_pages": [
+      123,
+      142
+    ],
+    "expert_pages": [
+      18,
+      20
+    ],
+    "web_slug": "adult-learners-and-staff",
+    "agency": "INDIRE",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "quality-standards-mobility",
+        "pages": [
+          1,
+          10
+        ],
+        "classification": "quality-standards",
+        "scope_note": "SCH/ADU/VET mobility: check sector and activity, do not transfer to Youth/ESC/HED."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      }
+    ]
+  },
+  {
+    "code": "KA150",
+    "title": "Erasmus Youth accreditation",
+    "sectors": [
+      "YOU"
+    ],
+    "programme_pages": [
+      144,
+      149
+    ],
+    "expert_pages": null,
+    "web_slug": "erasmus-accreditation-youth",
+    "agency": "AIG",
+    "note": "Physical page 149 concludes KA150 and starts KA151: overlapping scope, identify the relevant paragraph and question.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          143,
+          143
+        ],
+        "classification": "youth-mobility-context",
+        "scope_note": "Introduction KA1 Youth: Do not transfer to KA2 Youth or Sport."
+      },
+      {
+        "id": "quality-standards-youth",
+        "pages": [
+          1,
+          7
+        ],
+        "classification": "quality-standards",
+        "scope_note": "Standards recalled for Youth mobility, not numerical grid or national priority. Identify the measures applicable to the individual activity."
+      }
+    ]
+  },
+  {
+    "code": "KA151",
+    "title": "Mobility for accredited Youth organizations",
+    "sectors": [
+      "YOU"
+    ],
+    "programme_pages": [
+      149,
+      151
+    ],
+    "expert_pages": null,
+    "web_slug": "accredited-youth-organisations",
+    "agency": "AIG",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          143,
+          143
+        ],
+        "classification": "youth-mobility-context",
+        "scope_note": "Introduction KA1 Youth: Do not transfer to KA2 Youth or Sport."
+      },
+      {
+        "id": "quality-standards-youth",
+        "pages": [
+          1,
+          7
+        ],
+        "classification": "quality-standards",
+        "scope_note": "Standards recalled for Youth mobility, not numerical grid or national priority. Identify the measures applicable to the individual activity."
+      }
+    ]
+  },
+  {
+    "code": "KA152",
+    "title": "Youth exchanges",
+    "sectors": [
+      "YOU"
+    ],
+    "programme_pages": [
+      152,
+      164
+    ],
+    "expert_pages": [
+      21,
+      25
+    ],
+    "web_slug": "youth-exchanges",
+    "agency": "AIG",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          143,
+          143
+        ],
+        "classification": "youth-mobility-context",
+        "scope_note": "Introduction KA1 Youth: Do not transfer to KA2 Youth or Sport."
+      },
+      {
+        "id": "quality-standards-youth",
+        "pages": [
+          1,
+          7
+        ],
+        "classification": "quality-standards",
+        "scope_note": "Standards recalled for Youth mobility, not numerical grid or national priority. Identify the measures applicable to the individual activity."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      }
+    ]
+  },
+  {
+    "code": "KA153",
+    "title": "Mobility of youth workers",
+    "sectors": [
+      "YOU"
+    ],
+    "programme_pages": [
+      165,
+      179
+    ],
+    "expert_pages": [
+      26,
+      31
+    ],
+    "web_slug": "youth-workers",
+    "agency": "AIG",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          143,
+          143
+        ],
+        "classification": "youth-mobility-context",
+        "scope_note": "Introduction KA1 Youth: Do not transfer to KA2 Youth or Sport."
+      },
+      {
+        "id": "quality-standards-youth",
+        "pages": [
+          1,
+          7
+        ],
+        "classification": "quality-standards",
+        "scope_note": "Standards recalled for Youth mobility, not numerical grid or national priority. Identify the measures applicable to the individual activity."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      }
+    ]
+  },
+  {
+    "code": "KA154",
+    "title": "Youth participation activities",
+    "sectors": [
+      "YOU"
+    ],
+    "programme_pages": [
+      180,
+      195
+    ],
+    "expert_pages": [
+      32,
+      37
+    ],
+    "web_slug": "youth-participation",
+    "agency": "AIG",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          143,
+          143
+        ],
+        "classification": "youth-mobility-context",
+        "scope_note": "Introduction KA1 Youth: Do not transfer to KA2 Youth or Sport."
+      },
+      {
+        "id": "quality-standards-youth",
+        "pages": [
+          1,
+          7
+        ],
+        "classification": "quality-standards",
+        "scope_note": "Standards recalled for Youth mobility, not numerical grid or national priority. Identify the measures applicable to the individual activity."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      }
+    ]
+  },
+  {
+    "code": "KA155",
+    "title": "DiscoverEU - action for inclusion",
+    "sectors": [
+      "YOU"
+    ],
+    "programme_pages": [
+      196,
+      205
+    ],
+    "expert_pages": [
+      38,
+      41
+    ],
+    "web_slug": "discovereu",
+    "agency": "AIG",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          143,
+          143
+        ],
+        "classification": "youth-mobility-context",
+        "scope_note": "Introduction KA1 Youth: Do not transfer to KA2 Youth or Sport."
+      },
+      {
+        "id": "quality-standards-youth",
+        "pages": [
+          1,
+          7
+        ],
+        "classification": "quality-standards",
+        "scope_note": "Standards recalled for Youth mobility, not numerical grid or national priority. Identify the measures applicable to the individual activity."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      }
+    ]
+  },
+  {
+    "code": "KA182",
+    "title": "Staff mobility in the Sports sector",
+    "sectors": [
+      "SPO"
+    ],
+    "programme_pages": [
+      206,
+      215
+    ],
+    "expert_pages": [
+      42,
+      44
+    ],
+    "web_slug": "sports-staff",
+    "agency": "AIG",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      }
+    ]
+  },
+  {
+    "code": "VIRTUAL-EXCHANGES",
+    "title": "Erasmus+ virtual exchanges",
+    "sectors": [
+      "HED",
+      "YOU"
+    ],
+    "programme_pages": [
+      216,
+      223
+    ],
+    "expert_pages": null,
+    "web_slug": "virtual-exchanges",
+    "agency": "EACEA",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      }
+    ]
+  },
+  {
+    "code": "KA220-SCH",
+    "title": "Cooperation partnerships - SCH",
+    "sectors": [
+      "SCH"
+    ],
+    "programme_pages": [
+      235,
+      243
+    ],
+    "expert_pages": [
+      45,
+      57
+    ],
+    "web_slug": "cooperation-partnerships",
+    "agency": "INDIRE",
+    "note": "European NGOs in the education/training/youth fields can fall under the EACEA call: check type of applicant. The attached expert guide covers national agency actions, not the EACEA Sport call.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          227,
+          234
+        ],
+        "classification": "programme-priorities",
+        "scope_note": "Common and sectoral priorities of the Partnerships for Cooperation: select the real sector; full page does not make all sectors applicable."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          70,
+          71
+        ],
+        "classification": "cost-effectiveness-assessment",
+        "scope_note": "National KA2 cost-effectiveness evaluation. Store conflict p70 vs program guide on 20% denominator; no KA220 cap transferred to KA210."
+      },
+      {
+        "id": "lump-sum-handbook-2026",
+        "pages": [
+          1,
+          37
+        ],
+        "classification": "funding-guidance-context",
+        "scope_note": "Call Commission Handbook 2026: guide of the national model KA210/KA220/KA240, not universal obligation of every budget table nor Sport/ESC model."
+      }
+    ]
+  },
+  {
+    "code": "KA220-ADU",
+    "title": "Cooperation partnerships - ADU",
+    "sectors": [
+      "ADU"
+    ],
+    "programme_pages": [
+      235,
+      243
+    ],
+    "expert_pages": [
+      45,
+      57
+    ],
+    "web_slug": "cooperation-partnerships",
+    "agency": "INDIRE",
+    "note": "European NGOs in the education/training/youth fields can fall under the EACEA call: check type of applicant. The attached expert guide covers national agency actions, not the EACEA Sport call.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          227,
+          234
+        ],
+        "classification": "programme-priorities",
+        "scope_note": "Common and sectoral priorities of the Partnerships for Cooperation: select the real sector; full page does not make all sectors applicable."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          70,
+          71
+        ],
+        "classification": "cost-effectiveness-assessment",
+        "scope_note": "National KA2 cost-effectiveness evaluation. Store conflict p70 vs program guide on 20% denominator; no KA220 cap transferred to KA210."
+      },
+      {
+        "id": "lump-sum-handbook-2026",
+        "pages": [
+          1,
+          37
+        ],
+        "classification": "funding-guidance-context",
+        "scope_note": "Call Commission Handbook 2026: guide of the national model KA210/KA220/KA240, not universal obligation of every budget table nor Sport/ESC model."
+      }
+    ]
+  },
+  {
+    "code": "KA220-VET",
+    "title": "Cooperation partnerships - VET",
+    "sectors": [
+      "VET"
+    ],
+    "programme_pages": [
+      235,
+      243
+    ],
+    "expert_pages": [
+      45,
+      57
+    ],
+    "web_slug": "cooperation-partnerships",
+    "agency": "INAPP",
+    "note": "European NGOs in the education/training/youth fields can fall under the EACEA call: check type of applicant. The attached expert guide covers national agency actions, not the EACEA Sport call.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          227,
+          234
+        ],
+        "classification": "programme-priorities",
+        "scope_note": "Common and sectoral priorities of the Partnerships for Cooperation: select the real sector; full page does not make all sectors applicable."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          70,
+          71
+        ],
+        "classification": "cost-effectiveness-assessment",
+        "scope_note": "National KA2 cost-effectiveness evaluation. Store conflict p70 vs program guide on 20% denominator; no KA220 cap transferred to KA210."
+      },
+      {
+        "id": "lump-sum-handbook-2026",
+        "pages": [
+          1,
+          37
+        ],
+        "classification": "funding-guidance-context",
+        "scope_note": "Call Commission Handbook 2026: guide of the national model KA210/KA220/KA240, not universal obligation of every budget table nor Sport/ESC model."
+      }
+    ]
+  },
+  {
+    "code": "KA220-HED",
+    "title": "Cooperation partnerships - HED",
+    "sectors": [
+      "HED"
+    ],
+    "programme_pages": [
+      235,
+      243
+    ],
+    "expert_pages": [
+      45,
+      57
+    ],
+    "web_slug": "cooperation-partnerships",
+    "agency": "INDIRE",
+    "note": "European NGOs in the education/training/youth fields can fall under the EACEA call: check type of applicant. The attached expert guide covers national agency actions, not the EACEA Sport call.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          227,
+          234
+        ],
+        "classification": "programme-priorities",
+        "scope_note": "Common and sectoral priorities of the Partnerships for Cooperation: select the real sector; full page does not make all sectors applicable."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          70,
+          71
+        ],
+        "classification": "cost-effectiveness-assessment",
+        "scope_note": "National KA2 cost-effectiveness evaluation. Store conflict p70 vs program guide on 20% denominator; no KA220 cap transferred to KA210."
+      },
+      {
+        "id": "lump-sum-handbook-2026",
+        "pages": [
+          1,
+          37
+        ],
+        "classification": "funding-guidance-context",
+        "scope_note": "Call Commission Handbook 2026: guide of the national model KA210/KA220/KA240, not universal obligation of every budget table nor Sport/ESC model."
+      }
+    ]
+  },
+  {
+    "code": "KA220-YOU",
+    "title": "Cooperation partnerships - YOU",
+    "sectors": [
+      "YOU"
+    ],
+    "programme_pages": [
+      235,
+      243
+    ],
+    "expert_pages": [
+      45,
+      57
+    ],
+    "web_slug": "cooperation-partnerships",
+    "agency": "AIG",
+    "note": "European NGOs in the education/training/youth fields can fall under the EACEA call: check type of applicant. The attached expert guide covers national agency actions, not the EACEA Sport call.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          227,
+          234
+        ],
+        "classification": "programme-priorities",
+        "scope_note": "Common and sectoral priorities of the Partnerships for Cooperation: select the real sector; full page does not make all sectors applicable."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          70,
+          71
+        ],
+        "classification": "cost-effectiveness-assessment",
+        "scope_note": "National KA2 cost-effectiveness evaluation. Store conflict p70 vs program guide on 20% denominator; no KA220 cap transferred to KA210."
+      },
+      {
+        "id": "lump-sum-handbook-2026",
+        "pages": [
+          1,
+          37
+        ],
+        "classification": "funding-guidance-context",
+        "scope_note": "Call Commission Handbook 2026: guide of the national model KA210/KA220/KA240, not universal obligation of every budget table nor Sport/ESC model."
+      }
+    ]
+  },
+  {
+    "code": "KA220-SPO",
+    "title": "Cooperation partnerships - SPO",
+    "sectors": [
+      "SPO"
+    ],
+    "programme_pages": [
+      235,
+      243
+    ],
+    "expert_pages": null,
+    "web_slug": "cooperation-partnerships",
+    "agency": "EACEA",
+    "note": "European NGOs in the education/training/youth fields can fall under the EACEA call: check type of applicant. The attached expert guide covers national agency actions, not the EACEA Sport call.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          227,
+          234
+        ],
+        "classification": "programme-priorities",
+        "scope_note": "Common and sectoral priorities of the Partnerships for Cooperation: select the real sector; full page does not make all sectors applicable."
+      }
+    ]
+  },
+  {
+    "code": "KA210-SCH",
+    "title": "Small-scale partnerships - SCH",
+    "sectors": [
+      "SCH"
+    ],
+    "programme_pages": [
+      244,
+      250
+    ],
+    "expert_pages": [
+      58,
+      64
+    ],
+    "web_slug": "small-scale-partnerships",
+    "agency": "INDIRE",
+    "note": "KA210 is not intended for the HED sector. Do not transfer the national expert guide to the EACEA Sport call.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          227,
+          234
+        ],
+        "classification": "programme-priorities",
+        "scope_note": "Common and sectoral priorities of the Partnerships for Cooperation: select the real sector; full page does not make all sectors applicable."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          70,
+          71
+        ],
+        "classification": "cost-effectiveness-assessment",
+        "scope_note": "National KA2 cost-effectiveness evaluation. Store conflict p70 vs program guide on 20% denominator; no KA220 cap transferred to KA210."
+      },
+      {
+        "id": "lump-sum-handbook-2026",
+        "pages": [
+          1,
+          37
+        ],
+        "classification": "funding-guidance-context",
+        "scope_note": "Call Commission Handbook 2026: guide of the national model KA210/KA220/KA240, not universal obligation of every budget table nor Sport/ESC model."
+      }
+    ]
+  },
+  {
+    "code": "KA210-ADU",
+    "title": "Small-scale partnerships - ADU",
+    "sectors": [
+      "ADU"
+    ],
+    "programme_pages": [
+      244,
+      250
+    ],
+    "expert_pages": [
+      58,
+      64
+    ],
+    "web_slug": "small-scale-partnerships",
+    "agency": "INDIRE",
+    "note": "KA210 is not intended for the HED sector. Do not transfer the national expert guide to the EACEA Sport call.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          227,
+          234
+        ],
+        "classification": "programme-priorities",
+        "scope_note": "Common and sectoral priorities of the Partnerships for Cooperation: select the real sector; full page does not make all sectors applicable."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          70,
+          71
+        ],
+        "classification": "cost-effectiveness-assessment",
+        "scope_note": "National KA2 cost-effectiveness evaluation. Store conflict p70 vs program guide on 20% denominator; no KA220 cap transferred to KA210."
+      },
+      {
+        "id": "lump-sum-handbook-2026",
+        "pages": [
+          1,
+          37
+        ],
+        "classification": "funding-guidance-context",
+        "scope_note": "Call Commission Handbook 2026: guide of the national model KA210/KA220/KA240, not universal obligation of every budget table nor Sport/ESC model."
+      }
+    ]
+  },
+  {
+    "code": "KA210-VET",
+    "title": "Small-scale partnerships - VET",
+    "sectors": [
+      "VET"
+    ],
+    "programme_pages": [
+      244,
+      250
+    ],
+    "expert_pages": [
+      58,
+      64
+    ],
+    "web_slug": "small-scale-partnerships",
+    "agency": "INAPP",
+    "note": "KA210 is not intended for the HED sector. Do not transfer the national expert guide to the EACEA Sport call.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          227,
+          234
+        ],
+        "classification": "programme-priorities",
+        "scope_note": "Common and sectoral priorities of the Partnerships for Cooperation: select the real sector; full page does not make all sectors applicable."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          70,
+          71
+        ],
+        "classification": "cost-effectiveness-assessment",
+        "scope_note": "National KA2 cost-effectiveness evaluation. Store conflict p70 vs program guide on 20% denominator; no KA220 cap transferred to KA210."
+      },
+      {
+        "id": "lump-sum-handbook-2026",
+        "pages": [
+          1,
+          37
+        ],
+        "classification": "funding-guidance-context",
+        "scope_note": "Call Commission Handbook 2026: guide of the national model KA210/KA220/KA240, not universal obligation of every budget table nor Sport/ESC model."
+      }
+    ]
+  },
+  {
+    "code": "KA210-YOU",
+    "title": "Small-scale partnerships - YOU",
+    "sectors": [
+      "YOU"
+    ],
+    "programme_pages": [
+      244,
+      250
+    ],
+    "expert_pages": [
+      58,
+      64
+    ],
+    "web_slug": "small-scale-partnerships",
+    "agency": "AIG",
+    "note": "KA210 is not intended for the HED sector. Do not transfer the national expert guide to the EACEA Sport call.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          227,
+          234
+        ],
+        "classification": "programme-priorities",
+        "scope_note": "Common and sectoral priorities of the Partnerships for Cooperation: select the real sector; full page does not make all sectors applicable."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          70,
+          71
+        ],
+        "classification": "cost-effectiveness-assessment",
+        "scope_note": "National KA2 cost-effectiveness evaluation. Store conflict p70 vs program guide on 20% denominator; no KA220 cap transferred to KA210."
+      },
+      {
+        "id": "lump-sum-handbook-2026",
+        "pages": [
+          1,
+          37
+        ],
+        "classification": "funding-guidance-context",
+        "scope_note": "Call Commission Handbook 2026: guide of the national model KA210/KA220/KA240, not universal obligation of every budget table nor Sport/ESC model."
+      }
+    ]
+  },
+  {
+    "code": "KA210-SPO",
+    "title": "Small-scale partnerships - SPO",
+    "sectors": [
+      "SPO"
+    ],
+    "programme_pages": [
+      244,
+      250
+    ],
+    "expert_pages": null,
+    "web_slug": "small-scale-partnerships",
+    "agency": "EACEA",
+    "note": "KA210 is not intended for the HED sector. Do not transfer the national expert guide to the EACEA Sport call.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          227,
+          234
+        ],
+        "classification": "programme-priorities",
+        "scope_note": "Common and sectoral priorities of the Partnerships for Cooperation: select the real sector; full page does not make all sectors applicable."
+      }
+    ]
+  },
+  {
+    "code": "KA240",
+    "title": "European partnerships for school development",
+    "sectors": [
+      "SCH"
+    ],
+    "programme_pages": [
+      251,
+      257
+    ],
+    "expert_pages": [
+      65,
+      71
+    ],
+    "web_slug": "school-development-partnerships",
+    "agency": "INDIRE",
+    "note": "New typology 2026; verify national eligibility of coordinators and partners.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          9,
+          14
+        ],
+        "classification": "assessment-principles",
+        "scope_note": "General principles of the guidance of national agencies: no sub-items are separate votes."
+      },
+      {
+        "id": "expert-2026",
+        "pages": [
+          70,
+          71
+        ],
+        "classification": "cost-effectiveness-assessment",
+        "scope_note": "National KA2 cost-effectiveness evaluation. Store conflict p70 vs program guide on 20% denominator; no KA220 cap transferred to KA210."
+      },
+      {
+        "id": "lump-sum-handbook-2026",
+        "pages": [
+          1,
+          37
+        ],
+        "classification": "funding-guidance-context",
+        "scope_note": "Call Commission Handbook 2026: guide of the national model KA210/KA220/KA240, not universal obligation of every budget table nor Sport/ESC model."
+      }
+    ]
+  },
+  {
+    "code": "COVE",
+    "title": "Centers of professional excellence",
+    "sectors": [
+      "VET"
+    ],
+    "programme_pages": [
+      259,
+      273
+    ],
+    "expert_pages": null,
+    "web_slug": "centres-of-vocational-excellence",
+    "agency": "EACEA",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          258,
+          258
+        ],
+        "classification": "action-family-context"
+      }
+    ]
+  },
+  {
+    "code": "ERASMUS-MUNDUS",
+    "title": "Erasmus Mundus: joint masters and planning measures",
+    "sectors": [
+      "HED"
+    ],
+    "programme_pages": [
+      274,
+      288
+    ],
+    "expert_pages": null,
+    "web_slug": "erasmus-mundus",
+    "agency": "EACEA",
+    "note": "Separate EMJM and EMDM in the application and specific grid.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      }
+    ]
+  },
+  {
+    "code": "ALLIANCES-INNOVATION",
+    "title": "Alliances for innovation",
+    "sectors": [
+      "HED",
+      "VET"
+    ],
+    "programme_pages": [
+      290,
+      313
+    ],
+    "expert_pages": null,
+    "web_slug": "alliances-for-innovation",
+    "agency": "EACEA",
+    "note": "Select the call lot before extracting eligibility and criteria.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          289,
+          289
+        ],
+        "classification": "action-family-context"
+      }
+    ]
+  },
+  {
+    "code": "CBHE",
+    "title": "Capacity building in higher education",
+    "sectors": [
+      "HED"
+    ],
+    "programme_pages": [
+      314,
+      331
+    ],
+    "expert_pages": null,
+    "web_slug": "capacity-building-higher-education",
+    "agency": "EACEA",
+    "note": "Select strand and region of the call.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      }
+    ]
+  },
+  {
+    "code": "CBVET",
+    "title": "Capacity building in vocational training",
+    "sectors": [
+      "VET"
+    ],
+    "programme_pages": [
+      332,
+      342
+    ],
+    "expert_pages": null,
+    "web_slug": "capacity-building-vet",
+    "agency": "EACEA",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      }
+    ]
+  },
+  {
+    "code": "CBYOUTH",
+    "title": "Capacity building in the youth sector",
+    "sectors": [
+      "YOU"
+    ],
+    "programme_pages": [
+      343,
+      351
+    ],
+    "expert_pages": null,
+    "web_slug": "capacity-building-youth",
+    "agency": "EACEA",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      }
+    ]
+  },
+  {
+    "code": "CBSPORT",
+    "title": "Capacity building in the Sports sector",
+    "sectors": [
+      "SPO"
+    ],
+    "programme_pages": [
+      352,
+      357
+    ],
+    "expert_pages": null,
+    "web_slug": "capacity-building-sport",
+    "agency": "EACEA",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      }
+    ]
+  },
+  {
+    "code": "SPORT-EVENTS",
+    "title": "Non-profit European sporting events",
+    "sectors": [
+      "SPO"
+    ],
+    "programme_pages": [
+      358,
+      363
+    ],
+    "expert_pages": null,
+    "web_slug": "not-for-profit-european-sport-events",
+    "agency": "EACEA",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          224,
+          226
+        ],
+        "classification": "key-action-context",
+        "scope_note": "Introduction KA2: Read only the references applicable to the route."
+      }
+    ]
+  },
+  {
+    "code": "EUROPEAN-YOUTH-TOGETHER",
+    "title": "European Youth Together",
+    "sectors": [
+      "YOU"
+    ],
+    "programme_pages": [
+      366,
+      374
+    ],
+    "expert_pages": null,
+    "web_slug": "european-youth-together",
+    "agency": "EACEA",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          364,
+          365
+        ],
+        "classification": "key-action-context"
+      }
+    ]
+  },
+  {
+    "code": "JEAN-MONNET-HED",
+    "title": "Jean Monnet in higher education",
+    "sectors": [
+      "HED"
+    ],
+    "programme_pages": [
+      376,
+      391
+    ],
+    "expert_pages": null,
+    "web_slug": "higher-education-projects",
+    "agency": "EACEA",
+    "note": "Select Modules, Chairs or Centers of Excellence.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          375,
+          375
+        ],
+        "classification": "action-family-context"
+      }
+    ]
+  },
+  {
+    "code": "JEAN-MONNET-SCH-VET",
+    "title": "Jean Monnet in other fields of education and training",
+    "sectors": [
+      "SCH",
+      "VET"
+    ],
+    "programme_pages": [
+      392,
+      402
+    ],
+    "expert_pages": null,
+    "web_slug": "other-education-and-training-fields",
+    "agency": "EACEA",
+    "note": "Select teacher training or Learning EU Initiatives.",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          375,
+          375
+        ],
+        "classification": "action-family-context"
+      }
+    ]
+  },
+  {
+    "code": "JEAN-MONNET-NETWORKS",
+    "title": "Jean Monnet - political debate and networks",
+    "sectors": [
+      "HED",
+      "SCH",
+      "VET"
+    ],
+    "programme_pages": [
+      403,
+      412
+    ],
+    "expert_pages": null,
+    "web_slug": "policy-debate",
+    "agency": "EACEA",
+    "note": "",
+    "general_sources": [
+      {
+        "id": "programme-2026",
+        "pages": [
+          4,
+          36
+        ],
+        "classification": "programme-general-conditions",
+        "scope_note": "Part A: General principles and conditions, check the sector and countries."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          413,
+          442
+        ],
+        "classification": "application-general-conditions",
+        "scope_note": "Part C: cross-cutting provisions, not a certification of the current call."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          443,
+          456
+        ],
+        "classification": "glossary-context",
+        "scope_note": "Glossary: ​​definitions, not additional award criteria."
+      },
+      {
+        "id": "programme-2026",
+        "pages": [
+          375,
+          375
+        ],
+        "classification": "action-family-context"
+      }
+    ]
+  },
+  {
+    "program": "ESC",
+    "year": 2026,
+    "sectors": [
+      "ESC"
+    ],
+    "programme_source": "esc-programme-2026",
+    "expert_source": "esc-expert-2026",
+    "web_slug": "",
+    "code": "ESC50-HOST-SUPPORT",
+    "title": "Volunteering quality mark - welcoming and support roles",
+    "programme_pages": [
+      30,
+      39
+    ],
+    "expert_pages": [
+      15,
+      19
+    ],
+    "agency": "AIG",
+    "note": "ESC50 is the official form; this local route distinguishes host/support roles, evaluated positive/negative without scoring. Specify the role because the tasks are different. Don't apply the 60/100 lead role.",
+    "award_criteria": {
+      "scoring_mode": "pass-fail",
+      "total_max_points": null,
+      "total_minimum_points": null,
+      "criteria": [
+        {
+          "id": "relevance",
+          "label": "Relevance",
+          "max_points": null,
+          "programme_pages": [
+            36,
+            36
+          ],
+          "expert_pages": [
+            15,
+            16
+          ]
+        },
+        {
+          "id": "quality-measures",
+          "label": "Quality of measurements",
+          "max_points": null,
+          "programme_pages": [
+            36,
+            37
+          ],
+          "expert_pages": [
+            16,
+            18
+          ]
+        },
+        {
+          "id": "organisational-capacity",
+          "label": "Organizational capacity",
+          "max_points": null,
+          "programme_pages": [
+            37,
+            37
+          ],
+          "expert_pages": [
+            19,
+            19
+          ]
+        }
+      ],
+      "threshold_expert_pages": [
+        9,
+        9
+      ]
+    },
+    "official_action_code": "ESC50",
+    "roles": [
+      "host",
+      "support"
+    ],
+    "funding_model": "non-budgetary-quality-label",
+    "deadlines": [
+      {
+        "submission": "continuous",
+        "scope": "quality-label-application"
+      }
+    ],
+    "general_sources": [
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          6,
+          29
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          89,
+          137
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          138,
+          148
+        ]
+      },
+      {
+        "id": "esc-expert-2026",
+        "pages": [
+          3,
+          14
+        ]
+      },
+      {
+        "id": "esc-expert-2026",
+        "pages": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ESC",
+    "year": 2026,
+    "sectors": [
+      "ESC"
+    ],
+    "programme_source": "esc-programme-2026",
+    "expert_source": "esc-expert-2026",
+    "web_slug": "",
+    "code": "ESC50-LEAD",
+    "title": "Volunteering quality label - lead role",
+    "programme_pages": [
+      30,
+      39
+    ],
+    "expert_pages": [
+      15,
+      22
+    ],
+    "agency": "AIG",
+    "note": "Official ESC50 form. The lead role requires the host and/or support Quality Label: also read the positive/negative grid of the partner roles first. The 50+50 score only concerns the additional lead criteria, does not finance the project and can contribute to the ESC51 allocation.",
+    "award_criteria": {
+      "scoring_mode": "points",
+      "total_max_points": 100,
+      "total_minimum_points": 60,
+      "criterion_minimum_fraction": 0.5,
+      "criteria": [
+        {
+          "id": "strategic-approach",
+          "label": "Strategic approach",
+          "max_points": 50,
+          "minimum_points": 25,
+          "programme_pages": [
+            37,
+            37
+          ],
+          "expert_pages": [
+            20,
+            21
+          ]
+        },
+        {
+          "id": "management-coordination",
+          "label": "Management and coordination",
+          "max_points": 50,
+          "minimum_points": 25,
+          "programme_pages": [
+            37,
+            38
+          ],
+          "expert_pages": [
+            21,
+            22
+          ]
+        }
+      ],
+      "tie_break_order": [],
+      "threshold_programme_pages": [
+        37,
+        37
+      ],
+      "threshold_expert_pages": [
+        10,
+        10
+      ],
+      "integer_scores_only": true
+    },
+    "official_action_code": "ESC50",
+    "roles": [
+      "lead"
+    ],
+    "prerequisites": [
+      "ESC50-HOST-SUPPORT"
+    ],
+    "funding_model": "non-budgetary-quality-label",
+    "deadlines": [
+      {
+        "submission": "continuous",
+        "scope": "quality-label-application"
+      },
+      {
+        "submission": "2025-10-29",
+        "applies_to_grant_call_year": 2026,
+        "scope": "lead-label-submission-for-first-grant-round",
+        "programme_page": 35
+      }
+    ],
+    "general_sources": [
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          6,
+          29
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          89,
+          137
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          138,
+          148
+        ]
+      },
+      {
+        "id": "esc-expert-2026",
+        "pages": [
+          3,
+          14
+        ]
+      },
+      {
+        "id": "esc-expert-2026",
+        "pages": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ESC",
+    "year": 2026,
+    "sectors": [
+      "ESC"
+    ],
+    "programme_source": "esc-programme-2026",
+    "expert_source": "esc-expert-2026",
+    "web_slug": "",
+    "code": "ESC51",
+    "title": "Volunteer projects",
+    "programme_pages": [
+      40,
+      54
+    ],
+    "expert_pages": null,
+    "agency": "AIG",
+    "note": "Simplified grant application for organizations with valid Quality Label lead. No new qualitative assessment and no award grid ESC30: amount determined with allocation criteria and AIG national rules.",
+    "award_criteria": {
+      "scoring_mode": "budget-allocation-no-new-award-rubric",
+      "total_max_points": null,
+      "total_minimum_points": null,
+      "criteria": [],
+      "programme_pages": [
+        53,
+        54
+      ],
+      "national_source": "esc-aig-allocation-2026",
+      "national_pages": [
+        3,
+        5
+      ]
+    },
+    "official_action_code": "ESC51",
+    "prerequisites": [
+      "ESC50-LEAD"
+    ],
+    "funding_model": "unit-costs-and-conditional-real-costs",
+    "funding_programme_pages": [
+      48,
+      52
+    ],
+    "deadlines": [
+      {
+        "submission": "2026-02-18T12:00:00",
+        "timezone": "Europe/Brussels",
+        "italy_status": "confirmed",
+        "national_page": 2
+      },
+      {
+        "submission": "2026-10-01T12:00:00",
+        "timezone": "Europe/Brussels",
+        "eu_status": "optional-round",
+        "italy_status": "confirmed",
+        "national_page": 2
+      }
+    ],
+    "general_sources": [
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          6,
+          29
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          89,
+          137
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          138,
+          148
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ESC",
+    "year": 2026,
+    "sectors": [
+      "ESC"
+    ],
+    "programme_source": "esc-programme-2026",
+    "expert_source": "esc-expert-2026",
+    "web_slug": "",
+    "code": "ESC30",
+    "title": "Solidarity projects",
+    "programme_pages": [
+      63,
+      69
+    ],
+    "expert_pages": [
+      22,
+      25
+    ],
+    "agency": "AIG",
+    "note": "Project conceived and implemented by young people; minimum five members 18-30 residing in the same country. Quality Label not required for ESC30. The 40/40/20 grid is distinct from Erasmus KA2 and high priority ESC groups.",
+    "award_criteria": {
+      "scoring_mode": "points",
+      "total_max_points": 100,
+      "total_minimum_points": 60,
+      "criterion_minimum_fraction": 0.5,
+      "criteria": [
+        {
+          "id": "relevance-rationale-impact",
+          "label": "Relevance, motivation and impact",
+          "max_points": 40,
+          "minimum_points": 20,
+          "programme_pages": [
+            66,
+            66
+          ],
+          "expert_pages": [
+            22,
+            24
+          ]
+        },
+        {
+          "id": "project-design",
+          "label": "Quality of design",
+          "max_points": 40,
+          "minimum_points": 20,
+          "programme_pages": [
+            67,
+            67
+          ],
+          "expert_pages": [
+            24,
+            24
+          ]
+        },
+        {
+          "id": "project-management",
+          "label": "Quality of management",
+          "max_points": 20,
+          "minimum_points": 10,
+          "programme_pages": [
+            67,
+            67
+          ],
+          "expert_pages": [
+            25,
+            25
+          ]
+        }
+      ],
+      "tie_break_order": [
+        "relevance-rationale-impact",
+        "project-management",
+        "project-design"
+      ],
+      "threshold_programme_pages": [
+        66,
+        66
+      ],
+      "threshold_expert_pages": [
+        10,
+        10
+      ],
+      "integer_scores_only": true
+    },
+    "official_action_code": "ESC30",
+    "funding_model": "monthly-unit-cost-coach-unit-cost-conditional-real-costs",
+    "funding_programme_pages": [
+      68,
+      69
+    ],
+    "deadlines": [
+      {
+        "submission": "2026-02-18T12:00:00",
+        "timezone": "Europe/Brussels",
+        "italy_status": "confirmed",
+        "national_page": 2
+      },
+      {
+        "submission": "2026-05-07T12:00:00",
+        "timezone": "Europe/Brussels",
+        "eu_status": "optional-round",
+        "italy_status": "not-organised-in-published-italian-2026-round-scheme",
+        "national_page": 2
+      },
+      {
+        "submission": "2026-10-01T12:00:00",
+        "timezone": "Europe/Brussels",
+        "italy_status": "confirmed",
+        "national_page": 2
+      }
+    ],
+    "general_sources": [
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          6,
+          29
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          89,
+          137
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          138,
+          148
+        ]
+      },
+      {
+        "id": "esc-expert-2026",
+        "pages": [
+          3,
+          14
+        ]
+      },
+      {
+        "id": "esc-expert-2026",
+        "pages": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ESC",
+    "year": 2026,
+    "sectors": [
+      "ESC"
+    ],
+    "programme_source": "esc-programme-2026",
+    "expert_source": "esc-expert-2026",
+    "web_slug": "",
+    "code": "ESC-VTHPA",
+    "title": "Volunteer groups in high priority areas",
+    "programme_pages": [
+      55,
+      62
+    ],
+    "expert_pages": null,
+    "agency": "EACEA",
+    "note": "Local alias, not form code ESC51. Centralized action with its own 30/40/30 grid and annual EU priorities. The attached expert guidance for national actions does not cover this call. Consortium and Quality Label verified in the specific section.",
+    "award_criteria": {
+      "scoring_mode": "points",
+      "total_max_points": 100,
+      "total_minimum_points": 60,
+      "criterion_minimum_fraction": 0.5,
+      "criteria": [
+        {
+          "id": "relevance-rationale-impact",
+          "label": "Relevance, motivation and impact",
+          "max_points": 30,
+          "minimum_points": 15,
+          "programme_pages": [
+            60,
+            61
+          ]
+        },
+        {
+          "id": "project-design",
+          "label": "Quality of design",
+          "max_points": 40,
+          "minimum_points": 20,
+          "programme_pages": [
+            61,
+            61
+          ]
+        },
+        {
+          "id": "project-management",
+          "label": "Quality of management",
+          "max_points": 30,
+          "minimum_points": 15,
+          "programme_pages": [
+            61,
+            61
+          ]
+        }
+      ],
+      "tie_break_order": [
+        "relevance-rationale-impact",
+        "project-management",
+        "project-design"
+      ],
+      "threshold_programme_pages": [
+        60,
+        60
+      ]
+    },
+    "call_id": "ESC-SOLID-2026-VTHPA",
+    "call_id_status": "confirmed-by-official-national-agency-list; EU topic content not fetched",
+    "call_id_reference": "https://www.ua.gov.tr/anasayfa/icerikler/teklif-cagrilari-ve-rehberler/",
+    "call_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-SOLID-2026-VTHPA",
+    "prerequisites": [
+      "ESC50-HOST-SUPPORT",
+      "ESC50-LEAD-for-coordinator"
+    ],
+    "funding_model": "unit-costs",
+    "funding_programme_pages": [
+      62,
+      62
+    ],
+    "maximum_eu_grant": 400000,
+    "annual_priorities_programme_pages": [
+      55,
+      56
+    ],
+    "deadlines": [
+      {
+        "submission": "2026-03-03T17:00:00",
+        "timezone": "Europe/Brussels",
+        "programme_page": 60
+      }
+    ],
+    "general_sources": [
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          6,
+          29
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          89,
+          137
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          138,
+          148
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ESC",
+    "year": 2026,
+    "sectors": [
+      "ESC"
+    ],
+    "programme_source": "esc-programme-2026",
+    "expert_source": "esc-expert-2026",
+    "web_slug": "",
+    "code": "ESC-HUMAID-QL",
+    "title": "Humanitarian volunteering quality label",
+    "programme_pages": [
+      71,
+      79
+    ],
+    "expert_pages": null,
+    "agency": "EACEA",
+    "note": "Local alias. Humanitarian label distinguished by ESC50; host/support roles only, support allows you to coordinate humanitarian projects. Grid by role with no numerical scores published in the Guide. The attached expert guide concerns national ESC50 and ESC30, not this EACEA label. The September 2026 deadline enables participation in the 2027 grant call, failure to apply in September 2025 for the 2026 call will not be remedied.",
+    "award_criteria": {
+      "scoring_mode": "qualitative-award-criteria-no-numeric-grid-published-in-guide",
+      "total_max_points": null,
+      "total_minimum_points": null,
+      "criteria": [
+        {
+          "id": "relevance",
+          "label": "Relevance and humanitarian principles",
+          "max_points": null,
+          "programme_pages": [
+            76,
+            78
+          ]
+        },
+        {
+          "id": "quality-measures",
+          "label": "Quality of measures and protection",
+          "max_points": null,
+          "programme_pages": [
+            76,
+            78
+          ]
+        },
+        {
+          "id": "organisational-capacity",
+          "label": "Organizational capacity",
+          "max_points": null,
+          "programme_pages": [
+            77,
+            78
+          ]
+        }
+      ],
+      "programme_pages": [
+        76,
+        78
+      ]
+    },
+    "call_id": "ESC-HUMAID-2026-QUAL-LABEL-FP",
+    "call_id_status": "confirmed-by-official-national-agency-list; EU topic content not fetched",
+    "call_id_reference": "https://www.ua.gov.tr/anasayfa/icerikler/teklif-cagrilari-ve-rehberler/",
+    "call_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-HUMAID-2026-QUAL-LABEL-FP",
+    "roles": [
+      "host",
+      "support"
+    ],
+    "funding_model": "non-budgetary-quality-label",
+    "deadlines": [
+      {
+        "submission": "continuous",
+        "scope": "quality-label-application"
+      },
+      {
+        "submission": "2025-09-23T17:00:00",
+        "timezone": "Europe/Brussels",
+        "applies_to_grant_call_year": 2026,
+        "programme_page": 76
+      },
+      {
+        "submission": "2026-09-22T17:00:00",
+        "timezone": "Europe/Brussels",
+        "applies_to_grant_call_year": 2027,
+        "programme_page": 76
+      }
+    ],
+    "general_sources": [
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          6,
+          29
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          89,
+          137
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          138,
+          148
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ESC",
+    "year": 2026,
+    "sectors": [
+      "ESC"
+    ],
+    "programme_source": "esc-programme-2026",
+    "expert_source": "esc-expert-2026",
+    "web_slug": "",
+    "code": "ESC-HUMAID-VOL",
+    "title": "Volunteering in the European Humanitarian Aid Corps",
+    "programme_pages": [
+      80,
+      88
+    ],
+    "expert_pages": null,
+    "agency": "EACEA",
+    "note": "Local alias. Centralized action for participants 18-35 with mandatory training and specific humanitarian labels. 40/40/20 grid but ex aequo criterion and order distinct from ESC30; do not use the national expert guide as a specific grid. Check consortium, countries, absence of conflicts and updated conditions of the call.",
+    "award_criteria": {
+      "scoring_mode": "points",
+      "total_max_points": 100,
+      "total_minimum_points": 60,
+      "criterion_minimum_fraction": 0.5,
+      "criteria": [
+        {
+          "id": "relevance-rationale-impact",
+          "label": "Relevance, motivation and impact",
+          "max_points": 40,
+          "minimum_points": 20,
+          "programme_pages": [
+            86,
+            86
+          ]
+        },
+        {
+          "id": "project-design",
+          "label": "Quality of design",
+          "max_points": 40,
+          "minimum_points": 20,
+          "programme_pages": [
+            86,
+            87
+          ]
+        },
+        {
+          "id": "project-management",
+          "label": "Quality of management",
+          "max_points": 20,
+          "minimum_points": 10,
+          "programme_pages": [
+            87,
+            87
+          ]
+        }
+      ],
+      "tie_break_order": [
+        "relevance-rationale-impact",
+        "project-design",
+        "project-management"
+      ],
+      "threshold_programme_pages": [
+        86,
+        86
+      ]
+    },
+    "call_id": "ESC-HUMAID-2026-VOLUN",
+    "call_id_status": "confirmed-by-official-national-agency-list; EU topic content not fetched",
+    "call_id_reference": "https://www.ua.gov.tr/anasayfa/icerikler/teklif-cagrilari-ve-rehberler/",
+    "call_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-HUMAID-2026-VOLUN",
+    "prerequisites": [
+      "ESC-HUMAID-QL"
+    ],
+    "funding_model": "unit-costs",
+    "funding_programme_pages": [
+      88,
+      88
+    ],
+    "maximum_eu_grant": 650000,
+    "deadlines": [
+      {
+        "submission": "2026-04-23T17:00:00",
+        "timezone": "Europe/Brussels",
+        "programme_page": 85
+      }
+    ],
+    "general_sources": [
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          6,
+          29
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          89,
+          137
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          138,
+          148
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "coverage_status": "targeted-partial",
+  "verified_at": "2026-09-12",
+  "source_authority": "Exact user-supplied program guide 2026 and immutable local evidence; live official sections checked for corroboration, not blanket freshness certification",
+  "live_checks": [
+    {
+      "action": "KA152",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-exchanges",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA153",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/mobility-youth-workers",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA154",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-participation",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA155",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/discovereu",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA150",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/erasmus-accreditation-youth",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA220-YOU",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/cooperation-partnerships",
+      "checked_at": "2026-09-12",
+      "status": "opened-official-section"
+    },
+    {
+      "action": "KA151",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/accredited-youth-organisations",
+      "checked_at": "2026-09-12",
+      "status": "direct-open-failed; local guide verified; live route needs verification"
+    }
+  ],
+  "id": "ka150-2026",
+  "scope": {
+    "program": "ERASMUS",
+    "year": 2026,
+    "actions": [
+      "KA150"
+    ],
+    "sectors": [
+      "YOU"
+    ]
+  },
+  "program": "ERASMUS",
+  "year": 2026,
+  "actions": [
+    "KA150"
+  ],
+  "coverage": {
+    "status": "targeted-partial",
+    "exhaustive": false
+  },
+  "checks": [
+    {
+      "id": "ka150-experience",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA150"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "requirement",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Organization legally established at least two years before the deadline and at least two years of relevant youth experience; operational/financial capacity and standards to be verified.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 145; Eligibility; Selection criteria",
+          "page": 145,
+          "section": "Eligibility; Selection criteria",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0145.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        },
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 146; Eligibility; Selection criteria",
+          "page": 146,
+          "section": "Eligibility; Selection criteria",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0146.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA150"
+      ]
+    },
+    {
+      "id": "ka150-plan",
+      "scope": {
+        "program": "ERASMUS",
+        "year": 2026,
+        "actions": [
+          "KA150"
+        ],
+        "sectors": [
+          "YOU"
+        ]
+      },
+      "classification": "award-criterion",
+      "stages": [
+        "intervention-design",
+        "application-draft",
+        "review",
+        "qa"
+      ],
+      "check": "Accreditation evaluates long-term plan and management integrated into ordinary activity; do not automatically apply form/address book KA152.",
+      "evidence_needed": [
+        "Real project data and documents with precise references; a future plan is distinct from activities already carried out."
+      ],
+      "applicability": "Always for this action and annuity; check role and variant before applying.",
+      "default_status": "to-verify",
+      "failure_handling": "Report discrepancy or missing evidence; classify the severity according to requirement/criterion and impact, without certifying total compliance.",
+      "sources": [
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 146; Award criteria",
+          "page": 146,
+          "section": "Award criteria",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0146.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        },
+        {
+          "source_id": "programme-2026",
+          "locator": "PDF physical page 147; Award criteria",
+          "page": 147,
+          "section": "Award criteria",
+          "path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0/pages/page-0147.md",
+          "snapshot_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+          "verified_at": "2026-09-12"
+        }
+      ],
+      "actions": [
+        "KA150"
+      ]
+    }
+  ]
+}

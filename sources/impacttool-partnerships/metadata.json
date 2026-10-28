@@ -1,0 +1,54 @@
+{
+  "id": "impacttool-partnerships",
+  "title": "Impacttool Partnerships KA2 - Dutch National Agency",
+  "url": "https://www.erasmusplus.nl/en/impacttool-strategicpartnerships",
+  "path": "raw/web/impacttool-partnerships.html",
+  "year": 2026,
+  "publication_year": null,
+  "kind": "methodological-resource",
+  "sectors": [
+    "SCH",
+    "ADU",
+    "VET",
+    "HED",
+    "YOU"
+  ],
+  "actions": [
+    "KA220-SCH",
+    "KA220-ADU",
+    "KA220-VET",
+    "KA220-HED",
+    "KA220-YOU",
+    "KA210-SCH",
+    "KA210-ADU",
+    "KA210-VET",
+    "KA210-YOU",
+    "KA240"
+  ],
+  "authority": "Dutch national agency",
+  "language": "en",
+  "download": true,
+  "scope_note": "KA2 partnership impact design method; capture/corpus batch2026, publication year/version unobserved. Not Italian priority, award rubric, current form profile or Erasmus/ESC grant requirement. Other actions require explicit methodological adaptation.",
+  "sha256": "3f33a16df34d76fde0d3faa914498e4a8933de22341ce6df5e27b345a01c2630",
+  "resolved_url": "https://www.erasmusplus.nl/en/impacttool-strategicpartnerships",
+  "checked_at": "2026-09-14",
+  "html_content_scope": "full-static-document",
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "3f33a16df34d76fde0d3faa914498e4a8933de22341ce6df5e27b345a01c2630",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "impacttool-partnerships:p0001",
+      "path": "sources/impacttool-partnerships/revisions/3f33a16df34d76fde0d3faa914498e4a8933de22341ce6df5e27b345a01c2630/pages/page-0001.md",
+      "active_path": "sources/impacttool-partnerships/pages/page-0001.md",
+      "derived_sha256": "b31455dcc1a0e846699961c4c25a6b9d01cce42cdcc82705a44fcce0e20ef26a"
+    }
+  ],
+  "full_path": "sources/impacttool-partnerships/revisions/3f33a16df34d76fde0d3faa914498e4a8933de22341ce6df5e27b345a01c2630/full.md",
+  "full_sha256": "b31455dcc1a0e846699961c4c25a6b9d01cce42cdcc82705a44fcce0e20ef26a",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

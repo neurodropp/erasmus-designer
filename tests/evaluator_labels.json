@@ -1,0 +1,85 @@
+{
+  "schema": "synthetic-evaluator-labels-v1",
+  "cases": [
+    {
+      "id": "E001",
+      "expected_label": "supported"
+    },
+    {
+      "id": "E002",
+      "expected_label": "insufficient"
+    },
+    {
+      "id": "E003",
+      "expected_label": "supported"
+    },
+    {
+      "id": "E004",
+      "expected_label": "insufficient"
+    },
+    {
+      "id": "E005",
+      "expected_label": "supported"
+    },
+    {
+      "id": "E006",
+      "expected_label": "insufficient"
+    },
+    {
+      "id": "E007",
+      "expected_label": "supported"
+    },
+    {
+      "id": "E008",
+      "expected_label": "insufficient"
+    },
+    {
+      "id": "E009",
+      "expected_label": "supported"
+    },
+    {
+      "id": "E010",
+      "expected_label": "insufficient"
+    },
+    {
+      "id": "E011",
+      "expected_label": "supported"
+    },
+    {
+      "id": "E012",
+      "expected_label": "insufficient"
+    },
+    {
+      "id": "E013",
+      "expected_label": "supported"
+    },
+    {
+      "id": "E014",
+      "expected_label": "insufficient"
+    },
+    {
+      "id": "E015",
+      "expected_label": "supported"
+    },
+    {
+      "id": "E016",
+      "expected_label": "insufficient"
+    },
+    {
+      "id": "E017",
+      "expected_label": "supported"
+    },
+    {
+      "id": "E018",
+      "expected_label": "insufficient"
+    },
+    {
+      "id": "E019",
+      "expected_label": "supported"
+    },
+    {
+      "id": "E020",
+      "expected_label": "insufficient"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "schema": "synthetic-evaluator-input-v1",
+  "purpose": "Qualitative evidence localization only; no verified current call grid supplied, no numerical scoring or eligibility judgment",
+  "cases": [
+    {
+      "id": "E001",
+      "rule_id": "CAL-01",
+      "text": "Un bisogno locale è motivato con osservazione contestuale pertinente e limiti dichiarati.",
+      "evidence": {
+        "need_claim": true,
+        "context_evidence": true,
+        "target_group_link": true
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E002",
+      "rule_id": "CAL-01",
+      "text": "Il bisogno è proclamato universale senza contesto né collegamento ai destinatari.",
+      "evidence": {
+        "need_claim": true,
+        "context_evidence": true,
+        "target_group_link": false
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E003",
+      "rule_id": "CAL-02",
+      "text": "Un obiettivo deriva dal bisogno, orienta una attività e produce un risultato osservabile.",
+      "evidence": {
+        "need_to_objective": true,
+        "activity_to_objective": true,
+        "observable_result": true
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E004",
+      "rule_id": "CAL-02",
+      "text": "L’obiettivo è chiaro ma le attività sono scollegate e il risultato non è definito.",
+      "evidence": {
+        "need_to_objective": true,
+        "activity_to_objective": true,
+        "observable_result": false
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E005",
+      "rule_id": "CAL-03",
+      "text": "Un laboratorio usa una sequenza spiegata e un controllo coerente dell’apprendimento.",
+      "evidence": {
+        "method_rationale": true,
+        "session_or_task_mechanism": true,
+        "learning_or_change_check": true
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E006",
+      "rule_id": "CAL-03",
+      "text": "Il progetto elenca nomi di metodi senza spiegare l’attività né il controllo.",
+      "evidence": {
+        "method_rationale": true,
+        "session_or_task_mechanism": true,
+        "learning_or_change_check": false
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E007",
+      "rule_id": "CAL-04",
+      "text": "Ruoli distinti usano capacità pertinenti e una procedura condivisa di coordinamento.",
+      "evidence": {
+        "role_assignment": true,
+        "capacity_for_role": true,
+        "coordination_mechanism": true
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E008",
+      "rule_id": "CAL-04",
+      "text": "Sono elencate esperienze generiche ma nessuno sa chi produce o approva il risultato.",
+      "evidence": {
+        "role_assignment": true,
+        "capacity_for_role": true,
+        "coordination_mechanism": false
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E009",
+      "rule_id": "CAL-05",
+      "text": "Una barriera contestuale è collegata a sostegno pratico e a un responsabile.",
+      "evidence": {
+        "barrier_context": true,
+        "practical_support": true,
+        "support_responsibility": true
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E010",
+      "rule_id": "CAL-05",
+      "text": "È promessa inclusione ma la barriera resta senza sostegno pratico né responsabile.",
+      "evidence": {
+        "barrier_context": true,
+        "practical_support": true,
+        "support_responsibility": false
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E011",
+      "rule_id": "CAL-06",
+      "text": "Il cambiamento è controllato con una rubrica pertinente, momento e responsabile definiti.",
+      "evidence": {
+        "measured_change": true,
+        "measurement_method": true,
+        "measurement_owner_time": true
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E012",
+      "rule_id": "CAL-06",
+      "text": "L’unica prova di cambiamento è il numero di presenze a una attività.",
+      "evidence": {
+        "measured_change": true,
+        "measurement_method": true,
+        "measurement_owner_time": false
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E013",
+      "rule_id": "CAL-07",
+      "text": "Un cambiamento circoscritto ha beneficiari chiari e continuità legata a risorse disponibili.",
+      "evidence": {
+        "beneficiary_change": true,
+        "causal_path": true,
+        "continuity_conditions": true
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E014",
+      "rule_id": "CAL-07",
+      "text": "Il progetto promette trasformazioni vaste senza percorso causale né risorse per continuare.",
+      "evidence": {
+        "beneficiary_change": true,
+        "causal_path": true,
+        "continuity_conditions": false
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E015",
+      "rule_id": "CAL-08",
+      "text": "Un pubblico pertinente riceve il risultato tramite un canale spiegato e un responsabile.",
+      "evidence": {
+        "audience": true,
+        "channel_use_link": true,
+        "communication_owner": true
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E016",
+      "rule_id": "CAL-08",
+      "text": "Una lista di canali generici sostituisce il pubblico e l’utilizzo previsto.",
+      "evidence": {
+        "audience": true,
+        "channel_use_link": true,
+        "communication_owner": false
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E017",
+      "rule_id": "CAL-09",
+      "text": "Risorse e tempi sono collegati alle attività usando il contesto finanziario pertinente.",
+      "evidence": {
+        "activity_resource_link": true,
+        "capacity_and_schedule": true,
+        "financial_model_context": true
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E018",
+      "rule_id": "CAL-09",
+      "text": "La ripartizione finanziaria non corrisponde alle attività né alla capacità operativa.",
+      "evidence": {
+        "activity_resource_link": true,
+        "capacity_and_schedule": true,
+        "financial_model_context": false
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E019",
+      "rule_id": "CAL-10",
+      "text": "I giovani hanno compiti e scelte documentati in progettazione, preparazione, attuazione e seguito.",
+      "evidence": {
+        "youth_design_role": true,
+        "youth_preparation_role": true,
+        "youth_implementation_role": true,
+        "youth_followup_role": true
+      },
+      "origin": "written-from-zero-synthetic"
+    },
+    {
+      "id": "E020",
+      "rule_id": "CAL-10",
+      "text": "Sono destinatari delle attività ma nessuna loro scelta o responsabilità è localizzata nelle fasi.",
+      "evidence": {
+        "youth_design_role": true,
+        "youth_preparation_role": true,
+        "youth_implementation_role": true,
+        "youth_followup_role": false
+      },
+      "origin": "written-from-zero-synthetic"
+    }
+  ]
+}

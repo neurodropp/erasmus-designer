@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-1f7abde4e855",
+  "title": "Step 2: Check the compliance with the programme criteria",
+  "path": "raw/web/eu-guide-1f7abde4e855.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply/step-2-compliance",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply/step-2-compliance",
+  "sha256": "545131e2a070ee2512a939baa3cb03216faab321607f1f72b1cedb7e2cf19f59",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "545131e2a070ee2512a939baa3cb03216faab321607f1f72b1cedb7e2cf19f59",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-1f7abde4e855:p0001",
+      "path": "sources/eu-guide-1f7abde4e855/revisions/545131e2a070ee2512a939baa3cb03216faab321607f1f72b1cedb7e2cf19f59/pages/page-0001.md",
+      "active_path": "sources/eu-guide-1f7abde4e855/pages/page-0001.md",
+      "derived_sha256": "3655c5779992624170f2ab15af081316ac7caddcb1a74e8f365858b501eeff6f"
+    }
+  ],
+  "full_path": "sources/eu-guide-1f7abde4e855/revisions/545131e2a070ee2512a939baa3cb03216faab321607f1f72b1cedb7e2cf19f59/full.md",
+  "full_sha256": "3655c5779992624170f2ab15af081316ac7caddcb1a74e8f365858b501eeff6f",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

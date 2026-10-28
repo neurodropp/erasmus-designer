@@ -1,0 +1,4 @@
+# Optional extraction runtime observed locally; core tools use Python 3.11+ stdlib.
+# Direct dependencies pinned; this is not a full cross-platform dependency lock.
+python-docx==1.2.0
+openpyxl==3.1.5

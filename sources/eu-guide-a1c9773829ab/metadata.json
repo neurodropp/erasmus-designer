@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-a1c9773829ab",
+  "title": "European Partnerships for School Development",
+  "path": "raw/web/eu-guide-a1c9773829ab.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/school-development-partnerships",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/school-development-partnerships",
+  "sha256": "2037f74ba9bea878c7f8074366a548ec27d8c2530cac993755c5a516ec326183",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "SCH"
+  ],
+  "actions": [
+    "KA240"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "2037f74ba9bea878c7f8074366a548ec27d8c2530cac993755c5a516ec326183",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-a1c9773829ab:p0001",
+      "path": "sources/eu-guide-a1c9773829ab/revisions/2037f74ba9bea878c7f8074366a548ec27d8c2530cac993755c5a516ec326183/pages/page-0001.md",
+      "active_path": "sources/eu-guide-a1c9773829ab/pages/page-0001.md",
+      "derived_sha256": "59bc78f1949194f5f22e84a84a30bffda7ff7942e11cedd1368e4b2820c5ca7d"
+    }
+  ],
+  "full_path": "sources/eu-guide-a1c9773829ab/revisions/2037f74ba9bea878c7f8074366a548ec27d8c2530cac993755c5a516ec326183/full.md",
+  "full_sha256": "59bc78f1949194f5f22e84a84a30bffda7ff7942e11cedd1368e4b2820c5ca7d",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

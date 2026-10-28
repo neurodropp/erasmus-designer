@@ -1,0 +1,107 @@
+{
+  "id": "quality-standards-mobility",
+  "title": "Erasmus Quality Standards mobility - 2020, richiamati 2026",
+  "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2021-09/erasmus-quality-standards-mobility-nov-2020_en.pdf",
+  "path": "raw/pdf/quality-standards-mobility.pdf",
+  "year": 2026,
+  "publication_year": 2020,
+  "kind": "quality-standards",
+  "sectors": [
+    "SCH",
+    "ADU",
+    "VET"
+  ],
+  "actions": [
+    "KA120",
+    "KA121",
+    "KA122"
+  ],
+  "authority": "European Commission",
+  "language": "en",
+  "download": true,
+  "scope_note": "Documento metodologico/standard richiamato nel corpus 2026; non è una priorità italiana né una griglia universale.",
+  "sha256": "631e2b41c14e1761c35f01b2104b15e93e55eb9ba093916ce8addb04d0dc0621",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2021-09/erasmus-quality-standards-mobility-nov-2020_en.pdf",
+  "checked_at": "2026-09-12",
+  "program": "ERASMUS",
+  "pages": 10,
+  "original_sha256": "631e2b41c14e1761c35f01b2104b15e93e55eb9ba093916ce8addb04d0dc0621",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "quality-standards-mobility:p0001",
+      "path": "sources/quality-standards-mobility/revisions/631e2b41c14e1761c35f01b2104b15e93e55eb9ba093916ce8addb04d0dc0621/pages/page-0001.md",
+      "active_path": "sources/quality-standards-mobility/pages/page-0001.md",
+      "derived_sha256": "14622fcbd3db56060636a0d3886944c8c49a1a009752630648c300b76d2dc888"
+    },
+    {
+      "number": 2,
+      "id": "quality-standards-mobility:p0002",
+      "path": "sources/quality-standards-mobility/revisions/631e2b41c14e1761c35f01b2104b15e93e55eb9ba093916ce8addb04d0dc0621/pages/page-0002.md",
+      "active_path": "sources/quality-standards-mobility/pages/page-0002.md",
+      "derived_sha256": "45f535206d8d07f91379253a10c94ca46764c3668eba144c2874439eaa4e779c"
+    },
+    {
+      "number": 3,
+      "id": "quality-standards-mobility:p0003",
+      "path": "sources/quality-standards-mobility/revisions/631e2b41c14e1761c35f01b2104b15e93e55eb9ba093916ce8addb04d0dc0621/pages/page-0003.md",
+      "active_path": "sources/quality-standards-mobility/pages/page-0003.md",
+      "derived_sha256": "e10517e677df8546c598f1137389a5389ddac94ec0d0ec47a27b88b04ac9d6f4"
+    },
+    {
+      "number": 4,
+      "id": "quality-standards-mobility:p0004",
+      "path": "sources/quality-standards-mobility/revisions/631e2b41c14e1761c35f01b2104b15e93e55eb9ba093916ce8addb04d0dc0621/pages/page-0004.md",
+      "active_path": "sources/quality-standards-mobility/pages/page-0004.md",
+      "derived_sha256": "06a33baee1c426805fe5c82190765b4f6c6c52c21e26ee11bff219fbd8e2ec10"
+    },
+    {
+      "number": 5,
+      "id": "quality-standards-mobility:p0005",
+      "path": "sources/quality-standards-mobility/revisions/631e2b41c14e1761c35f01b2104b15e93e55eb9ba093916ce8addb04d0dc0621/pages/page-0005.md",
+      "active_path": "sources/quality-standards-mobility/pages/page-0005.md",
+      "derived_sha256": "91da8a5019cb50248335c12329c749259c2cc2a840fd81a4107a3dcfcc42430d"
+    },
+    {
+      "number": 6,
+      "id": "quality-standards-mobility:p0006",
+      "path": "sources/quality-standards-mobility/revisions/631e2b41c14e1761c35f01b2104b15e93e55eb9ba093916ce8addb04d0dc0621/pages/page-0006.md",
+      "active_path": "sources/quality-standards-mobility/pages/page-0006.md",
+      "derived_sha256": "e636cdf33606d4f9fcf74f1ed39f3cd60d6238e27626cda266950a80567d76ac"
+    },
+    {
+      "number": 7,
+      "id": "quality-standards-mobility:p0007",
+      "path": "sources/quality-standards-mobility/revisions/631e2b41c14e1761c35f01b2104b15e93e55eb9ba093916ce8addb04d0dc0621/pages/page-0007.md",
+      "active_path": "sources/quality-standards-mobility/pages/page-0007.md",
+      "derived_sha256": "b8eccd5e157591bf8070c89bc9bdb941a0a495d8b8c6f82f896ebb2f8c42d924"
+    },
+    {
+      "number": 8,
+      "id": "quality-standards-mobility:p0008",
+      "path": "sources/quality-standards-mobility/revisions/631e2b41c14e1761c35f01b2104b15e93e55eb9ba093916ce8addb04d0dc0621/pages/page-0008.md",
+      "active_path": "sources/quality-standards-mobility/pages/page-0008.md",
+      "derived_sha256": "686250d3adfc7cfe9810c74a9ac90a1bfeac4608693f2efc264ed04f39e75a0c"
+    },
+    {
+      "number": 9,
+      "id": "quality-standards-mobility:p0009",
+      "path": "sources/quality-standards-mobility/revisions/631e2b41c14e1761c35f01b2104b15e93e55eb9ba093916ce8addb04d0dc0621/pages/page-0009.md",
+      "active_path": "sources/quality-standards-mobility/pages/page-0009.md",
+      "derived_sha256": "352b067e62aebb1d7de828d700d9a592bb6049c38c0682ba5a961a7f49f387d6"
+    },
+    {
+      "number": 10,
+      "id": "quality-standards-mobility:p0010",
+      "path": "sources/quality-standards-mobility/revisions/631e2b41c14e1761c35f01b2104b15e93e55eb9ba093916ce8addb04d0dc0621/pages/page-0010.md",
+      "active_path": "sources/quality-standards-mobility/pages/page-0010.md",
+      "derived_sha256": "685db23dbad9ce559ef75e5f6d1561957a5bc014ea087baddd9b94c05ea1bb0a"
+    }
+  ],
+  "full_path": "sources/quality-standards-mobility/revisions/631e2b41c14e1761c35f01b2104b15e93e55eb9ba093916ce8addb04d0dc0621/full.md",
+  "full_sha256": "1eac960f97678fea2732e82a273edf4619a9110aae57d3ab17c5e55e167a7e51",
+  "repaired_from_verified_original": [],
+  "extraction": "pdftotext -layout, physical one-based PDF pages",
+  "extracted_at": "2026-09-16"
+}

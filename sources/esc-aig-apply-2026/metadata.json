@@ -1,0 +1,43 @@
+{
+  "id": "esc-aig-apply-2026",
+  "title": "AIG - presentare un progetto ESC, scadenze 2026",
+  "path": "raw/web/esc-aig-apply-2026.html",
+  "url": "https://agenziagioventu.gov.it/new-presenta-un-progetto/",
+  "kind": "national-guidance",
+  "program": "ESC",
+  "year": 2026,
+  "language": "it",
+  "version": "2026 deadline section; snapshot 12/09/2026",
+  "authority": "Agenzia Italiana per la Gioventù",
+  "actions": [
+    "ESC50-HOST-SUPPORT",
+    "ESC50-LEAD",
+    "ESC30",
+    "ESC51"
+  ],
+  "sectors": [
+    "ESC"
+  ],
+  "checked_at": "2026-09-12",
+  "sha256": "fc5d74728a91d78b816e999941ab413b60b316eaf240d7715a58fcdacc96088d",
+  "download": true,
+  "scope_note": "ESC national actions only. 2026 deadlines February18/October1 confirmed. The note about Lead deadline October31 2024 explicitly concerns year2025 and is archival; do not apply it to year2026, whose lead deadline is programme PDF p.35.",
+  "resolved_url": "https://agenziagioventu.gov.it/new-presenta-un-progetto/",
+  "pages": 1,
+  "original_sha256": "fc5d74728a91d78b816e999941ab413b60b316eaf240d7715a58fcdacc96088d",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "esc-aig-apply-2026:p0001",
+      "path": "sources/esc-aig-apply-2026/revisions/fc5d74728a91d78b816e999941ab413b60b316eaf240d7715a58fcdacc96088d/pages/page-0001.md",
+      "active_path": "sources/esc-aig-apply-2026/pages/page-0001.md",
+      "derived_sha256": "e66f76a51a9f02354205cfdcadf7574a964353ff92af9b5e3220273a7d2e7c01"
+    }
+  ],
+  "full_path": "sources/esc-aig-apply-2026/revisions/fc5d74728a91d78b816e999941ab413b60b316eaf240d7715a58fcdacc96088d/full.md",
+  "full_sha256": "e66f76a51a9f02354205cfdcadf7574a964353ff92af9b5e3220273a7d2e7c01",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

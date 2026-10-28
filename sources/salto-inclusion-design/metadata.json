@@ -1,0 +1,40 @@
+{
+  "id": "salto-inclusion-design",
+  "title": "SALTO Inclusion by Design",
+  "url": "https://www.salto-youth.net/rc/inclusion/inclusionpublications/inclusionbydesign/",
+  "path": "raw/web/salto-inclusion-design.html",
+  "year": 2026,
+  "publication_year": null,
+  "kind": "methodological-resource",
+  "sectors": [
+    "YOU"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "authority": "SALTO",
+  "language": "en",
+  "download": true,
+  "scope_note": "Documento metodologico/standard richiamato nel corpus 2026; non è una priorità italiana né una griglia universale.",
+  "sha256": "2c2b9aeac1f5dc6c977219577bbdcb9757c909f40a6ecb3081fc1c0432e89c70",
+  "resolved_url": "https://www.salto-youth.net/rc/inclusion/inclusionpublications/inclusionbydesign/",
+  "checked_at": "2026-09-12",
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "2c2b9aeac1f5dc6c977219577bbdcb9757c909f40a6ecb3081fc1c0432e89c70",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "salto-inclusion-design:p0001",
+      "path": "sources/salto-inclusion-design/revisions/2c2b9aeac1f5dc6c977219577bbdcb9757c909f40a6ecb3081fc1c0432e89c70/pages/page-0001.md",
+      "active_path": "sources/salto-inclusion-design/pages/page-0001.md",
+      "derived_sha256": "130444d8c099d3ce1acdeb6230be5c226061b0a592a19c44c55cdc3322ecbd5b"
+    }
+  ],
+  "full_path": "sources/salto-inclusion-design/revisions/2c2b9aeac1f5dc6c977219577bbdcb9757c909f40a6ecb3081fc1c0432e89c70/full.md",
+  "full_sha256": "130444d8c099d3ce1acdeb6230be5c226061b0a592a19c44c55cdc3322ecbd5b",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

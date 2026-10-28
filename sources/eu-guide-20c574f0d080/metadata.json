@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-20c574f0d080",
+  "title": "Centres of Vocational Excellence",
+  "path": "raw/web/eu-guide-20c574f0d080.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/centres-of-vocational-excellence",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/centres-of-vocational-excellence",
+  "sha256": "2d80d47a66876c20724f41cec061adfe74fa0fcd967d80d4b190abbe5ef5a539",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "VET"
+  ],
+  "actions": [
+    "COVE"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "2d80d47a66876c20724f41cec061adfe74fa0fcd967d80d4b190abbe5ef5a539",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-20c574f0d080:p0001",
+      "path": "sources/eu-guide-20c574f0d080/revisions/2d80d47a66876c20724f41cec061adfe74fa0fcd967d80d4b190abbe5ef5a539/pages/page-0001.md",
+      "active_path": "sources/eu-guide-20c574f0d080/pages/page-0001.md",
+      "derived_sha256": "8b2efbe2632f4f7ea5dd09c155887c9ad69fe4842b82d01dceb5f09826cf9327"
+    }
+  ],
+  "full_path": "sources/eu-guide-20c574f0d080/revisions/2d80d47a66876c20724f41cec061adfe74fa0fcd967d80d4b190abbe5ef5a539/full.md",
+  "full_sha256": "8b2efbe2632f4f7ea5dd09c155887c9ad69fe4842b82d01dceb5f09826cf9327",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

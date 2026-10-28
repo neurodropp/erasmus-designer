@@ -1,0 +1,5 @@
+# Erasmus Designer
+
+The memory serves Erasmus+ and ESC with shared processes and distinct rules. Includes application form profiles, caps and locators, non-normative user template practices and examples, and blueprints with dedicated owners for attachments. Each application has a separate file and data form; the attachments are consistent views of the same model. Critical analysis at every stage: limits, alternatives and decisions based on evidence, without complacency or promises of victory. The workflow remains in the Codex runtime; no additional daemons or providers are simulated.
+
+Second Italian brain to support design, responsible editing and review of Erasmus+ applications, using provided 2026 guides, official website and INDIRE/INAPP/AIG provisions. Organize by action, sector and year; first recover retained knowledge and then original evidence. Coordinate specialists through skill and agent loops, preserving eligibility, proportionality, simulated score limits and missing data. Memory serves the local project; no global writing or implicit external candidacy.

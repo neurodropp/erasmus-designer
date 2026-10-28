@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-d1612b1a4e83",
+  "title": "Mobility projects for youth workers",
+  "path": "raw/web/eu-guide-d1612b1a4e83.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-workers",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-workers",
+  "sha256": "786e4a8ff8afdf0a3a0054a7087cea05a69f9676c120f31d73db70e227948e40",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "YOU"
+  ],
+  "actions": [
+    "KA153"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "786e4a8ff8afdf0a3a0054a7087cea05a69f9676c120f31d73db70e227948e40",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-d1612b1a4e83:p0001",
+      "path": "sources/eu-guide-d1612b1a4e83/revisions/786e4a8ff8afdf0a3a0054a7087cea05a69f9676c120f31d73db70e227948e40/pages/page-0001.md",
+      "active_path": "sources/eu-guide-d1612b1a4e83/pages/page-0001.md",
+      "derived_sha256": "61e22746b6902844a317ae26e297eee9fb1bb8f9ae6de447bdca2ab4d924484c"
+    }
+  ],
+  "full_path": "sources/eu-guide-d1612b1a4e83/revisions/786e4a8ff8afdf0a3a0054a7087cea05a69f9676c120f31d73db70e227948e40/full.md",
+  "full_sha256": "61e22746b6902844a317ae26e297eee9fb1bb8f9ae6de447bdca2ab4d924484c",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

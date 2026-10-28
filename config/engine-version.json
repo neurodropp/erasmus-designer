@@ -1,0 +1,17 @@
+{
+  "schema_version": "engine-release-v1",
+  "version": "0.3.0-clean",
+  "status": "clean_private_repository_distribution_local_commit_not_published",
+  "release_date": "2026-10-28",
+  "supported_corpus_years": [
+    2026
+  ],
+  "project_layout": "project-layout-v1",
+  "project_model": "project-model-v2",
+  "phase_validation": "fresh-step-v1",
+  "versioning": "private_git_repository_with_reviewed_commits_and_optional_sha256_release_archives",
+  "online_call_freshness_implied": false,
+  "full_action_compliance_implied": false,
+  "previous_release": "0.2.6",
+  "review_receipt": null
+}

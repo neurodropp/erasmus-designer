@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-9260dd5f11ea",
+  "title": "Glossary of terms - Common terms",
+  "path": "raw/web/eu-guide-9260dd5f11ea.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d/common-terms",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-d/common-terms",
+  "sha256": "40f26312b690aa85bd2b5c2a57619aef5efd0cb97aee9e1e774ae8e52a3b945a",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "40f26312b690aa85bd2b5c2a57619aef5efd0cb97aee9e1e774ae8e52a3b945a",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-9260dd5f11ea:p0001",
+      "path": "sources/eu-guide-9260dd5f11ea/revisions/40f26312b690aa85bd2b5c2a57619aef5efd0cb97aee9e1e774ae8e52a3b945a/pages/page-0001.md",
+      "active_path": "sources/eu-guide-9260dd5f11ea/pages/page-0001.md",
+      "derived_sha256": "ea9a65e9561081a05756386e2612c82ff2d506bb602dabebf7ebc75593fb7345"
+    }
+  ],
+  "full_path": "sources/eu-guide-9260dd5f11ea/revisions/40f26312b690aa85bd2b5c2a57619aef5efd0cb97aee9e1e774ae8e52a3b945a/full.md",
+  "full_sha256": "ea9a65e9561081a05756386e2612c82ff2d506bb602dabebf7ebc75593fb7345",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

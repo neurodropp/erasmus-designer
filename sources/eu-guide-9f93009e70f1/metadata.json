@@ -1,0 +1,45 @@
+{
+  "id": "eu-guide-9f93009e70f1",
+  "title": "Small-scale partnerships",
+  "path": "raw/web/eu-guide-9f93009e70f1.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/small-scale-partnerships",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/small-scale-partnerships",
+  "sha256": "30e1ef8859b85f243bfd61726945985faa384d3751b3fa63611f0cf3e4276cc3",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ADU",
+    "SCH",
+    "SPO",
+    "VET",
+    "YOU"
+  ],
+  "actions": [
+    "KA210-ADU",
+    "KA210-SCH",
+    "KA210-SPO",
+    "KA210-VET",
+    "KA210-YOU"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "30e1ef8859b85f243bfd61726945985faa384d3751b3fa63611f0cf3e4276cc3",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-9f93009e70f1:p0001",
+      "path": "sources/eu-guide-9f93009e70f1/revisions/30e1ef8859b85f243bfd61726945985faa384d3751b3fa63611f0cf3e4276cc3/pages/page-0001.md",
+      "active_path": "sources/eu-guide-9f93009e70f1/pages/page-0001.md",
+      "derived_sha256": "a46e235cb358c15d1b4bf7cc129cafb12325ee9eac8eb356a3c693bd2a8cddc1"
+    }
+  ],
+  "full_path": "sources/eu-guide-9f93009e70f1/revisions/30e1ef8859b85f243bfd61726945985faa384d3751b3fa63611f0cf3e4276cc3/full.md",
+  "full_sha256": "a46e235cb358c15d1b4bf7cc129cafb12325ee9eac8eb356a3c693bd2a8cddc1",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

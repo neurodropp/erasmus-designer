@@ -1,0 +1,38 @@
+{
+  "id": "aig-priorities-2026",
+  "title": "AIG - priorità nazionali KA220 Gioventù 2026",
+  "url": "https://agenziagioventu.gov.it/priorita-europee-nel-contesto-nazionale-rilevanti-nel-processo-di-valutazione-dei-partenariati-di-cooperazione-ka220/",
+  "path": "raw/web/aig-priorities-2026.html",
+  "kind": "national-priorities",
+  "sectors": [
+    "YOU"
+  ],
+  "actions": [
+    "KA220"
+  ],
+  "authority": "AIG",
+  "year": 2026,
+  "language": "it",
+  "download": true,
+  "sha256": "787b1777fe1e686e6ea9abd05b9973b15163be621d98decb2239f70fabd0eae7",
+  "resolved_url": "https://agenziagioventu.gov.it/priorita-europee-nel-contesto-nazionale-rilevanti-nel-processo-di-valutazione-dei-partenariati-di-cooperazione-ka220/",
+  "checked_at": "2026-09-12",
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "787b1777fe1e686e6ea9abd05b9973b15163be621d98decb2239f70fabd0eae7",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "aig-priorities-2026:p0001",
+      "path": "sources/aig-priorities-2026/revisions/787b1777fe1e686e6ea9abd05b9973b15163be621d98decb2239f70fabd0eae7/pages/page-0001.md",
+      "active_path": "sources/aig-priorities-2026/pages/page-0001.md",
+      "derived_sha256": "f87fde3c1fd7d37163dd46a8fc9241c6e87e4fb2c346870cdc770cdf1d167637"
+    }
+  ],
+  "full_path": "sources/aig-priorities-2026/revisions/787b1777fe1e686e6ea9abd05b9973b15163be621d98decb2239f70fabd0eae7/full.md",
+  "full_sha256": "f87fde3c1fd7d37163dd46a8fc9241c6e87e4fb2c346870cdc770cdf1d167637",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@i-xor/lwc": "^0.18.5"
+  }
+}

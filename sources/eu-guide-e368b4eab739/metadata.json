@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-e368b4eab739",
+  "title": "Step 3: Check the financial conditions",
+  "path": "raw/web/eu-guide-e368b4eab739.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply/step-3-financial-conditions",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply/step-3-financial-conditions",
+  "sha256": "f08bf57b2dedd53d0729da061c3814787609ec4630031a94f861a184ca670dd5",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "f08bf57b2dedd53d0729da061c3814787609ec4630031a94f861a184ca670dd5",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-e368b4eab739:p0001",
+      "path": "sources/eu-guide-e368b4eab739/revisions/f08bf57b2dedd53d0729da061c3814787609ec4630031a94f861a184ca670dd5/pages/page-0001.md",
+      "active_path": "sources/eu-guide-e368b4eab739/pages/page-0001.md",
+      "derived_sha256": "5a75d65d25ade3159e74c730663b9135842e8e906f908bd8308329d08824a6b8"
+    }
+  ],
+  "full_path": "sources/eu-guide-e368b4eab739/revisions/f08bf57b2dedd53d0729da061c3814787609ec4630031a94f861a184ca670dd5/full.md",
+  "full_sha256": "5a75d65d25ade3159e74c730663b9135842e8e906f908bd8308329d08824a6b8",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

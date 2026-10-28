@@ -1,0 +1,1661 @@
+{
+  "schema_version": "action-modes-v1",
+  "verified_at": "2026-09-12",
+  "authority": "Internal structural validation matrix derived from immutable official guide sections. Required data tables and evidence fields are workflow controls, not claims that forms require these exact tables. Current form/call verification remains mandatory.",
+  "modes": {
+    "grant": {
+      "required_tables": [
+        "partners",
+        "needs",
+        "objectives",
+        "activities",
+        "outputs",
+        "results",
+        "impacts",
+        "kpis"
+      ],
+      "requested_grant_required": true,
+      "financial_model_required": true,
+      "activity_schedule_required": true,
+      "activity_assignment_required": true,
+      "requirements_evidence_field": null
+    },
+    "accreditation": {
+      "required_tables": [
+        "partners",
+        "needs",
+        "objectives",
+        "activities",
+        "kpis"
+      ],
+      "requested_grant_required": false,
+      "financial_model_required": false,
+      "activity_schedule_required": true,
+      "activity_assignment_required": true,
+      "requirements_evidence_field": "accreditation_requirements_evidence"
+    },
+    "quality-label": {
+      "required_tables": [
+        "partners"
+      ],
+      "requested_grant_required": false,
+      "financial_model_required": false,
+      "activity_schedule_required": false,
+      "activity_assignment_required": false,
+      "requirements_evidence_field": "quality_label_requirements_evidence"
+    },
+    "allocation": {
+      "required_tables": [
+        "partners",
+        "activities"
+      ],
+      "requested_grant_required": false,
+      "financial_model_required": true,
+      "activity_schedule_required": false,
+      "activity_assignment_required": false,
+      "requirements_evidence_field": "allocation_requirements_evidence"
+    }
+  },
+  "routes": [
+    {
+      "action": "KA131",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED"
+      ],
+      "mode": "allocation",
+      "allowed_financial_models": [
+        "unit-cost",
+        "mixed"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA171",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "unit-cost",
+        "mixed"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA120-VET",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "VET"
+      ],
+      "mode": "accreditation",
+      "allowed_financial_models": [
+        "not-applicable"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          73,
+          77,
+          78
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA121-VET",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "VET"
+      ],
+      "mode": "allocation",
+      "allowed_financial_models": [
+        "unit-cost",
+        "mixed"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA122-VET",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "VET"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "unit-cost",
+        "mixed"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA120-SCH",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SCH"
+      ],
+      "mode": "accreditation",
+      "allowed_financial_models": [
+        "not-applicable"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          73,
+          77,
+          78
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA121-SCH",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SCH"
+      ],
+      "mode": "allocation",
+      "allowed_financial_models": [
+        "unit-cost",
+        "mixed"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA122-SCH",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SCH"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "unit-cost",
+        "mixed"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA120-ADU",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "ADU"
+      ],
+      "mode": "accreditation",
+      "allowed_financial_models": [
+        "not-applicable"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          73,
+          77,
+          78
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA121-ADU",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "ADU"
+      ],
+      "mode": "allocation",
+      "allowed_financial_models": [
+        "unit-cost",
+        "mixed"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA122-ADU",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "ADU"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "unit-cost",
+        "mixed"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA150",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "mode": "accreditation",
+      "allowed_financial_models": [
+        "not-applicable"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          144,
+          146,
+          147,
+          149
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility; p149 conclusion KA150 overlaps start KA151; read the applicable paragraph"
+      }
+    },
+    {
+      "action": "KA151",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "mode": "allocation",
+      "allowed_financial_models": [
+        "unit-cost",
+        "mixed"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          149,
+          150,
+          151,
+          161,
+          162,
+          163,
+          164,
+          175,
+          176,
+          177,
+          178,
+          179
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA152",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "unit-cost",
+        "mixed"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA153",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "unit-cost",
+        "mixed"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          178,
+          179
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA154",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "unit-cost",
+        "mixed"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          192,
+          193,
+          194,
+          195
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA155",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "unit-cost",
+        "mixed"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202,
+          203,
+          204,
+          205
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA182",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SPO"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "unit-cost",
+        "mixed"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          206,
+          207,
+          208,
+          209,
+          210,
+          211,
+          212,
+          213,
+          214,
+          215
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "VIRTUAL-EXCHANGES",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED",
+        "YOU"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA220-SCH",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SCH"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": true,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          235,
+          236,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          243
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA220-ADU",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "ADU"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": true,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          235,
+          236,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          243
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA220-VET",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "VET"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": true,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          235,
+          236,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          243
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA220-HED",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": true,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          235,
+          236,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          243
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA220-YOU",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": true,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          235,
+          236,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          243
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA220-SPO",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SPO"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": true,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          235,
+          236,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          243
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA210-SCH",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SCH"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          244,
+          245,
+          246,
+          247,
+          248,
+          249,
+          250
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA210-ADU",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "ADU"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          244,
+          245,
+          246,
+          247,
+          248,
+          249,
+          250
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA210-VET",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "VET"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          244,
+          245,
+          246,
+          247,
+          248,
+          249,
+          250
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA210-YOU",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          244,
+          245,
+          246,
+          247,
+          248,
+          249,
+          250
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA210-SPO",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SPO"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          244,
+          245,
+          246,
+          247,
+          248,
+          249,
+          250
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "KA240",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SCH"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          251,
+          252,
+          253,
+          254,
+          255,
+          256,
+          257
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "COVE",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "VET"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          259,
+          260,
+          261,
+          262,
+          263,
+          264,
+          265,
+          266,
+          267,
+          268,
+          269,
+          270,
+          271,
+          272,
+          273
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "ERASMUS-MUNDUS",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "unit-cost",
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          274,
+          275,
+          276,
+          277,
+          278,
+          279,
+          280,
+          281,
+          282,
+          283,
+          284,
+          285,
+          286,
+          287,
+          288
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "ALLIANCES-INNOVATION",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED",
+        "VET"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          290,
+          291,
+          292,
+          293,
+          294,
+          295,
+          296,
+          297,
+          298,
+          299,
+          300,
+          301,
+          302,
+          303,
+          304,
+          305,
+          306,
+          307,
+          308,
+          309,
+          310,
+          311,
+          312,
+          313
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "CBHE",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          314,
+          315,
+          316,
+          317,
+          318,
+          319,
+          320,
+          321,
+          322,
+          323,
+          324,
+          325,
+          326,
+          327,
+          328,
+          329,
+          330,
+          331
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "CBVET",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "VET"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          332,
+          333,
+          334,
+          335,
+          336,
+          337,
+          338,
+          339,
+          340,
+          341,
+          342
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "CBYOUTH",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          343,
+          344,
+          345,
+          346,
+          347,
+          348,
+          349,
+          350,
+          351
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "CBSPORT",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SPO"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          352,
+          353,
+          354,
+          355,
+          356,
+          357
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "SPORT-EVENTS",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SPO"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum",
+        "mixed"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          358,
+          359,
+          360,
+          361,
+          362,
+          363
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "EUROPEAN-YOUTH-TOGETHER",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "YOU"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          366,
+          367,
+          368,
+          369,
+          370,
+          371,
+          372,
+          373,
+          374
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "JEAN-MONNET-HED",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          376,
+          377,
+          378,
+          379,
+          380,
+          381,
+          382,
+          383,
+          384,
+          385,
+          386,
+          387,
+          388,
+          389,
+          390,
+          391
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "JEAN-MONNET-SCH-VET",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "SCH",
+        "VET"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          392,
+          393,
+          394,
+          395,
+          396,
+          397,
+          398,
+          399,
+          400,
+          401,
+          402
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "JEAN-MONNET-NETWORKS",
+      "program": "ERASMUS",
+      "year": 2026,
+      "sectors": [
+        "HED",
+        "SCH",
+        "VET"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "lump-sum"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "programme-2026",
+        "revision_sha256": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "physical_pages": [
+          403,
+          404,
+          405,
+          406,
+          407,
+          408,
+          409,
+          410,
+          411,
+          412
+        ],
+        "immutable_path": "sources/programme-2026/revisions/8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "ESC50-HOST-SUPPORT",
+      "program": "ESC",
+      "year": 2026,
+      "sectors": [
+        "ESC"
+      ],
+      "mode": "quality-label",
+      "allowed_financial_models": [
+        "not-applicable"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "esc-programme-2026",
+        "revision_sha256": "aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+        "physical_pages": [
+          30,
+          31
+        ],
+        "immutable_path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "ESC50-LEAD",
+      "program": "ESC",
+      "year": 2026,
+      "sectors": [
+        "ESC"
+      ],
+      "mode": "quality-label",
+      "allowed_financial_models": [
+        "not-applicable"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "esc-programme-2026",
+        "revision_sha256": "aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+        "physical_pages": [
+          30,
+          36,
+          37
+        ],
+        "immutable_path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "ESC51",
+      "program": "ESC",
+      "year": 2026,
+      "sectors": [
+        "ESC"
+      ],
+      "mode": "allocation",
+      "allowed_financial_models": [
+        "unit-cost",
+        "mixed"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "esc-programme-2026",
+        "revision_sha256": "aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+        "physical_pages": [
+          48,
+          49,
+          50,
+          51,
+          53,
+          54
+        ],
+        "immutable_path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "ESC30",
+      "program": "ESC",
+      "year": 2026,
+      "sectors": [
+        "ESC"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "unit-cost",
+        "mixed"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "esc-programme-2026",
+        "revision_sha256": "aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+        "physical_pages": [
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69
+        ],
+        "immutable_path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "ESC-VTHPA",
+      "program": "ESC",
+      "year": 2026,
+      "sectors": [
+        "ESC"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "unit-cost"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "esc-programme-2026",
+        "revision_sha256": "aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+        "physical_pages": [
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62
+        ],
+        "immutable_path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "ESC-HUMAID-QL",
+      "program": "ESC",
+      "year": 2026,
+      "sectors": [
+        "ESC"
+      ],
+      "mode": "quality-label",
+      "allowed_financial_models": [
+        "not-applicable"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "esc-programme-2026",
+        "revision_sha256": "aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+        "physical_pages": [
+          71,
+          76,
+          78,
+          79
+        ],
+        "immutable_path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    },
+    {
+      "action": "ESC-HUMAID-VOL",
+      "program": "ESC",
+      "year": 2026,
+      "sectors": [
+        "ESC"
+      ],
+      "mode": "grant",
+      "allowed_financial_models": [
+        "unit-cost"
+      ],
+      "ka220_management_cap": false,
+      "evidence": {
+        "source_id": "esc-programme-2026",
+        "revision_sha256": "aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+        "physical_pages": [
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88
+        ],
+        "immutable_path": "sources/esc-programme-2026/revisions/aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+        "scope": "2026 guide action section; structural method only, not complete call eligibility"
+      }
+    }
+  ]
+}

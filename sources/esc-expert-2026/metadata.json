@@ -1,0 +1,320 @@
+{
+  "id": "esc-expert-2026",
+  "title": "European Solidarity Corps Guide for Experts on Quality Assessment 2026",
+  "path": "raw/pdf/esc-expert-guide-2026.pdf",
+  "url": "https://youth.europa.eu/sites/default/files/inline-files/European-Solidarity-Corps-2026-Guide-for-experts.pdf",
+  "kind": "expert-guide",
+  "program": "ESC",
+  "year": 2026,
+  "language": "en",
+  "version": "2026 PDF header; exact publication date not established",
+  "authority": "European Commission",
+  "actions": [
+    "ESC50-HOST-SUPPORT",
+    "ESC50-LEAD",
+    "ESC30"
+  ],
+  "sectors": [
+    "ESC"
+  ],
+  "checked_at": "2026-09-12",
+  "sha256": "c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f",
+  "download": true,
+  "origin": "user-attached-pdf",
+  "online_sha256_match": true,
+  "physical_pages": 28,
+  "scope_note": "PDF p.3 explicitly covers ESC50 and ESC30 only. Does not cover ESC51 budget allocation, VTHPA or humanitarian centralised actions. Resource card date 07/08/2025 is inconsistent with replaced 2026 PDF and must not be treated as a verified 2026 release date.",
+  "page_scopes": [
+    {
+      "pages": [
+        1,
+        14
+      ],
+      "actions": [
+        "ESC50-HOST-SUPPORT",
+        "ESC50-LEAD",
+        "ESC30"
+      ],
+      "sectors": [
+        "ESC"
+      ],
+      "scope_note": "Common expert-assessment principles for covered national ESC actions only"
+    },
+    {
+      "pages": [
+        15,
+        19
+      ],
+      "actions": [
+        "ESC50-HOST-SUPPORT",
+        "ESC50-LEAD"
+      ],
+      "sectors": [
+        "ESC"
+      ],
+      "scope_note": "Host/support criteria, also prerequisite to lead label"
+    },
+    {
+      "pages": [
+        20,
+        21
+      ],
+      "actions": [
+        "ESC50-LEAD"
+      ],
+      "sectors": [
+        "ESC"
+      ],
+      "scope_note": ""
+    },
+    {
+      "pages": [
+        22,
+        22
+      ],
+      "actions": [
+        "ESC50-LEAD",
+        "ESC30"
+      ],
+      "sectors": [
+        "ESC"
+      ],
+      "scope_note": "Mixed physical page: end of lead grid and beginning of solidarity-project grid"
+    },
+    {
+      "pages": [
+        23,
+        25
+      ],
+      "actions": [
+        "ESC30"
+      ],
+      "sectors": [
+        "ESC"
+      ],
+      "scope_note": ""
+    },
+    {
+      "pages": [
+        26,
+        28
+      ],
+      "actions": [
+        "ESC50-HOST-SUPPORT",
+        "ESC50-LEAD",
+        "ESC30"
+      ],
+      "sectors": [
+        "ESC"
+      ],
+      "scope_note": "Expert conflict-of-interest/confidentiality annex; reference-only"
+    }
+  ],
+  "resolved_url": "https://youth.europa.eu/sites/default/files/inline-files/European-Solidarity-Corps-2026-Guide-for-experts.pdf",
+  "pages": 28,
+  "original_sha256": "c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "esc-expert-2026:p0001",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0001.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0001.md",
+      "derived_sha256": "ce41046233d818fc120aca1463ad4ab2a778cdc11c68b1e925b4ae7d39f7ae02"
+    },
+    {
+      "number": 2,
+      "id": "esc-expert-2026:p0002",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0002.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0002.md",
+      "derived_sha256": "e79cd93cbf723841c6f6832020392be1a1377b38f00a32ad495ce94bc99ccd33"
+    },
+    {
+      "number": 3,
+      "id": "esc-expert-2026:p0003",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0003.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0003.md",
+      "derived_sha256": "489fe40caee9f7371fff6ec2e473fcbf0e5373d379a7e364eee6edbbbde559b4"
+    },
+    {
+      "number": 4,
+      "id": "esc-expert-2026:p0004",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0004.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0004.md",
+      "derived_sha256": "35e37231bff07dc2ef4b94d8be180204087f8b577f4485c8a3699b78eb8c304c"
+    },
+    {
+      "number": 5,
+      "id": "esc-expert-2026:p0005",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0005.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0005.md",
+      "derived_sha256": "748c52f1bdba41a71521cc39cc08cae9378aa8f0f7875fc4c1801b9b966d342b"
+    },
+    {
+      "number": 6,
+      "id": "esc-expert-2026:p0006",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0006.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0006.md",
+      "derived_sha256": "5e07fe8a803c0973ebb32d0e68d7573e346d717c59e4d31af3378b2caffa61fd"
+    },
+    {
+      "number": 7,
+      "id": "esc-expert-2026:p0007",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0007.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0007.md",
+      "derived_sha256": "540971cb54f5e7650efa55a8d28ef4dc188c131bdf12693f5b9e77e89623f46a"
+    },
+    {
+      "number": 8,
+      "id": "esc-expert-2026:p0008",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0008.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0008.md",
+      "derived_sha256": "a748ebfba6cdc95620cf25d2b79fe611515a8c7370b636dd84a1a2e6d16042d3"
+    },
+    {
+      "number": 9,
+      "id": "esc-expert-2026:p0009",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0009.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0009.md",
+      "derived_sha256": "a3b1871fe32f64da8051e0b8029ba3a93ab1fe1983e5de98205a3ce4269b8708"
+    },
+    {
+      "number": 10,
+      "id": "esc-expert-2026:p0010",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0010.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0010.md",
+      "derived_sha256": "b5a69cefec4e5d58c3c3aa17fc6a4da66bd0562c8f57406edd79fff90c3d35ac"
+    },
+    {
+      "number": 11,
+      "id": "esc-expert-2026:p0011",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0011.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0011.md",
+      "derived_sha256": "9e4642fcf437af3b9af36e55f8b62660658c36f6716371e74c665bbbf202a745"
+    },
+    {
+      "number": 12,
+      "id": "esc-expert-2026:p0012",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0012.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0012.md",
+      "derived_sha256": "af1592ed80f3820d5175dc3add04d9458e94991bb19aa2c2eab7bb0022ce8f03"
+    },
+    {
+      "number": 13,
+      "id": "esc-expert-2026:p0013",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0013.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0013.md",
+      "derived_sha256": "ace2e1e2b4a90b9a5e3e3939981393c9e7b7d7f139bd4d9448fe1ffc8f853397"
+    },
+    {
+      "number": 14,
+      "id": "esc-expert-2026:p0014",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0014.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0014.md",
+      "derived_sha256": "0fd30210827f0a6437097c5f91c1bb96e3d4262724eeb90fdd10a892be2c5af5"
+    },
+    {
+      "number": 15,
+      "id": "esc-expert-2026:p0015",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0015.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0015.md",
+      "derived_sha256": "957db6c0660fe710e16ba1ae1942ac6495cc500f03f2227b42faeb96709ac37b"
+    },
+    {
+      "number": 16,
+      "id": "esc-expert-2026:p0016",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0016.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0016.md",
+      "derived_sha256": "c53ed60d2a0c33b7d9c8c0ecbe13187edc7be6f3d6a7b6b6598ad34a313b2891"
+    },
+    {
+      "number": 17,
+      "id": "esc-expert-2026:p0017",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0017.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0017.md",
+      "derived_sha256": "17ee0118197d1b3bd4e01e0313965e7ac9e29530fe776514a62cd883c0e7da36"
+    },
+    {
+      "number": 18,
+      "id": "esc-expert-2026:p0018",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0018.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0018.md",
+      "derived_sha256": "abec90b29d1d691acff2b1be75f938075413501758c1ea8ed65e472d8739df46"
+    },
+    {
+      "number": 19,
+      "id": "esc-expert-2026:p0019",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0019.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0019.md",
+      "derived_sha256": "b30c7ca4c25757cc25244b52cffa61fd43db05695dfd36726b0fd316ca81e34d"
+    },
+    {
+      "number": 20,
+      "id": "esc-expert-2026:p0020",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0020.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0020.md",
+      "derived_sha256": "adfa38b4cc776b5002df33d2460b4f57e70a36dc119c11874df83cec365280fe"
+    },
+    {
+      "number": 21,
+      "id": "esc-expert-2026:p0021",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0021.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0021.md",
+      "derived_sha256": "6636571a2a47c89f26799a6e0e5ac88aba51b17fa265a4f1e7de5a2549af29fe"
+    },
+    {
+      "number": 22,
+      "id": "esc-expert-2026:p0022",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0022.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0022.md",
+      "derived_sha256": "ec829d8ab8186df92ee0447b82ac0c3041880ad2b844db4b531d474cad56def4"
+    },
+    {
+      "number": 23,
+      "id": "esc-expert-2026:p0023",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0023.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0023.md",
+      "derived_sha256": "5d0d04010ddf4ebb84f1d11f3282bb1bfb2f486297dbe75a0feae7e9421be704"
+    },
+    {
+      "number": 24,
+      "id": "esc-expert-2026:p0024",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0024.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0024.md",
+      "derived_sha256": "92e0541507568cb68ea006e23bf6dc991a8f9b3330853e95de46cfc77457823c"
+    },
+    {
+      "number": 25,
+      "id": "esc-expert-2026:p0025",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0025.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0025.md",
+      "derived_sha256": "6f49bc9429de415b9f2b01858757d54a3c3be47b52e3b6bca96050f1dab1ffd6"
+    },
+    {
+      "number": 26,
+      "id": "esc-expert-2026:p0026",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0026.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0026.md",
+      "derived_sha256": "efab3a181ff85093a04bf53485668b30fe93377cb0e8d7431a58ac71f6579897"
+    },
+    {
+      "number": 27,
+      "id": "esc-expert-2026:p0027",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0027.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0027.md",
+      "derived_sha256": "3b90d95c469d003aef49db1e40127f483925ccc841e42581f8903e94e70e30e5"
+    },
+    {
+      "number": 28,
+      "id": "esc-expert-2026:p0028",
+      "path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/pages/page-0028.md",
+      "active_path": "sources/esc-expert-2026/pages/page-0028.md",
+      "derived_sha256": "2c65e4be89c47ea3fbd203b11f8d7df615d63f9ce42d1ec3e7c08a2580a85daa"
+    }
+  ],
+  "full_path": "sources/esc-expert-2026/revisions/c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f/full.md",
+  "full_sha256": "49bb921b5b454153e6030afcde9bfa1fa8424a1ed6853de924c7af362d61bb0b",
+  "repaired_from_verified_original": [],
+  "extraction": "pdftotext -layout, physical one-based PDF pages",
+  "extracted_at": "2026-09-16"
+}

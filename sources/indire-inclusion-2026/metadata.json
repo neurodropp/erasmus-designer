@@ -1,0 +1,131 @@
+{
+  "id": "indire-inclusion-2026",
+  "title": "Strategia inclusione e diversità INDIRE marzo 2026",
+  "url": "https://www.erasmusplus.it/wp-content/uploads/2021/06/Strategia-Inclusione-e-diversita_-INDIRE_marzo-2026.pdf",
+  "path": "raw/pdf/indire-inclusion-2026.pdf",
+  "kind": "strategy",
+  "sectors": [
+    "SCH",
+    "ADU",
+    "HED"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "authority": "INDIRE",
+  "year": 2026,
+  "language": "it",
+  "download": true,
+  "sha256": "938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d",
+  "resolved_url": "https://www.erasmusplus.it/wp-content/uploads/2021/06/Strategia-Inclusione-e-diversita_-INDIRE_marzo-2026.pdf",
+  "checked_at": "2026-09-12",
+  "program": "ERASMUS",
+  "pages": 14,
+  "original_sha256": "938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "indire-inclusion-2026:p0001",
+      "path": "sources/indire-inclusion-2026/revisions/938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d/pages/page-0001.md",
+      "active_path": "sources/indire-inclusion-2026/pages/page-0001.md",
+      "derived_sha256": "76cd1c174ea5a371073828cdf7c25cc68c4a99cdfb94ec2299751ddc8998f010"
+    },
+    {
+      "number": 2,
+      "id": "indire-inclusion-2026:p0002",
+      "path": "sources/indire-inclusion-2026/revisions/938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d/pages/page-0002.md",
+      "active_path": "sources/indire-inclusion-2026/pages/page-0002.md",
+      "derived_sha256": "5e061ca168719d6f7f4aaed2256929c570995852b00f087d724c13412dc4fe33"
+    },
+    {
+      "number": 3,
+      "id": "indire-inclusion-2026:p0003",
+      "path": "sources/indire-inclusion-2026/revisions/938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d/pages/page-0003.md",
+      "active_path": "sources/indire-inclusion-2026/pages/page-0003.md",
+      "derived_sha256": "b6c9bbe61fb1ab02e27f10265b91f5eb3320252bacbd06e6dfab85e463d59e4e"
+    },
+    {
+      "number": 4,
+      "id": "indire-inclusion-2026:p0004",
+      "path": "sources/indire-inclusion-2026/revisions/938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d/pages/page-0004.md",
+      "active_path": "sources/indire-inclusion-2026/pages/page-0004.md",
+      "derived_sha256": "136b2768f99f283b16937b447093954eb8f5d72be23e451100e2e1fb314c2043"
+    },
+    {
+      "number": 5,
+      "id": "indire-inclusion-2026:p0005",
+      "path": "sources/indire-inclusion-2026/revisions/938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d/pages/page-0005.md",
+      "active_path": "sources/indire-inclusion-2026/pages/page-0005.md",
+      "derived_sha256": "5c1b6059ac56572f7296a500e14cf0241b850dbce8dd453cfd98776ad0626d0a"
+    },
+    {
+      "number": 6,
+      "id": "indire-inclusion-2026:p0006",
+      "path": "sources/indire-inclusion-2026/revisions/938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d/pages/page-0006.md",
+      "active_path": "sources/indire-inclusion-2026/pages/page-0006.md",
+      "derived_sha256": "79e9dedceb339ee98775dc219bfb9698d77a951911dc356dc08471ce9c2c4305"
+    },
+    {
+      "number": 7,
+      "id": "indire-inclusion-2026:p0007",
+      "path": "sources/indire-inclusion-2026/revisions/938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d/pages/page-0007.md",
+      "active_path": "sources/indire-inclusion-2026/pages/page-0007.md",
+      "derived_sha256": "74a1383b5e67565ddbfeb746647a10210cfcfc9cc6997b963a72dabc47129e84"
+    },
+    {
+      "number": 8,
+      "id": "indire-inclusion-2026:p0008",
+      "path": "sources/indire-inclusion-2026/revisions/938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d/pages/page-0008.md",
+      "active_path": "sources/indire-inclusion-2026/pages/page-0008.md",
+      "derived_sha256": "2fa1cebbab7b8b4beb20a1fee98b557c3513a94c986e7abf339cba6e684aed42"
+    },
+    {
+      "number": 9,
+      "id": "indire-inclusion-2026:p0009",
+      "path": "sources/indire-inclusion-2026/revisions/938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d/pages/page-0009.md",
+      "active_path": "sources/indire-inclusion-2026/pages/page-0009.md",
+      "derived_sha256": "0539814fda80c5c66e201a5bd44772ae67f490cbfe4b72443bde3b399f772bb7"
+    },
+    {
+      "number": 10,
+      "id": "indire-inclusion-2026:p0010",
+      "path": "sources/indire-inclusion-2026/revisions/938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d/pages/page-0010.md",
+      "active_path": "sources/indire-inclusion-2026/pages/page-0010.md",
+      "derived_sha256": "10eb73b623007a81923d9bc09a4c8c5edd576ae7ac2c51b52a48bff6e708beee"
+    },
+    {
+      "number": 11,
+      "id": "indire-inclusion-2026:p0011",
+      "path": "sources/indire-inclusion-2026/revisions/938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d/pages/page-0011.md",
+      "active_path": "sources/indire-inclusion-2026/pages/page-0011.md",
+      "derived_sha256": "0c3854317c45b1e67e2517cfbdf618ef0fd092cbc42247dbf4901563679b3a3f"
+    },
+    {
+      "number": 12,
+      "id": "indire-inclusion-2026:p0012",
+      "path": "sources/indire-inclusion-2026/revisions/938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d/pages/page-0012.md",
+      "active_path": "sources/indire-inclusion-2026/pages/page-0012.md",
+      "derived_sha256": "435cb46bbe7c41d6a4996b6163e2c076237f7c952bededc5bf8505ac9e21d51a"
+    },
+    {
+      "number": 13,
+      "id": "indire-inclusion-2026:p0013",
+      "path": "sources/indire-inclusion-2026/revisions/938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d/pages/page-0013.md",
+      "active_path": "sources/indire-inclusion-2026/pages/page-0013.md",
+      "derived_sha256": "18b49ee8879f732b48e0cd0b5684e5f3283f5811f79a99291f0c3b88e3950e87"
+    },
+    {
+      "number": 14,
+      "id": "indire-inclusion-2026:p0014",
+      "path": "sources/indire-inclusion-2026/revisions/938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d/pages/page-0014.md",
+      "active_path": "sources/indire-inclusion-2026/pages/page-0014.md",
+      "derived_sha256": "7aa5efde9fd1bc206f1031ca7fac4a69d12319ac5c2dd2443f47c85d03042b1c"
+    }
+  ],
+  "full_path": "sources/indire-inclusion-2026/revisions/938958b1529d7bb5b45305fd5f57df336a8bb5be65a51646edc2a7b05a1a7e0d/full.md",
+  "full_sha256": "15f5636d5f99449cf2831362bfbd9a16d5f07cd1db5cf3f3fdb433188b5d409a",
+  "repaired_from_verified_original": [],
+  "extraction": "pdftotext -layout, physical one-based PDF pages",
+  "extracted_at": "2026-09-16"
+}

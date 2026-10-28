@@ -1,0 +1,89 @@
+{
+  "schema_version": "knowledge-maintenance-v1",
+  "max_capture_bytes": 8388608,
+  "timeout_seconds": 20,
+  "allowed_hosts": [
+    "erasmus-plus.ec.europa.eu",
+    "youth.europa.eu",
+    "ec.europa.eu",
+    "eur-lex.europa.eu",
+    "www.eacea.ec.europa.eu",
+    "webgate.ec.europa.eu",
+    "wikis.ec.europa.eu",
+    "erasmusplusyouth.gr",
+    "www.erasmusplus.nl",
+    "www.erasmusplus.it",
+    "www.indire.it",
+    "www.inapp.gov.it",
+    "agenziagioventu.gov.it"
+  ],
+  "access_points_checked_at": "2026-09-13",
+  "access_points": [
+    {
+      "program": "ERASMUS",
+      "kind": "programme-guide",
+      "url": "https://erasmus-plus.ec.europa.eu/erasmus-programme-guide",
+      "note": "Version and corrigenda must be reread; Don't build URLs replacing the year."
+    },
+    {
+      "program": "ERASMUS",
+      "kind": "expert-guide",
+      "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines",
+      "note": "HTML library, not PDF URL. For 2026 mirror NA in sources.json; the NA guide does not apply to EACEA."
+    },
+    {
+      "program": "ERASMUS",
+      "kind": "form-export",
+      "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/how-to-apply",
+      "note": "Route to Opportunities NA or Submission System of the EACEA call; it does not test fields and limits."
+    },
+    {
+      "program": "ESC",
+      "kind": "programme-guide",
+      "url": "https://youth.europa.eu/solidarity/organisations/calls-for-proposals_en",
+      "note": "Call, round, guide and sample forms, distinct from the actual form."
+    },
+    {
+      "program": "ESC",
+      "kind": "expert-guide",
+      "url": "https://youth.europa.eu/solidarity/organisations/reference-documents-resources_en",
+      "note": "Check year in PDF and scope. The date of the card can be from the previous revision."
+    },
+    {
+      "program": "ESC",
+      "kind": "form-export",
+      "url": "https://youth.europa.eu/solidarity/organisations/calls-for-proposals_en",
+      "note": "Sample ESC50/ESC51/ESC30 preparatory only; EACEA uses its own call and its own form."
+    },
+    {
+      "program": "ERASMUS",
+      "kind": "national-page",
+      "agency": "AIG",
+      "sector": "YOU",
+      "action": "KA220-YOU",
+      "url": "https://agenziagioventu.gov.it/priorita-europee-nel-contesto-nazionale-rilevanti-nel-processo-di-valutazione-dei-partenariati-di-cooperazione-ka220/",
+      "note": "Italian priorities KA220 Youth 2026; Do not transfer to ESC, KA210 or other areas. Reread future calls without replacing the year."
+    },
+    {
+      "program": "ESC",
+      "kind": "national-page",
+      "agency": "AIG",
+      "sector": "ESC",
+      "url": "https://agenziagioventu.gov.it/new-presenta-un-progetto/",
+      "note": "Scan national provisions and real rounds; distinguish archived paragraphs and deadlines."
+    },
+    {
+      "program": "ERASMUS",
+      "kind": "national-page",
+      "agency": "INDIRE/INAPP",
+      "url": "https://www.erasmusplus.it/programma/come-fare-domanda/",
+      "note": "Italian access points; open sector and relevant provisions/priorities. INDIRE and INAPP records already distinct in sources.json, do not standardize documents or annuities."
+    }
+  ],
+  "publication": {
+    "automatic": false,
+    "common_memory_cli": "scripts/lwc",
+    "fresh_review_required": true,
+    "active_years_derive_from_runtime_and_catalogue": true
+  }
+}

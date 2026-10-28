@@ -1,0 +1,809 @@
+[
+  {
+    "program": "ESC",
+    "year": 2026,
+    "sectors": [
+      "ESC"
+    ],
+    "programme_source": "esc-programme-2026",
+    "expert_source": "esc-expert-2026",
+    "web_slug": "",
+    "code": "ESC50-HOST-SUPPORT",
+    "title": "Volunteering quality mark - welcoming and support roles",
+    "programme_pages": [
+      30,
+      39
+    ],
+    "expert_pages": [
+      15,
+      19
+    ],
+    "agency": "AIG",
+    "note": "ESC50 is the official form; this local route distinguishes host/support roles, evaluated positive/negative without scoring. Specify the role because the tasks are different. Don't apply the 60/100 lead role.",
+    "award_criteria": {
+      "scoring_mode": "pass-fail",
+      "total_max_points": null,
+      "total_minimum_points": null,
+      "criteria": [
+        {
+          "id": "relevance",
+          "label": "Relevance",
+          "max_points": null,
+          "programme_pages": [
+            36,
+            36
+          ],
+          "expert_pages": [
+            15,
+            16
+          ]
+        },
+        {
+          "id": "quality-measures",
+          "label": "Quality of measurements",
+          "max_points": null,
+          "programme_pages": [
+            36,
+            37
+          ],
+          "expert_pages": [
+            16,
+            18
+          ]
+        },
+        {
+          "id": "organisational-capacity",
+          "label": "Organizational capacity",
+          "max_points": null,
+          "programme_pages": [
+            37,
+            37
+          ],
+          "expert_pages": [
+            19,
+            19
+          ]
+        }
+      ],
+      "threshold_expert_pages": [
+        9,
+        9
+      ]
+    },
+    "official_action_code": "ESC50",
+    "roles": [
+      "host",
+      "support"
+    ],
+    "funding_model": "non-budgetary-quality-label",
+    "deadlines": [
+      {
+        "submission": "continuous",
+        "scope": "quality-label-application"
+      }
+    ],
+    "general_sources": [
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          6,
+          29
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          89,
+          137
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          138,
+          148
+        ]
+      },
+      {
+        "id": "esc-expert-2026",
+        "pages": [
+          3,
+          14
+        ]
+      },
+      {
+        "id": "esc-expert-2026",
+        "pages": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ESC",
+    "year": 2026,
+    "sectors": [
+      "ESC"
+    ],
+    "programme_source": "esc-programme-2026",
+    "expert_source": "esc-expert-2026",
+    "web_slug": "",
+    "code": "ESC50-LEAD",
+    "title": "Volunteering quality label - lead role",
+    "programme_pages": [
+      30,
+      39
+    ],
+    "expert_pages": [
+      15,
+      22
+    ],
+    "agency": "AIG",
+    "note": "Official ESC50 form. The lead role requires the host and/or support Quality Label: also read the positive/negative grid of the partner roles first. The 50+50 score only concerns the additional lead criteria, does not finance the project and can contribute to the ESC51 allocation.",
+    "award_criteria": {
+      "scoring_mode": "points",
+      "total_max_points": 100,
+      "total_minimum_points": 60,
+      "criterion_minimum_fraction": 0.5,
+      "criteria": [
+        {
+          "id": "strategic-approach",
+          "label": "Strategic approach",
+          "max_points": 50,
+          "minimum_points": 25,
+          "programme_pages": [
+            37,
+            37
+          ],
+          "expert_pages": [
+            20,
+            21
+          ]
+        },
+        {
+          "id": "management-coordination",
+          "label": "Management and coordination",
+          "max_points": 50,
+          "minimum_points": 25,
+          "programme_pages": [
+            37,
+            38
+          ],
+          "expert_pages": [
+            21,
+            22
+          ]
+        }
+      ],
+      "tie_break_order": [],
+      "threshold_programme_pages": [
+        37,
+        37
+      ],
+      "threshold_expert_pages": [
+        10,
+        10
+      ],
+      "integer_scores_only": true
+    },
+    "official_action_code": "ESC50",
+    "roles": [
+      "lead"
+    ],
+    "prerequisites": [
+      "ESC50-HOST-SUPPORT"
+    ],
+    "funding_model": "non-budgetary-quality-label",
+    "deadlines": [
+      {
+        "submission": "continuous",
+        "scope": "quality-label-application"
+      },
+      {
+        "submission": "2025-10-29",
+        "applies_to_grant_call_year": 2026,
+        "scope": "lead-label-submission-for-first-grant-round",
+        "programme_page": 35
+      }
+    ],
+    "general_sources": [
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          6,
+          29
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          89,
+          137
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          138,
+          148
+        ]
+      },
+      {
+        "id": "esc-expert-2026",
+        "pages": [
+          3,
+          14
+        ]
+      },
+      {
+        "id": "esc-expert-2026",
+        "pages": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ESC",
+    "year": 2026,
+    "sectors": [
+      "ESC"
+    ],
+    "programme_source": "esc-programme-2026",
+    "expert_source": "esc-expert-2026",
+    "web_slug": "",
+    "code": "ESC51",
+    "title": "Volunteer projects",
+    "programme_pages": [
+      40,
+      54
+    ],
+    "expert_pages": null,
+    "agency": "AIG",
+    "note": "Simplified grant application for organizations with valid Quality Label lead. No new qualitative assessment and no award grid ESC30: amount determined with allocation criteria and AIG national rules.",
+    "award_criteria": {
+      "scoring_mode": "budget-allocation-no-new-award-rubric",
+      "total_max_points": null,
+      "total_minimum_points": null,
+      "criteria": [],
+      "programme_pages": [
+        53,
+        54
+      ],
+      "national_source": "esc-aig-allocation-2026",
+      "national_pages": [
+        3,
+        5
+      ]
+    },
+    "official_action_code": "ESC51",
+    "prerequisites": [
+      "ESC50-LEAD"
+    ],
+    "funding_model": "unit-costs-and-conditional-real-costs",
+    "funding_programme_pages": [
+      48,
+      52
+    ],
+    "deadlines": [
+      {
+        "submission": "2026-02-18T12:00:00",
+        "timezone": "Europe/Brussels",
+        "italy_status": "confirmed",
+        "national_page": 2
+      },
+      {
+        "submission": "2026-10-01T12:00:00",
+        "timezone": "Europe/Brussels",
+        "eu_status": "optional-round",
+        "italy_status": "confirmed",
+        "national_page": 2
+      }
+    ],
+    "general_sources": [
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          6,
+          29
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          89,
+          137
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          138,
+          148
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ESC",
+    "year": 2026,
+    "sectors": [
+      "ESC"
+    ],
+    "programme_source": "esc-programme-2026",
+    "expert_source": "esc-expert-2026",
+    "web_slug": "",
+    "code": "ESC30",
+    "title": "Solidarity projects",
+    "programme_pages": [
+      63,
+      69
+    ],
+    "expert_pages": [
+      22,
+      25
+    ],
+    "agency": "AIG",
+    "note": "Project conceived and implemented by young people; minimum five members 18-30 residing in the same country. Quality Label not required for ESC30. The 40/40/20 grid is distinct from Erasmus KA2 and high priority ESC groups.",
+    "award_criteria": {
+      "scoring_mode": "points",
+      "total_max_points": 100,
+      "total_minimum_points": 60,
+      "criterion_minimum_fraction": 0.5,
+      "criteria": [
+        {
+          "id": "relevance-rationale-impact",
+          "label": "Relevance, motivation and impact",
+          "max_points": 40,
+          "minimum_points": 20,
+          "programme_pages": [
+            66,
+            66
+          ],
+          "expert_pages": [
+            22,
+            24
+          ]
+        },
+        {
+          "id": "project-design",
+          "label": "Quality of design",
+          "max_points": 40,
+          "minimum_points": 20,
+          "programme_pages": [
+            67,
+            67
+          ],
+          "expert_pages": [
+            24,
+            24
+          ]
+        },
+        {
+          "id": "project-management",
+          "label": "Quality of management",
+          "max_points": 20,
+          "minimum_points": 10,
+          "programme_pages": [
+            67,
+            67
+          ],
+          "expert_pages": [
+            25,
+            25
+          ]
+        }
+      ],
+      "tie_break_order": [
+        "relevance-rationale-impact",
+        "project-management",
+        "project-design"
+      ],
+      "threshold_programme_pages": [
+        66,
+        66
+      ],
+      "threshold_expert_pages": [
+        10,
+        10
+      ],
+      "integer_scores_only": true
+    },
+    "official_action_code": "ESC30",
+    "funding_model": "monthly-unit-cost-coach-unit-cost-conditional-real-costs",
+    "funding_programme_pages": [
+      68,
+      69
+    ],
+    "deadlines": [
+      {
+        "submission": "2026-02-18T12:00:00",
+        "timezone": "Europe/Brussels",
+        "italy_status": "confirmed",
+        "national_page": 2
+      },
+      {
+        "submission": "2026-05-07T12:00:00",
+        "timezone": "Europe/Brussels",
+        "eu_status": "optional-round",
+        "italy_status": "not-organised-in-published-italian-2026-round-scheme",
+        "national_page": 2
+      },
+      {
+        "submission": "2026-10-01T12:00:00",
+        "timezone": "Europe/Brussels",
+        "italy_status": "confirmed",
+        "national_page": 2
+      }
+    ],
+    "general_sources": [
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          6,
+          29
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          89,
+          137
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          138,
+          148
+        ]
+      },
+      {
+        "id": "esc-expert-2026",
+        "pages": [
+          3,
+          14
+        ]
+      },
+      {
+        "id": "esc-expert-2026",
+        "pages": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ESC",
+    "year": 2026,
+    "sectors": [
+      "ESC"
+    ],
+    "programme_source": "esc-programme-2026",
+    "expert_source": "esc-expert-2026",
+    "web_slug": "",
+    "code": "ESC-VTHPA",
+    "title": "Volunteer groups in high priority areas",
+    "programme_pages": [
+      55,
+      62
+    ],
+    "expert_pages": null,
+    "agency": "EACEA",
+    "note": "Local alias, not form code ESC51. Centralized action with its own 30/40/30 grid and annual EU priorities. The attached expert guidance for national actions does not cover this call. Consortium and Quality Label verified in the specific section.",
+    "award_criteria": {
+      "scoring_mode": "points",
+      "total_max_points": 100,
+      "total_minimum_points": 60,
+      "criterion_minimum_fraction": 0.5,
+      "criteria": [
+        {
+          "id": "relevance-rationale-impact",
+          "label": "Relevance, motivation and impact",
+          "max_points": 30,
+          "minimum_points": 15,
+          "programme_pages": [
+            60,
+            61
+          ]
+        },
+        {
+          "id": "project-design",
+          "label": "Quality of design",
+          "max_points": 40,
+          "minimum_points": 20,
+          "programme_pages": [
+            61,
+            61
+          ]
+        },
+        {
+          "id": "project-management",
+          "label": "Quality of management",
+          "max_points": 30,
+          "minimum_points": 15,
+          "programme_pages": [
+            61,
+            61
+          ]
+        }
+      ],
+      "tie_break_order": [
+        "relevance-rationale-impact",
+        "project-management",
+        "project-design"
+      ],
+      "threshold_programme_pages": [
+        60,
+        60
+      ]
+    },
+    "call_id": "ESC-SOLID-2026-VTHPA",
+    "call_id_status": "confirmed-by-official-national-agency-list; EU topic content not fetched",
+    "call_id_reference": "https://www.ua.gov.tr/anasayfa/icerikler/teklif-cagrilari-ve-rehberler/",
+    "call_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-SOLID-2026-VTHPA",
+    "prerequisites": [
+      "ESC50-HOST-SUPPORT",
+      "ESC50-LEAD-for-coordinator"
+    ],
+    "funding_model": "unit-costs",
+    "funding_programme_pages": [
+      62,
+      62
+    ],
+    "maximum_eu_grant": 400000,
+    "annual_priorities_programme_pages": [
+      55,
+      56
+    ],
+    "deadlines": [
+      {
+        "submission": "2026-03-03T17:00:00",
+        "timezone": "Europe/Brussels",
+        "programme_page": 60
+      }
+    ],
+    "general_sources": [
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          6,
+          29
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          89,
+          137
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          138,
+          148
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ESC",
+    "year": 2026,
+    "sectors": [
+      "ESC"
+    ],
+    "programme_source": "esc-programme-2026",
+    "expert_source": "esc-expert-2026",
+    "web_slug": "",
+    "code": "ESC-HUMAID-QL",
+    "title": "Humanitarian volunteering quality label",
+    "programme_pages": [
+      71,
+      79
+    ],
+    "expert_pages": null,
+    "agency": "EACEA",
+    "note": "Local alias. Humanitarian label distinguished by ESC50; host/support roles only, support allows you to coordinate humanitarian projects. Grid by role with no numerical scores published in the Guide. The attached expert guide concerns national ESC50 and ESC30, not this EACEA label. The September 2026 deadline enables participation in the 2027 grant call, failure to apply in September 2025 for the 2026 call will not be remedied.",
+    "award_criteria": {
+      "scoring_mode": "qualitative-award-criteria-no-numeric-grid-published-in-guide",
+      "total_max_points": null,
+      "total_minimum_points": null,
+      "criteria": [
+        {
+          "id": "relevance",
+          "label": "Relevance and humanitarian principles",
+          "max_points": null,
+          "programme_pages": [
+            76,
+            78
+          ]
+        },
+        {
+          "id": "quality-measures",
+          "label": "Quality of measures and protection",
+          "max_points": null,
+          "programme_pages": [
+            76,
+            78
+          ]
+        },
+        {
+          "id": "organisational-capacity",
+          "label": "Organizational capacity",
+          "max_points": null,
+          "programme_pages": [
+            77,
+            78
+          ]
+        }
+      ],
+      "programme_pages": [
+        76,
+        78
+      ]
+    },
+    "call_id": "ESC-HUMAID-2026-QUAL-LABEL-FP",
+    "call_id_status": "confirmed-by-official-national-agency-list; EU topic content not fetched",
+    "call_id_reference": "https://www.ua.gov.tr/anasayfa/icerikler/teklif-cagrilari-ve-rehberler/",
+    "call_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-HUMAID-2026-QUAL-LABEL-FP",
+    "roles": [
+      "host",
+      "support"
+    ],
+    "funding_model": "non-budgetary-quality-label",
+    "deadlines": [
+      {
+        "submission": "continuous",
+        "scope": "quality-label-application"
+      },
+      {
+        "submission": "2025-09-23T17:00:00",
+        "timezone": "Europe/Brussels",
+        "applies_to_grant_call_year": 2026,
+        "programme_page": 76
+      },
+      {
+        "submission": "2026-09-22T17:00:00",
+        "timezone": "Europe/Brussels",
+        "applies_to_grant_call_year": 2027,
+        "programme_page": 76
+      }
+    ],
+    "general_sources": [
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          6,
+          29
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          89,
+          137
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          138,
+          148
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ESC",
+    "year": 2026,
+    "sectors": [
+      "ESC"
+    ],
+    "programme_source": "esc-programme-2026",
+    "expert_source": "esc-expert-2026",
+    "web_slug": "",
+    "code": "ESC-HUMAID-VOL",
+    "title": "Volunteering in the European Humanitarian Aid Corps",
+    "programme_pages": [
+      80,
+      88
+    ],
+    "expert_pages": null,
+    "agency": "EACEA",
+    "note": "Local alias. Centralized action for participants 18-35 with mandatory training and specific humanitarian labels. 40/40/20 grid but ex aequo criterion and order distinct from ESC30; do not use the national expert guide as a specific grid. Check consortium, countries, absence of conflicts and updated conditions of the call.",
+    "award_criteria": {
+      "scoring_mode": "points",
+      "total_max_points": 100,
+      "total_minimum_points": 60,
+      "criterion_minimum_fraction": 0.5,
+      "criteria": [
+        {
+          "id": "relevance-rationale-impact",
+          "label": "Relevance, motivation and impact",
+          "max_points": 40,
+          "minimum_points": 20,
+          "programme_pages": [
+            86,
+            86
+          ]
+        },
+        {
+          "id": "project-design",
+          "label": "Quality of design",
+          "max_points": 40,
+          "minimum_points": 20,
+          "programme_pages": [
+            86,
+            87
+          ]
+        },
+        {
+          "id": "project-management",
+          "label": "Quality of management",
+          "max_points": 20,
+          "minimum_points": 10,
+          "programme_pages": [
+            87,
+            87
+          ]
+        }
+      ],
+      "tie_break_order": [
+        "relevance-rationale-impact",
+        "project-design",
+        "project-management"
+      ],
+      "threshold_programme_pages": [
+        86,
+        86
+      ]
+    },
+    "call_id": "ESC-HUMAID-2026-VOLUN",
+    "call_id_status": "confirmed-by-official-national-agency-list; EU topic content not fetched",
+    "call_id_reference": "https://www.ua.gov.tr/anasayfa/icerikler/teklif-cagrilari-ve-rehberler/",
+    "call_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-HUMAID-2026-VOLUN",
+    "prerequisites": [
+      "ESC-HUMAID-QL"
+    ],
+    "funding_model": "unit-costs",
+    "funding_programme_pages": [
+      88,
+      88
+    ],
+    "maximum_eu_grant": 650000,
+    "deadlines": [
+      {
+        "submission": "2026-04-23T17:00:00",
+        "timezone": "Europe/Brussels",
+        "programme_page": 85
+      }
+    ],
+    "general_sources": [
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          6,
+          29
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          89,
+          137
+        ]
+      },
+      {
+        "id": "esc-programme-2026",
+        "pages": [
+          138,
+          148
+        ]
+      }
+    ]
+  }
+]

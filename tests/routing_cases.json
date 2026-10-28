@@ -1,0 +1,102 @@
+{
+  "schema": "routing-cases-v1",
+  "source": "synthetic-created-from-scratch",
+  "cases": [
+    {
+      "id": "R001",
+      "request": "Vorrei una prima logica di intervento ESC30 basata sui bisogni documentati, senza scrivere tutto il form."
+    },
+    {
+      "id": "R002",
+      "request": "Controlla quale modello finanziario ESC51 usare e la proporzionalità delle risorse, prima di creare un foglio."
+    },
+    {
+      "id": "R003",
+      "request": "Mi serve la tabella budget dettagliata da dati già verificati, non una nuova scelta della fascia di finanziamento."
+    },
+    {
+      "id": "R004",
+      "request": "Prepara identità visiva e un modello riusabile di verbale e presenze."
+    },
+    {
+      "id": "R005",
+      "request": "Per la riunione identificata nel brief prepara agenda, verbale e registro delle presenze effettivamente documentate."
+    },
+    {
+      "id": "R006",
+      "request": "Riprendo una candidatura con tre decisioni collegate: target, partner e attività. Trova ricerche disponibili e scelte che attendono la mia decisione."
+    },
+    {
+      "id": "R007",
+      "request": "Progetta il flusso di un nuovo progetto Erasmus+ completo con ricerca, design, scrittura e allegati."
+    },
+    {
+      "id": "R008",
+      "request": "Prima di scrivere pianifica ogni domanda del form verificato con prove, criteri e budget di caratteri."
+    },
+    {
+      "id": "R009",
+      "request": "Scrivi la risposta a una domanda già pianificata rispettando il limite verificato e i dati confermati."
+    },
+    {
+      "id": "R010",
+      "request": "Valuta criticamente il bundle congelato con la griglia corretta, senza riscriverlo."
+    },
+    {
+      "id": "R011",
+      "request": "Controlla questo singolo step già congelato contro i criteri assegnati con revisione indipendente."
+    },
+    {
+      "id": "R012",
+      "request": "Registra la decisione che abbiamo confermato nel progetto e recuperala alla ripresa."
+    },
+    {
+      "id": "R013",
+      "request": "È cambiata una guida annuale insieme ai campi del form: confronta tutta la revisione senza migrare candidature automaticamente."
+    },
+    {
+      "id": "R014",
+      "request": "Verifica ammissibilità, soglie e priorità Erasmus+ per anno, azione e agenzia indicati."
+    },
+    {
+      "id": "R015",
+      "request": "Verifica i requisiti del Quality Label ESC per il ruolo indicato."
+    },
+    {
+      "id": "R016",
+      "request": "Prepara il timetable educativo KA152 mostrando ruolo dei giovani e learning outcomes."
+    },
+    {
+      "id": "R017",
+      "request": "Controlla il piano di impatto ESC e la coerenza finale prima della consegna."
+    },
+    {
+      "id": "R018",
+      "request": "Crea soltanto una tabella KPI e prove di misura dai dati comuni."
+    },
+    {
+      "id": "R019",
+      "request": "Traduci una ricetta di pasta in inglese."
+    },
+    {
+      "id": "R020",
+      "request": "Scrivi una poesia sul mare."
+    },
+    {
+      "id": "R021",
+      "request": "Spiega la fotosintesi per una classe."
+    },
+    {
+      "id": "R022",
+      "request": "Mi serve un verbale, ma non ho detto se per una riunione o come modello."
+    },
+    {
+      "id": "R023",
+      "request": "Mi aiuti con il budget? Non ho specificato se scelte finanziarie o tabella da esportare."
+    },
+    {
+      "id": "R024",
+      "request": "Mi serve una valutazione: non ho precisato se candidatura o gate di singolo step."
+    }
+  ]
+}

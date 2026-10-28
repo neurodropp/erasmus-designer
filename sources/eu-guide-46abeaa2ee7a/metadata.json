@@ -1,0 +1,38 @@
+{
+  "id": "eu-guide-46abeaa2ee7a",
+  "title": "Erasmus+ virtual exchanges",
+  "path": "raw/web/eu-guide-46abeaa2ee7a.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/virtual-exchanges",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/virtual-exchanges",
+  "sha256": "f4f19b3a1feb9176ff298eb1d5d04c66f07b5e83ea159152e89a966ba352d2e4",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "HED",
+    "YOU"
+  ],
+  "actions": [
+    "VIRTUAL-EXCHANGES"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "f4f19b3a1feb9176ff298eb1d5d04c66f07b5e83ea159152e89a966ba352d2e4",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-46abeaa2ee7a:p0001",
+      "path": "sources/eu-guide-46abeaa2ee7a/revisions/f4f19b3a1feb9176ff298eb1d5d04c66f07b5e83ea159152e89a966ba352d2e4/pages/page-0001.md",
+      "active_path": "sources/eu-guide-46abeaa2ee7a/pages/page-0001.md",
+      "derived_sha256": "a138a8a90a03afa23fcc54fcf5c8bc2256928869c78ca3f0d9ccf38c494b4317"
+    }
+  ],
+  "full_path": "sources/eu-guide-46abeaa2ee7a/revisions/f4f19b3a1feb9176ff298eb1d5d04c66f07b5e83ea159152e89a966ba352d2e4/full.md",
+  "full_sha256": "a138a8a90a03afa23fcc54fcf5c8bc2256928869c78ca3f0d9ccf38c494b4317",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

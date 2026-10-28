@@ -1,0 +1,46 @@
+{
+  "id": "inapp-priorities-2026",
+  "title": "Priorità nazionali Erasmus VET 2026 - 24/02/2026",
+  "url": "https://www.erasmusplus.it/wp-content/uploads/2026/02/Priorita_nazionali_Erasmus_VET_2026_24_02_26.pdf",
+  "path": "raw/pdf/inapp-priorities-2026.pdf",
+  "kind": "national-priorities",
+  "sectors": [
+    "VET"
+  ],
+  "actions": [
+    "KA210",
+    "KA220"
+  ],
+  "authority": "INAPP",
+  "year": 2026,
+  "language": "it",
+  "download": true,
+  "sha256": "cf17e6764fc057726c6598a4fae0ec0cb68516cf16c1ed9ce19b16b15c1a5688",
+  "resolved_url": "https://www.erasmusplus.it/wp-content/uploads/2026/02/Priorita_nazionali_Erasmus_VET_2026_24_02_26.pdf",
+  "checked_at": "2026-09-12",
+  "program": "ERASMUS",
+  "pages": 2,
+  "original_sha256": "cf17e6764fc057726c6598a4fae0ec0cb68516cf16c1ed9ce19b16b15c1a5688",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "inapp-priorities-2026:p0001",
+      "path": "sources/inapp-priorities-2026/revisions/cf17e6764fc057726c6598a4fae0ec0cb68516cf16c1ed9ce19b16b15c1a5688/pages/page-0001.md",
+      "active_path": "sources/inapp-priorities-2026/pages/page-0001.md",
+      "derived_sha256": "cb3d08d89ff673eab807ee3eda57e09e4eb0ff3bce6ecc4c8c95949b009fbb08"
+    },
+    {
+      "number": 2,
+      "id": "inapp-priorities-2026:p0002",
+      "path": "sources/inapp-priorities-2026/revisions/cf17e6764fc057726c6598a4fae0ec0cb68516cf16c1ed9ce19b16b15c1a5688/pages/page-0002.md",
+      "active_path": "sources/inapp-priorities-2026/pages/page-0002.md",
+      "derived_sha256": "a56416ac7b2214e086058b1643dcc1afcfe60ed3d5163c9a6d779fc98f24e86c"
+    }
+  ],
+  "full_path": "sources/inapp-priorities-2026/revisions/cf17e6764fc057726c6598a4fae0ec0cb68516cf16c1ed9ce19b16b15c1a5688/full.md",
+  "full_sha256": "f57cb6116fe40939a3b84309c465b0e8a03bea4689266c640a06c2f2ac97af6c",
+  "repaired_from_verified_original": [],
+  "extraction": "pdftotext -layout, physical one-based PDF pages",
+  "extracted_at": "2026-09-16"
+}

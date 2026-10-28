@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-99535b1cfe2c",
+  "title": "Step 1: Registration",
+  "path": "raw/web/eu-guide-99535b1cfe2c.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply/step-1-registration",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply/step-1-registration",
+  "sha256": "a317d9d425d8e757047e0edca2fd346c51191cff9233292b3dd6669e0cf7efea",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "a317d9d425d8e757047e0edca2fd346c51191cff9233292b3dd6669e0cf7efea",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-99535b1cfe2c:p0001",
+      "path": "sources/eu-guide-99535b1cfe2c/revisions/a317d9d425d8e757047e0edca2fd346c51191cff9233292b3dd6669e0cf7efea/pages/page-0001.md",
+      "active_path": "sources/eu-guide-99535b1cfe2c/pages/page-0001.md",
+      "derived_sha256": "bd9543dfa39d03548919503df72641d5d8d2d2bc05d6f353692ba10f69c10df9"
+    }
+  ],
+  "full_path": "sources/eu-guide-99535b1cfe2c/revisions/a317d9d425d8e757047e0edca2fd346c51191cff9233292b3dd6669e0cf7efea/full.md",
+  "full_sha256": "bd9543dfa39d03548919503df72641d5d8d2d2bc05d6f353692ba10f69c10df9",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

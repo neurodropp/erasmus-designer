@@ -1,0 +1,51 @@
+# Runtime knowledge and generated indexes
+.lwc/
+index/*.sqlite*
+vendor/**/node_modules/
+
+# Local Codex discovery surfaces and account state
+.codex/
+.agents/
+
+# Candidate and project data: never commit by default
+projects/*/
+!projects/README.md
+wiki/projects/*/
+!wiki/projects/.gitkeep
+work/
+audits/
+output/
+
+# User-supplied forms, templates, assessments, and source material
+private/
+raw/templates/
+imports/
+intake/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+credentials.json
+auth.json
+tokens.json
+cookies.json
+*.pem
+*.key
+.netrc
+.npmrc
+.pypirc
+
+# Build and development artifacts
+.venv/
+venv/
+dist/
+build/
+tmp/
+temp/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store

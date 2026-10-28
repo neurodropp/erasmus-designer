@@ -1,0 +1,26 @@
+name: engine-checks
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install source extraction dependency
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+      - name: Privacy and secret preflight
+        run: python3 scripts/repository_preflight.py
+      - name: Build the reproducible local evidence index
+        run: python3 scripts/brain.py rebuild --no-cards
+      - name: Python tests
+        run: python3 -m unittest discover -s tests
+

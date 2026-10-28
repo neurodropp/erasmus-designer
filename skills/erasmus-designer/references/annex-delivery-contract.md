@@ -1,0 +1,9 @@
+# Common annex delivery
+
+Use the received version of `project.json` and the IDs in the [common model](../../../wiki/templates/project-memory-contract.md). Write only to the assigned output; a change to shared data is a proposal to the coordinator. Classify the file as internal/optional/required, with evidence from the current form for the last category. Report missing data, assumptions, weaknesses, a relevant alternative, reasoned decision, checks, and localized sources. Do not declare an annex adequate based on plausibility alone.
+
+For XLSX, apply the available Spreadsheets skill and verify calculations and views; for DOCX, apply documents. A design mandate may deliver a Markdown blueprint. Do not promise export or verification unless performed. Deliver the requested format, manifest, and check receipt to the coordinator. Each annex's specifics remain in its blueprint and owner skill.
+
+## Design and criteria in annexes
+
+Receive the relevant version of the design plan as a dependency, with canonical IDs, mechanisms, assumptions, and supported criteria. Apply the [design method](../../../docs/design-methodology.md) only to the annex's responsibility: resources and proportionality for the budget; delivery, adoption, and measurement timing for the Gantt; the dissemination-to-use pathway for dissemination; evidence/indicators for KPIs; assumptions and signals for risks. Other owners retain relevant connections without imposing every framework on every document. Values remain projections from the model, with evidence or gaps; the table is not a second numerical source. An intervention logic defect goes back to design through the coordinator; do not fix it independently by changing targets, tasks, budget, or schedule in the annex. Handbook2026 and Impact Tool retain the scope and authority described in the common contract.

@@ -1,0 +1,40 @@
+{
+  "id": "impacttool-netherlands",
+  "title": "Impacttool mobilità - Agenzia nazionale Paesi Bassi",
+  "url": "https://www.erasmusplus.nl/en/impacttool-mobility",
+  "path": "raw/web/impacttool-netherlands.html",
+  "year": 2026,
+  "publication_year": null,
+  "kind": "methodological-resource",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "authority": "Dutch national agency",
+  "language": "en",
+  "download": true,
+  "scope_note": "Documento metodologico/standard richiamato nel corpus 2026; non è una priorità italiana né una griglia universale.",
+  "sha256": "2c43ecbe5aae4d13f64b1da403eba899dd8f860f2167cbd8b45580cb7194f3af",
+  "resolved_url": "https://www.erasmusplus.nl/en/impacttool-mobility",
+  "checked_at": "2026-09-12",
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "2c43ecbe5aae4d13f64b1da403eba899dd8f860f2167cbd8b45580cb7194f3af",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "impacttool-netherlands:p0001",
+      "path": "sources/impacttool-netherlands/revisions/2c43ecbe5aae4d13f64b1da403eba899dd8f860f2167cbd8b45580cb7194f3af/pages/page-0001.md",
+      "active_path": "sources/impacttool-netherlands/pages/page-0001.md",
+      "derived_sha256": "c09e44c8b737d72489feb5a60b857480f305b5bd2c6ee1e08e2c8f4c7b0b98f1"
+    }
+  ],
+  "full_path": "sources/impacttool-netherlands/revisions/2c43ecbe5aae4d13f64b1da403eba899dd8f860f2167cbd8b45580cb7194f3af/full.md",
+  "full_sha256": "c09e44c8b737d72489feb5a60b857480f305b5bd2c6ee1e08e2c8f4c7b0b98f1",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "eu-guide-2c34e31ff487",
+  "title": "Cooperation partnerships",
+  "path": "raw/web/eu-guide-2c34e31ff487.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/cooperation-partnerships",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/cooperation-partnerships",
+  "sha256": "128735441b1741b69b8911b69ea917185557715aa3d340be868cef2bf58752fe",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ADU",
+    "HED",
+    "SCH",
+    "SPO",
+    "VET",
+    "YOU"
+  ],
+  "actions": [
+    "KA220-ADU",
+    "KA220-HED",
+    "KA220-SCH",
+    "KA220-SPO",
+    "KA220-VET",
+    "KA220-YOU"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "128735441b1741b69b8911b69ea917185557715aa3d340be868cef2bf58752fe",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-2c34e31ff487:p0001",
+      "path": "sources/eu-guide-2c34e31ff487/revisions/128735441b1741b69b8911b69ea917185557715aa3d340be868cef2bf58752fe/pages/page-0001.md",
+      "active_path": "sources/eu-guide-2c34e31ff487/pages/page-0001.md",
+      "derived_sha256": "5402412cb81e5f3f174a7e07be36449f3a1ada2977dd87970a31043c9c1ab9cd"
+    }
+  ],
+  "full_path": "sources/eu-guide-2c34e31ff487/revisions/128735441b1741b69b8911b69ea917185557715aa3d340be868cef2bf58752fe/full.md",
+  "full_sha256": "5402412cb81e5f3f174a7e07be36449f3a1ada2977dd87970a31043c9c1ab9cd",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

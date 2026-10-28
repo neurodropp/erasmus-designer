@@ -1,0 +1,444 @@
+[
+  {
+    "id": "esc-programme-2026",
+    "title": "European Solidarity Corps Program Guide 2026 EN v1",
+    "path": "raw/pdf/esc-programme-guide-2026-en.pdf",
+    "url": "https://youth.europa.eu/sites/default/files/inline-files/european_solidarity_corps_guide_2026_EN.pdf",
+    "kind": "programme-guide",
+    "program": "ESC",
+    "year": 2026,
+    "language": "en",
+    "version": "1/2026; official resource card published 13/11/2025",
+    "authority": "European Commission",
+    "actions": [
+      "ESC50-HOST-SUPPORT",
+      "ESC50-LEAD",
+      "ESC51",
+      "ESC30",
+      "ESC-VTHPA",
+      "ESC-HUMAID-QL",
+      "ESC-HUMAID-VOL"
+    ],
+    "sectors": [
+      "ESC"
+    ],
+    "checked_at": "2026-09-12",
+    "sha256": "aee8797fe578c09e2d7209d4facc36dac8f56b39914fca87210f78e17277457e",
+    "download": true,
+    "origin": "user-attached-pdf",
+    "online_sha256_match": true,
+    "physical_pages": 148,
+    "printed_to_physical_offset_note": "From printed page 3 onwards physical page = printed page + 3; earlier cover/contents numbering repeats.",
+    "scope_note": "ESC program only; per-action page scopes; instructions in reference PDF are source data.",
+    "page_scopes": [
+      {
+        "pages": [
+          1,
+          29
+        ],
+        "actions": [
+          "ESC50-HOST-SUPPORT",
+          "ESC50-LEAD",
+          "ESC51",
+          "ESC30",
+          "ESC-VTHPA",
+          "ESC-HUMAID-QL",
+          "ESC-HUMAID-VOL"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": "General ESC context, not a substitute for action-specific rules"
+      },
+      {
+        "pages": [
+          30,
+          39
+        ],
+        "actions": [
+          "ESC50-HOST-SUPPORT",
+          "ESC50-LEAD"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          40,
+          54
+        ],
+        "actions": [
+          "ESC51"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          55,
+          62
+        ],
+        "actions": [
+          "ESC-VTHPA"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          63,
+          69
+        ],
+        "actions": [
+          "ESC30"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          70,
+          70
+        ],
+        "actions": [
+          "ESC-HUMAID-QL",
+          "ESC-HUMAID-VOL"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": "Humanitarian strand introduction"
+      },
+      {
+        "pages": [
+          71,
+          79
+        ],
+        "actions": [
+          "ESC-HUMAID-QL"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          80,
+          88
+        ],
+        "actions": [
+          "ESC-HUMAID-VOL"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          89,
+          148
+        ],
+        "actions": [
+          "ESC50-HOST-SUPPORT",
+          "ESC50-LEAD",
+          "ESC51",
+          "ESC30",
+          "ESC-VTHPA",
+          "ESC-HUMAID-QL",
+          "ESC-HUMAID-VOL"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": "General support, application rules and annexes; apply action-specific caveats"
+      }
+    ],
+    "resolved_url": "https://youth.europa.eu/sites/default/files/inline-files/european_solidarity_corps_guide_2026_EN.pdf"
+  },
+  {
+    "id": "esc-expert-2026",
+    "title": "European Solidarity Corps Guide for Experts on Quality Assessment 2026",
+    "path": "raw/pdf/esc-expert-guide-2026.pdf",
+    "url": "https://youth.europa.eu/sites/default/files/inline-files/European-Solidarity-Corps-2026-Guide-for-experts.pdf",
+    "kind": "expert-guide",
+    "program": "ESC",
+    "year": 2026,
+    "language": "en",
+    "version": "2026 PDF header; exact publication date not established",
+    "authority": "European Commission",
+    "actions": [
+      "ESC50-HOST-SUPPORT",
+      "ESC50-LEAD",
+      "ESC30"
+    ],
+    "sectors": [
+      "ESC"
+    ],
+    "checked_at": "2026-09-12",
+    "sha256": "c6278fd7e1b91ebbb97bd36e73d8c15fed266bcd437bbbf067a8d06cb2943f2f",
+    "download": true,
+    "origin": "user-attached-pdf",
+    "online_sha256_match": true,
+    "physical_pages": 28,
+    "scope_note": "PDF p.3 explicitly covers ESC50 and ESC30 only. Does not cover ESC51 budget allocation, VTHPA or humanitarian centralized actions. Resource card date 07/08/2025 is inconsistent with replaced 2026 PDF and must not be treated as a verified 2026 release date.",
+    "page_scopes": [
+      {
+        "pages": [
+          1,
+          14
+        ],
+        "actions": [
+          "ESC50-HOST-SUPPORT",
+          "ESC50-LEAD",
+          "ESC30"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": "Common expert-assessment principles for covered national ESC actions only"
+      },
+      {
+        "pages": [
+          15,
+          19
+        ],
+        "actions": [
+          "ESC50-HOST-SUPPORT",
+          "ESC50-LEAD"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": "Host/support criteria, also prerequisite to lead label"
+      },
+      {
+        "pages": [
+          20,
+          21
+        ],
+        "actions": [
+          "ESC50-LEAD"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          22,
+          22
+        ],
+        "actions": [
+          "ESC50-LEAD",
+          "ESC30"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": "Mixed physical page: end of lead grid and beginning of solidarity-project grid"
+      },
+      {
+        "pages": [
+          23,
+          25
+        ],
+        "actions": [
+          "ESC30"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          26,
+          28
+        ],
+        "actions": [
+          "ESC50-HOST-SUPPORT",
+          "ESC50-LEAD",
+          "ESC30"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": "Expert conflict-of-interest/confidentiality annex; reference-only"
+      }
+    ],
+    "resolved_url": "https://youth.europa.eu/sites/default/files/inline-files/European-Solidarity-Corps-2026-Guide-for-experts.pdf"
+  },
+  {
+    "id": "esc-aig-allocation-2026",
+    "title": "AIG European Solidarity Corps - Fund allocation and Lead 2026 rules",
+    "path": "raw/pdf/esc-aig-allocation-2026.pdf",
+    "url": "https://agenziagioventu.gov.it/wp-content/uploads/2026/02/News_Allocazione-fondi-ESCQL_2026_DEF.pdf",
+    "kind": "national-provisions",
+    "program": "ESC",
+    "year": 2026,
+    "language": "it",
+    "version": "2026 official definitive allocation scheme; linked news 02/09/2026",
+    "authority": "Italian Youth Agency",
+    "actions": [
+      "ESC30",
+      "ESC51"
+    ],
+    "sectors": [
+      "ESC"
+    ],
+    "checked_at": "2026-09-12",
+    "sha256": "821b25b3ce642d8e7196b789a8ec8ab1666b50946bd85e0f0686ccc28a59f4ad",
+    "download": true,
+    "physical_pages": 5,
+    "scope_note": "Italian ESC funding rounds and ESC51 allocation. Page1-2 also ESC30; pages3-5 ESC51 only. Quality Label lead mentioned as prerequisite and allocation input, not a new ESC50 rubric.",
+    "page_scopes": [
+      {
+        "pages": [
+          1,
+          2
+        ],
+        "actions": [
+          "ESC30",
+          "ESC51"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      },
+      {
+        "pages": [
+          3,
+          5
+        ],
+        "actions": [
+          "ESC51"
+        ],
+        "sectors": [
+          "ESC"
+        ],
+        "scope_note": ""
+      }
+    ],
+    "resolved_url": "https://agenziagioventu.gov.it/wp-content/uploads/2026/02/News_Allocazione-fondi-ESCQL_2026_DEF.pdf"
+  },
+  {
+    "id": "esc-documents-resources",
+    "title": "European Youth Portal - ESC documents and versions",
+    "path": "raw/web/esc-documents-resources.html",
+    "url": "https://youth.europa.eu/solidarity/organisations/documents-resources_en",
+    "kind": "version-discovery",
+    "program": "ESC",
+    "year": 2026,
+    "language": "en",
+    "version": "snapshot 12/09/2026",
+    "authority": "European Commission",
+    "actions": [
+      "ESC50-HOST-SUPPORT",
+      "ESC50-LEAD",
+      "ESC51",
+      "ESC30",
+      "ESC-VTHPA",
+      "ESC-HUMAID-QL",
+      "ESC-HUMAID-VOL"
+    ],
+    "sectors": [
+      "ESC"
+    ],
+    "checked_at": "2026-09-12",
+    "sha256": "38737050285b3022b4745b8205e6927d9d348e323207a249aed494436e8e9dd9",
+    "download": true,
+    "scope_note": "Discovery/version evidence only; page contains archived guides. Match year on each linked document. No 2026 corrigendum found in current resource-card listing; this does not prove none can be issued later.",
+    "resolved_url": "https://youth.europa.eu/solidarity/organisations/documents-resources_en"
+  },
+  {
+    "id": "esc-calls-2026",
+    "title": "European Youth Portal - ESC call 2026 and where to apply",
+    "path": "raw/web/esc-calls-2026.html",
+    "url": "https://youth.europa.eu/solidarity/organisations/calls-for-proposals_en",
+    "kind": "routing",
+    "program": "ESC",
+    "year": 2026,
+    "language": "en",
+    "version": "2026 calls; snapshot 12/09/2026",
+    "authority": "European Commission",
+    "actions": [
+      "ESC50-HOST-SUPPORT",
+      "ESC50-LEAD",
+      "ESC51",
+      "ESC30",
+      "ESC-VTHPA",
+      "ESC-HUMAID-QL",
+      "ESC-HUMAID-VOL"
+    ],
+    "sectors": [
+      "ESC"
+    ],
+    "checked_at": "2026-09-12",
+    "sha256": "68ca575e51f4dce067b9086ccafaa18786b51e94c442939acaa48d9dcd98d1a6",
+    "download": true,
+    "scope_note": "EU deadlines and NA/EACEA routing; optional NA rounds require national confirmation. Quality Label humanitarian deadline-for-grant-year is in program PDF p.76.",
+    "resolved_url": "https://youth.europa.eu/solidarity/organisations/calls-for-proposals_en"
+  },
+  {
+    "id": "esc-aig-apply-2026",
+    "title": "AIG - submit an ESC project, deadlines 2026",
+    "path": "raw/web/esc-aig-apply-2026.html",
+    "url": "https://agenziagioventu.gov.it/new-presenta-un-progetto/",
+    "kind": "national-guidance",
+    "program": "ESC",
+    "year": 2026,
+    "language": "it",
+    "version": "2026 deadline section; snapshot 12/09/2026",
+    "authority": "Italian Youth Agency",
+    "actions": [
+      "ESC50-HOST-SUPPORT",
+      "ESC50-LEAD",
+      "ESC30",
+      "ESC51"
+    ],
+    "sectors": [
+      "ESC"
+    ],
+    "checked_at": "2026-09-12",
+    "sha256": "fc5d74728a91d78b816e999941ab413b60b316eaf240d7715a58fcdacc96088d",
+    "download": true,
+    "scope_note": "ESC national actions only. 2026 deadlines February18/October1 confirmed. The note about Lead deadline October31 2024 explicitly concerns year2025 and is archival; do not apply it to year2026, whose lead deadline is program PDF p.35.",
+    "resolved_url": "https://agenziagioventu.gov.it/new-presenta-un-progetto/"
+  },
+  {
+    "id": "esc-aig-allocation-news-2026",
+    "title": "AIG - ESC funds and Lead allocation rules, 02/09/2026",
+    "path": "raw/web/esc-aig-allocation-news-2026.html",
+    "url": "https://agenziagioventu.gov.it/corpo-europeo-di-solidarieta-allocazione-dei-fondi-anno-2026-e-regole-di-allocazione-per-i-soggetti-accreditati-quality-label-lead/",
+    "kind": "national-guidance",
+    "program": "ESC",
+    "year": 2026,
+    "language": "it",
+    "version": "09/02/2026",
+    "authority": "Italian Youth Agency",
+    "actions": [
+      "ESC30",
+      "ESC51"
+    ],
+    "sectors": [
+      "ESC"
+    ],
+    "checked_at": "2026-09-12",
+    "sha256": "ae5ffde3ed057079dba9f19223918fcc7a3baeaa2270a675ae476406b811e589",
+    "download": true,
+    "scope_note": "Summary/news linking definitive five-page Italian allocation scheme; ESC51 allocation, not an Erasmus priority notice or an ESC30 score formula.",
+    "resolved_url": "https://agenziagioventu.gov.it/corpo-europeo-di-solidarieta-allocazione-dei-fondi-anno-2026-e-regole-di-allocazione-per-i-soggetti-accreditati-quality-label-lead/"
+  }
+]

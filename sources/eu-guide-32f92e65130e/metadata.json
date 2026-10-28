@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-32f92e65130e",
+  "title": "Introduction",
+  "path": "raw/web/eu-guide-32f92e65130e.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/erasmus-programme-guide/introduction",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/erasmus-programme-guide/introduction",
+  "sha256": "e15df60efc136699367e81900192675e8280330c4231c5f7f8b5def48ad332b3",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "e15df60efc136699367e81900192675e8280330c4231c5f7f8b5def48ad332b3",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-32f92e65130e:p0001",
+      "path": "sources/eu-guide-32f92e65130e/revisions/e15df60efc136699367e81900192675e8280330c4231c5f7f8b5def48ad332b3/pages/page-0001.md",
+      "active_path": "sources/eu-guide-32f92e65130e/pages/page-0001.md",
+      "derived_sha256": "4e2575c4f454f42e5c8546a92562f976d03a656c253088a06d6a9aa9953b8ca9"
+    }
+  ],
+  "full_path": "sources/eu-guide-32f92e65130e/revisions/e15df60efc136699367e81900192675e8280330c4231c5f7f8b5def48ad332b3/full.md",
+  "full_sha256": "4e2575c4f454f42e5c8546a92562f976d03a656c253088a06d6a9aa9953b8ca9",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

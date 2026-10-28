@@ -1,0 +1,38 @@
+{
+  "id": "eu-guide-038b6d9b44fd",
+  "title": "Mobility projects for higher education students and staff",
+  "path": "raw/web/eu-guide-038b6d9b44fd.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/higher-education-mobility-projects",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/higher-education-mobility-projects",
+  "sha256": "24d6b363e0399f96533b4eff60e498631ca65b30fd1c761117766494a57feacf",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "HED"
+  ],
+  "actions": [
+    "KA131",
+    "KA171"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "24d6b363e0399f96533b4eff60e498631ca65b30fd1c761117766494a57feacf",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-038b6d9b44fd:p0001",
+      "path": "sources/eu-guide-038b6d9b44fd/revisions/24d6b363e0399f96533b4eff60e498631ca65b30fd1c761117766494a57feacf/pages/page-0001.md",
+      "active_path": "sources/eu-guide-038b6d9b44fd/pages/page-0001.md",
+      "derived_sha256": "44799d40190c5bf3a8a96055c474798996562d8178dc30d4bcd99bd576f6bd69"
+    }
+  ],
+  "full_path": "sources/eu-guide-038b6d9b44fd/revisions/24d6b363e0399f96533b4eff60e498631ca65b30fd1c761117766494a57feacf/full.md",
+  "full_sha256": "44799d40190c5bf3a8a96055c474798996562d8178dc30d4bcd99bd576f6bd69",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

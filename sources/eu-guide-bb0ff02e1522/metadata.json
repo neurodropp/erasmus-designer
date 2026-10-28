@@ -1,0 +1,38 @@
+{
+  "id": "eu-guide-bb0ff02e1522",
+  "title": "Mobility for learners and staff in adult education",
+  "path": "raw/web/eu-guide-bb0ff02e1522.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/adult-learners-and-staff",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/adult-learners-and-staff",
+  "sha256": "03f53c618869afdf5fde1ddb9f5e3659d29c7654a6610f67a20548c4e3e16ee9",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ADU"
+  ],
+  "actions": [
+    "KA121-ADU",
+    "KA122-ADU"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "03f53c618869afdf5fde1ddb9f5e3659d29c7654a6610f67a20548c4e3e16ee9",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-bb0ff02e1522:p0001",
+      "path": "sources/eu-guide-bb0ff02e1522/revisions/03f53c618869afdf5fde1ddb9f5e3659d29c7654a6610f67a20548c4e3e16ee9/pages/page-0001.md",
+      "active_path": "sources/eu-guide-bb0ff02e1522/pages/page-0001.md",
+      "derived_sha256": "26448212aa7674d5b04782057310ab63b78848b11ce95b4633971fa367e9e303"
+    }
+  ],
+  "full_path": "sources/eu-guide-bb0ff02e1522/revisions/03f53c618869afdf5fde1ddb9f5e3659d29c7654a6610f67a20548c4e3e16ee9/full.md",
+  "full_sha256": "26448212aa7674d5b04782057310ab63b78848b11ce95b4633971fa367e9e303",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

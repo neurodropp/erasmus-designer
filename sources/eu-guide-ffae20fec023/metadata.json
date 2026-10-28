@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-ffae20fec023",
+  "title": "How to submit an Erasmus+ Application?",
+  "path": "raw/web/eu-guide-ffae20fec023.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-c/how-to-apply",
+  "sha256": "4328751e451d4c9537653033ccea7fd943f2e0660a2fc21e81370e1978a9d946",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "4328751e451d4c9537653033ccea7fd943f2e0660a2fc21e81370e1978a9d946",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-ffae20fec023:p0001",
+      "path": "sources/eu-guide-ffae20fec023/revisions/4328751e451d4c9537653033ccea7fd943f2e0660a2fc21e81370e1978a9d946/pages/page-0001.md",
+      "active_path": "sources/eu-guide-ffae20fec023/pages/page-0001.md",
+      "derived_sha256": "dcf820900b9896d1de42db44678398ae2525e043cb5fe3fd0914d6105d9153bd"
+    }
+  ],
+  "full_path": "sources/eu-guide-ffae20fec023/revisions/4328751e451d4c9537653033ccea7fd943f2e0660a2fc21e81370e1978a9d946/full.md",
+  "full_sha256": "dcf820900b9896d1de42db44678398ae2525e043cb5fe3fd0914d6105d9153bd",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

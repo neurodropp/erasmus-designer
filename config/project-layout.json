@@ -1,0 +1,89 @@
+{
+  "version": "project-layout-v1",
+  "authority": "local-method-not-programme-requirement",
+  "root": "projects",
+  "folder_pattern": "<name-slug>--<action-tag>--<call-year>",
+  "action_tags": {
+    "KA220-YOU": "ka220-youth",
+    "KA210-YOU": "ka210-youth",
+    "KA150": "ka150-youth-accreditation",
+    "KA151": "ka151-accredited-youth",
+    "KA152": "ka152-youth-exchange",
+    "KA153": "ka153-youth-workers",
+    "KA154": "ka154-youth-participation",
+    "KA155": "ka155-discovereu-inclusion",
+    "ESC30": "esc30-solidarity",
+    "ESC51": "esc51-volunteering"
+  },
+  "base_directories": [
+    "inbox",
+    "research",
+    "memory",
+    "design",
+    "partners",
+    "application",
+    "exports",
+    "annexes",
+    "reports",
+    "receipts",
+    "production",
+    "stages",
+    "sessions",
+    "validation/packets",
+    "validation/reports",
+    "validation/dispatches",
+    "wayfinder",
+    "wayfinder/history",
+    "approval",
+    "validation/lifecycle"
+  ],
+  "annex_workspaces": {
+    "KA152": [
+      "budget-table",
+      "dissemination-table",
+      "monitoring-risk-plan",
+      "partner-contract",
+      "participant-rules-code",
+      "ka1-activity-timetable"
+    ],
+    "KA153": [
+      "budget-table",
+      "dissemination-table",
+      "monitoring-risk-plan",
+      "participant-rules-code"
+    ],
+    "KA154": [
+      "budget-table",
+      "dissemination-table",
+      "monitoring-risk-plan",
+      "participant-rules-code"
+    ],
+    "KA155": [
+      "budget-table",
+      "monitoring-risk-plan",
+      "participant-rules-code"
+    ],
+    "ESC30": [
+      "budget-table",
+      "monitoring-risk-plan",
+      "dissemination-table",
+      "follow-up-plan"
+    ]
+  },
+  "workspace_status": "Folders are planning workspaces only; neither required uploads nor populated annexes. For other routes choose --annex explicitly after action review.",
+  "annex_family_workspaces": {
+    "KA220": [
+      "budget-table",
+      "dissemination-table",
+      "gantt-table",
+      "work-packages-table",
+      "monitoring-risk-plan",
+      "partner-contract",
+      "participant-rules-code",
+      "ka2-task-file",
+      "kpi-table",
+      "results-register",
+      "follow-up-plan"
+    ]
+  }
+}

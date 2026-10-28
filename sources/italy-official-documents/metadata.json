@@ -1,0 +1,37 @@
+{
+  "id": "italy-official-documents",
+  "title": "Erasmus+ Italia - documenti ufficiali",
+  "url": "https://www.erasmusplus.it/programma/documenti-ufficiali/",
+  "path": "raw/web/italy-official-documents.html",
+  "kind": "discovery",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "authority": "Italian national agencies",
+  "year": 2026,
+  "language": "it",
+  "download": true,
+  "sha256": "69ef700f1eabed9469158a6a2cebf7f5a515008e9047956d7d27700ee3bcb6ec",
+  "checked_at": "2026-09-12",
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "69ef700f1eabed9469158a6a2cebf7f5a515008e9047956d7d27700ee3bcb6ec",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "italy-official-documents:p0001",
+      "path": "sources/italy-official-documents/revisions/69ef700f1eabed9469158a6a2cebf7f5a515008e9047956d7d27700ee3bcb6ec/pages/page-0001.md",
+      "active_path": "sources/italy-official-documents/pages/page-0001.md",
+      "derived_sha256": "88dbc2b4e65fc7c9c97860af287ba2240c1811f8a4d8497ec5a40a4fe535a79d"
+    }
+  ],
+  "full_path": "sources/italy-official-documents/revisions/69ef700f1eabed9469158a6a2cebf7f5a515008e9047956d7d27700ee3bcb6ec/full.md",
+  "full_sha256": "88dbc2b4e65fc7c9c97860af287ba2240c1811f8a4d8497ec5a40a4fe535a79d",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

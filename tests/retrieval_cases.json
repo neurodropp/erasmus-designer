@@ -1,0 +1,148 @@
+[
+  {
+    "question": "Quali priorità italiane si applicano a KA220 Gioventù?",
+    "paraphrase": "AIG animazione socioeducativa occupabilità",
+    "page": "priorita-italiane-2026",
+    "sources": [
+      "aig-priorities-2026"
+    ],
+    "required_text": [
+      "KA220-YOU",
+      "Non trasferire",
+      "KA210"
+    ]
+  },
+  {
+    "question": "buone pratiche bisogni indicatori baseline target",
+    "paraphrase": "scrivere candidatura analisi bisogni obiettivi misurabili",
+    "page": "buone-pratiche-application",
+    "sources": [
+      "programme-2026",
+      "expert-2026"
+    ]
+  },
+  {
+    "question": "budget gestione denominatore venti percento KA220",
+    "paraphrase": "incongruenza guida esperti budget management",
+    "page": "conflitti-fonti",
+    "sources": [
+      "programme-2026",
+      "expert-2026",
+      "lump-sum-handbook-2026"
+    ]
+  },
+  {
+    "question": "Partenariati di cooperazione ADU",
+    "paraphrase": "KA220-ADU adult education cooperation partnership",
+    "page": "ka220-adu",
+    "sources": [
+      "programme-2026",
+      "expert-2026"
+    ]
+  },
+  {
+    "question": "ESC30 Progetti di solidarietà",
+    "paraphrase": "progetto solidarietà ESC30 gruppo giovani",
+    "page": "esc30",
+    "sources": [
+      "esc-programme-2026",
+      "esc-expert-2026"
+    ],
+    "forbidden_sources": [
+      "programme-2026",
+      "expert-2026"
+    ],
+    "required_text": [
+      "year: 2026",
+      "program: ESC",
+      "action: ESC30"
+    ]
+  },
+  {
+    "question": "Quality Label ESC50-HOST-SUPPORT accoglienza sostegno",
+    "paraphrase": "ESC50 host support positivo negativo",
+    "page": "esc50-host-support",
+    "sources": [
+      "esc-programme-2026",
+      "esc-expert-2026"
+    ],
+    "forbidden_sources": [
+      "programme-2026",
+      "expert-2026"
+    ],
+    "required_text": [
+      "program: ESC",
+      "positivo/negativo",
+      "Non applicare il 60/100"
+    ]
+  },
+  {
+    "question": "ESC50-LEAD marchio qualità lead",
+    "paraphrase": "ESC50-LEAD criteri aggiuntivi capofila",
+    "page": "esc50-lead",
+    "sources": [
+      "esc-programme-2026",
+      "esc-expert-2026"
+    ],
+    "forbidden_sources": [
+      "programme-2026",
+      "expert-2026"
+    ],
+    "required_text": [
+      "action: ESC50-LEAD",
+      "50+50"
+    ]
+  },
+  {
+    "question": "ESC51 progetti volontariato allocazione",
+    "paraphrase": "ESC51 finanziamento allocazione volontariato",
+    "page": "esc51",
+    "sources": [
+      "esc-programme-2026"
+    ],
+    "forbidden_sources": [
+      "programme-2026",
+      "expert-2026",
+      "esc-expert-2026"
+    ],
+    "required_text": [
+      "action: ESC51",
+      "allocazione"
+    ]
+  },
+  {
+    "question": "KA220-SPO sport EACEA",
+    "paraphrase": "Partenariati cooperazione Sport KA220-SPO",
+    "page": "ka220-spo",
+    "sources": [
+      "programme-2026"
+    ],
+    "forbidden_sources": [
+      "expert-2026",
+      "aig-priorities-2026"
+    ],
+    "required_text": [
+      "program: ERASMUS",
+      "action: KA220-SPO",
+      "EACEA"
+    ]
+  },
+  {
+    "question": "ka220-question-playbook template interno 2025 caratteri",
+    "paraphrase": "KA220 Youth playbook formulario ufficiale verificato 2025",
+    "page": "ka220-question-playbook",
+    "sources": [
+      "programme-2026",
+      "expert-2026",
+      "template-ka220-user"
+    ],
+    "forbidden_sources": [
+      "esc-programme-2026",
+      "esc-expert-2026"
+    ],
+    "required_text": [
+      "non è un formulario ufficiale verificato",
+      "2025"
+    ]
+  }
+]

@@ -1,0 +1,1774 @@
+{
+  "schema_version": 1,
+  "authority": "user-authorized workflow, not program requirements",
+  "phases": {
+    "idea-validation": {
+      "acceptance_checks": [
+        {
+          "id": "route-scope",
+          "check": "Correct program/year/action/sector/role and scope of the form.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "source-applicability",
+          "check": "Relevant original sources/localizers/version; distinct rules, criteria and advice.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "action-compliance",
+          "check": "Checklist applicable to action and phase verified against complete sources; explicit coverage gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "evidence-truth",
+          "check": "Facts, consultations, partners and commitments that are authentic or listed as unconfirmed.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "critical-review",
+          "check": "Real weaknesses, alternatives and motivated decisions, without complacency or invented defects.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "cross-artifact-coherence",
+          "check": "Consistent numbers, roles, objectives, outputs/results, times and resources across relevant products.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "idea-validation-1",
+          "check": "Problem and recipients defined without supporting the solution a priori.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "idea-validation-2",
+          "check": "Candidate action, relevant priorities, capabilities and justified alternatives.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        }
+      ],
+      "automatic_checks_expected": []
+    },
+    "needs-impact-research": {
+      "acceptance_checks": [
+        {
+          "id": "route-scope",
+          "check": "Correct program/year/action/sector/role and scope of the form.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "source-applicability",
+          "check": "Relevant original sources/localizers/version; distinct rules, criteria and advice.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "action-compliance",
+          "check": "Checklist applicable to action and phase verified against complete sources; explicit coverage gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "evidence-truth",
+          "check": "Facts, consultations, partners and commitments that are authentic or listed as unconfirmed.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "critical-review",
+          "check": "Real weaknesses, alternatives and motivated decisions, without complacency or invented defects.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "cross-artifact-coherence",
+          "check": "Consistent numbers, roles, objectives, outputs/results, times and resources across relevant products.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "needs-impact-research-1",
+          "check": "Local and EU issue supported by authentic evidence; gaps and explicit baselines.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "needs-impact-research-2",
+          "check": "Existing interventions and causal plausibility distinguished from simple funded examples.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        }
+      ],
+      "automatic_checks_expected": []
+    },
+    "concept-note": {
+      "acceptance_checks": [
+        {
+          "id": "route-scope",
+          "check": "Correct program/year/action/sector/role and scope of the form.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "source-applicability",
+          "check": "Relevant original sources/localizers/version; distinct rules, criteria and advice.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "action-compliance",
+          "check": "Checklist applicable to action and phase verified against complete sources; explicit coverage gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "evidence-truth",
+          "check": "Facts, consultations, partners and commitments that are authentic or listed as unconfirmed.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "critical-review",
+          "check": "Real weaknesses, alternatives and motivated decisions, without complacency or invented defects.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "cross-artifact-coherence",
+          "check": "Consistent numbers, roles, objectives, outputs/results, times and resources across relevant products.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "concept-note-1",
+          "check": "Consistent needs, objectives, recipients, activities, resources and interim partners.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "concept-note-2",
+          "check": "Visible missing assumptions and decisions; concept proportionate to the route.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        }
+      ],
+      "automatic_checks_expected": []
+    },
+    "intervention-design": {
+      "acceptance_checks": [
+        {
+          "id": "route-scope",
+          "check": "Correct program/year/action/sector/role and scope of the form.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "source-applicability",
+          "check": "Relevant original sources/localizers/version; distinct rules, criteria and advice.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "action-compliance",
+          "check": "Checklist applicable to action and phase verified against complete sources; explicit coverage gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "evidence-truth",
+          "check": "Facts, consultations, partners and commitments that are authentic or listed as unconfirmed.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "critical-review",
+          "check": "Real weaknesses, alternatives and motivated decisions, without complacency or invented defects.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "cross-artifact-coherence",
+          "check": "Consistent numbers, roles, objectives, outputs/results, times and resources across relevant products.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "intervention-design-1",
+          "check": "Needs/objectives/activities/outputs/results/impact linked with verifiable causal links.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "intervention-design-2",
+          "check": "Priorities, relevant impacts and indicators with realistic baselines/measurements.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        }
+      ],
+      "automatic_checks_expected": []
+    },
+    "work-packages": {
+      "acceptance_checks": [
+        {
+          "id": "route-scope",
+          "check": "Correct program/year/action/sector/role and scope of the form.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "source-applicability",
+          "check": "Relevant original sources/localizers/version; distinct rules, criteria and advice.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "action-compliance",
+          "check": "Checklist applicable to action and phase verified against complete sources; explicit coverage gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "evidence-truth",
+          "check": "Facts, consultations, partners and commitments that are authentic or listed as unconfirmed.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "critical-review",
+          "check": "Real weaknesses, alternatives and motivated decisions, without complacency or invented defects.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "cross-artifact-coherence",
+          "check": "Consistent numbers, roles, objectives, outputs/results, times and resources across relevant products.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "work-packages-1",
+          "check": "Realistic activities, responsibility for skills, tasks, dependencies and calendar.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "work-packages-2",
+          "check": "First budget/WP/KPI/risk coherence; participation of the recipients in accordance with the route.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        }
+      ],
+      "automatic_checks_expected": [
+        "project-model"
+      ]
+    },
+    "partner-concept": {
+      "acceptance_checks": [
+        {
+          "id": "route-scope",
+          "check": "Correct program/year/action/sector/role and scope of the form.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "source-applicability",
+          "check": "Relevant original sources/localizers/version; distinct rules, criteria and advice.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "action-compliance",
+          "check": "Checklist applicable to action and phase verified against complete sources; explicit coverage gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "evidence-truth",
+          "check": "Facts, consultations, partners and commitments that are authentic or listed as unconfirmed.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "critical-review",
+          "check": "Real weaknesses, alternatives and motivated decisions, without complacency or invented defects.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "cross-artifact-coherence",
+          "check": "Consistent numbers, roles, objectives, outputs/results, times and resources across relevant products.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "partner-concept-1",
+          "check": "Partnership contributions, responsibilities, resources and confirmations are distinct from proposals.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "partner-concept-2",
+          "check": "Shareable document consistent with design, without unauthorized sending or signing.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        }
+      ],
+      "automatic_checks_expected": []
+    },
+    "answer-outlines": {
+      "acceptance_checks": [
+        {
+          "id": "route-scope",
+          "check": "Correct program/year/action/sector/role and scope of the form.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "source-applicability",
+          "check": "Relevant original sources/localizers/version; distinct rules, criteria and advice.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "action-compliance",
+          "check": "Checklist applicable to action and phase verified against complete sources; explicit coverage gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "evidence-truth",
+          "check": "Facts, consultations, partners and commitments that are authentic or listed as unconfirmed.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "critical-review",
+          "check": "Real weaknesses, alternatives and motivated decisions, without complacency or invented defects.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "cross-artifact-coherence",
+          "check": "Consistent numbers, roles, objectives, outputs/results, times and resources across relevant products.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "answer-outlines-1",
+          "check": "Each applicable question is mapped to criteria, content, evidence, and limit per instance.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "answer-outlines-2",
+          "check": "Good practices and examples do not replace facts; unknown limits remain gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        }
+      ],
+      "automatic_checks_expected": []
+    },
+    "application-draft": {
+      "acceptance_checks": [
+        {
+          "id": "route-scope",
+          "check": "Correct program/year/action/sector/role and scope of the form.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "source-applicability",
+          "check": "Relevant original sources/localizers/version; distinct rules, criteria and advice.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "action-compliance",
+          "check": "Checklist applicable to action and phase verified against complete sources; explicit coverage gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "evidence-truth",
+          "check": "Facts, consultations, partners and commitments that are authentic or listed as unconfirmed.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "critical-review",
+          "check": "Real weaknesses, alternatives and motivated decisions, without complacency or invented defects.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "cross-artifact-coherence",
+          "check": "Consistent numbers, roles, objectives, outputs/results, times and resources across relevant products.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "application-draft-1",
+          "check": "Actual answers respect common questions, characters, criteria and data.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "application-draft-2",
+          "check": "Real data, clear language, absence of rhetoric that hides design gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        }
+      ],
+      "automatic_checks_expected": [
+        "answer-characters"
+      ]
+    },
+    "annexes": {
+      "acceptance_checks": [
+        {
+          "id": "route-scope",
+          "check": "Correct program/year/action/sector/role and scope of the form.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "source-applicability",
+          "check": "Relevant original sources/localizers/version; distinct rules, criteria and advice.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "action-compliance",
+          "check": "Checklist applicable to action and phase verified against complete sources; explicit coverage gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "evidence-truth",
+          "check": "Facts, consultations, partners and commitments that are authentic or listed as unconfirmed.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "critical-review",
+          "check": "Real weaknesses, alternatives and motivated decisions, without complacency or invented defects.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "cross-artifact-coherence",
+          "check": "Consistent numbers, roles, objectives, outputs/results, times and resources across relevant products.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "annexes-1",
+          "check": "Relevant attachments materialized and reconciled with common data and applications.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "annexes-2",
+          "check": "Upload requirements and contract status verified without assuming them from the templates.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        }
+      ],
+      "automatic_checks_expected": [
+        "project-model"
+      ]
+    },
+    "review": {
+      "acceptance_checks": [
+        {
+          "id": "route-scope",
+          "check": "Correct program/year/action/sector/role and scope of the form.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "source-applicability",
+          "check": "Relevant original sources/localizers/version; distinct rules, criteria and advice.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "action-compliance",
+          "check": "Checklist applicable to action and phase verified against complete sources; explicit coverage gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "evidence-truth",
+          "check": "Facts, consultations, partners and commitments that are authentic or listed as unconfirmed.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "critical-review",
+          "check": "Real weaknesses, alternatives and motivated decisions, without complacency or invented defects.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "cross-artifact-coherence",
+          "check": "Consistent numbers, roles, objectives, outputs/results, times and resources across relevant products.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "review-1",
+          "check": "Evaluation referring to the correct action/role and the contents of the frozen bundle.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "review-2",
+          "check": "Localized discrepancies, justified severity and corrections without desired grade.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        }
+      ],
+      "automatic_checks_expected": []
+    },
+    "repair": {
+      "acceptance_checks": [
+        {
+          "id": "route-scope",
+          "check": "Correct program/year/action/sector/role and scope of the form.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "source-applicability",
+          "check": "Relevant original sources/localizers/version; distinct rules, criteria and advice.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "action-compliance",
+          "check": "Checklist applicable to action and phase verified against complete sources; explicit coverage gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "evidence-truth",
+          "check": "Facts, consultations, partners and commitments that are authentic or listed as unconfirmed.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "critical-review",
+          "check": "Real weaknesses, alternatives and motivated decisions, without complacency or invented defects.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "cross-artifact-coherence",
+          "check": "Consistent numbers, roles, objectives, outputs/results, times and resources across relevant products.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "repair-1",
+          "check": "Fixes resolve the causes of the findings and reopen all dependent controls.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "repair-2",
+          "check": "No new inconsistencies between template, responses, profile and attachments.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        }
+      ],
+      "automatic_checks_expected": [
+        "project-model"
+      ]
+    },
+    "qa": {
+      "acceptance_checks": [
+        {
+          "id": "route-scope",
+          "check": "Correct program/year/action/sector/role and scope of the form.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "source-applicability",
+          "check": "Relevant original sources/localizers/version; distinct rules, criteria and advice.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "action-compliance",
+          "check": "Checklist applicable to action and phase verified against complete sources; explicit coverage gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "evidence-truth",
+          "check": "Facts, consultations, partners and commitments that are authentic or listed as unconfirmed.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "critical-review",
+          "check": "Real weaknesses, alternatives and motivated decisions, without complacency or invented defects.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "cross-artifact-coherence",
+          "check": "Consistent numbers, roles, objectives, outputs/results, times and resources across relevant products.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "qa-1",
+          "check": "All checks, fields, attachments and preventing findings are closed with tests.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "qa-2",
+          "check": "Consistent delivery of the verified version, without financing guarantee.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        }
+      ],
+      "automatic_checks_expected": [
+        "answer-characters",
+        "project-model"
+      ]
+    },
+    "eligibility": {
+      "acceptance_checks": [
+        {
+          "id": "route-scope",
+          "check": "Correct program/year/action/sector/role and scope of the form.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "source-applicability",
+          "check": "Relevant original sources/localizers/version; distinct rules, criteria and advice.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "action-compliance",
+          "check": "Checklist applicable to action and phase verified against complete sources; explicit coverage gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "evidence-truth",
+          "check": "Facts, consultations, partners and commitments that are authentic or listed as unconfirmed.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "critical-review",
+          "check": "Real weaknesses, alternatives and motivated decisions, without complacency or invented defects.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "cross-artifact-coherence",
+          "check": "Consistent numbers, roles, objectives, outputs/results, times and resources across relevant products.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "idea-validation-1",
+          "check": "Problem and recipients defined without supporting the solution a priori.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "idea-validation-2",
+          "check": "Candidate action, relevant priorities, capabilities and justified alternatives.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        }
+      ],
+      "automatic_checks_expected": []
+    },
+    "design": {
+      "acceptance_checks": [
+        {
+          "id": "route-scope",
+          "check": "Correct program/year/action/sector/role and scope of the form.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "source-applicability",
+          "check": "Relevant original sources/localizers/version; distinct rules, criteria and advice.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "action-compliance",
+          "check": "Checklist applicable to action and phase verified against complete sources; explicit coverage gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "evidence-truth",
+          "check": "Facts, consultations, partners and commitments that are authentic or listed as unconfirmed.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "critical-review",
+          "check": "Real weaknesses, alternatives and motivated decisions, without complacency or invented defects.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "cross-artifact-coherence",
+          "check": "Consistent numbers, roles, objectives, outputs/results, times and resources across relevant products.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "intervention-design-1",
+          "check": "Needs/objectives/activities/outputs/results/impact linked with verifiable causal links.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "intervention-design-2",
+          "check": "Priorities, relevant impacts and indicators with realistic baselines/measurements.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        }
+      ],
+      "automatic_checks_expected": []
+    },
+    "draft": {
+      "acceptance_checks": [
+        {
+          "id": "route-scope",
+          "check": "Correct program/year/action/sector/role and scope of the form.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "source-applicability",
+          "check": "Relevant original sources/localizers/version; distinct rules, criteria and advice.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "action-compliance",
+          "check": "Checklist applicable to action and phase verified against complete sources; explicit coverage gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "evidence-truth",
+          "check": "Facts, consultations, partners and commitments that are authentic or listed as unconfirmed.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "critical-review",
+          "check": "Real weaknesses, alternatives and motivated decisions, without complacency or invented defects.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "cross-artifact-coherence",
+          "check": "Consistent numbers, roles, objectives, outputs/results, times and resources across relevant products.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "application-draft-1",
+          "check": "Actual answers respect common questions, characters, criteria and data.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        },
+        {
+          "id": "application-draft-2",
+          "check": "Real data, clear language, absence of rhetoric that hides design gaps.",
+          "classification": "local-method",
+          "authority": "user-authorized process",
+          "artifacts": [
+            "step-product",
+            "project-input",
+            "normative-evidence"
+          ],
+          "verification_method": "Open frozen products and tests; compare applicable requirements, actual data and dependencies; report passage and reason.",
+          "expected_outcome": "Demonstrated in stage tests or reported as fail/unknown; no statement without evidence.",
+          "evidence_needed": "Phase product and relevant fact/source locators. The obligations of the notice are those in the compliance_checks, not this local method."
+        }
+      ],
+      "automatic_checks_expected": [
+        "answer-characters"
+      ]
+    }
+  }
+}

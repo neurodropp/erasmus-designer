@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-9ea1c2797683",
+  "title": "Important features of the Erasmus+ Programme",
+  "path": "raw/web/eu-guide-9ea1c2797683.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/important-features",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/important-features",
+  "sha256": "d7dd37953419b42871c0a1102a7b5718368b18c52f296ffc9caec0b1fed92e86",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "d7dd37953419b42871c0a1102a7b5718368b18c52f296ffc9caec0b1fed92e86",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-9ea1c2797683:p0001",
+      "path": "sources/eu-guide-9ea1c2797683/revisions/d7dd37953419b42871c0a1102a7b5718368b18c52f296ffc9caec0b1fed92e86/pages/page-0001.md",
+      "active_path": "sources/eu-guide-9ea1c2797683/pages/page-0001.md",
+      "derived_sha256": "3e06c6a153acfb4af69db4d45409736972f09b2e6279bc4e53edbf32a626fa95"
+    }
+  ],
+  "full_path": "sources/eu-guide-9ea1c2797683/revisions/d7dd37953419b42871c0a1102a7b5718368b18c52f296ffc9caec0b1fed92e86/full.md",
+  "full_sha256": "3e06c6a153acfb4af69db4d45409736972f09b2e6279bc4e53edbf32a626fa95",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "esc-aig-allocation-news-2026",
+  "title": "AIG - fondi ESC e regole di allocazione Lead, 09/02/2026",
+  "path": "raw/web/esc-aig-allocation-news-2026.html",
+  "url": "https://agenziagioventu.gov.it/corpo-europeo-di-solidarieta-allocazione-dei-fondi-anno-2026-e-regole-di-allocazione-per-i-soggetti-accreditati-quality-label-lead/",
+  "kind": "national-guidance",
+  "program": "ESC",
+  "year": 2026,
+  "language": "it",
+  "version": "09/02/2026",
+  "authority": "Agenzia Italiana per la Gioventù",
+  "actions": [
+    "ESC30",
+    "ESC51"
+  ],
+  "sectors": [
+    "ESC"
+  ],
+  "checked_at": "2026-09-12",
+  "sha256": "ae5ffde3ed057079dba9f19223918fcc7a3baeaa2270a675ae476406b811e589",
+  "download": true,
+  "scope_note": "Summary/news linking definitive five-page Italian allocation scheme; ESC51 allocation, not an Erasmus priority notice or an ESC30 score formula.",
+  "resolved_url": "https://agenziagioventu.gov.it/corpo-europeo-di-solidarieta-allocazione-dei-fondi-anno-2026-e-regole-di-allocazione-per-i-soggetti-accreditati-quality-label-lead/",
+  "pages": 1,
+  "original_sha256": "ae5ffde3ed057079dba9f19223918fcc7a3baeaa2270a675ae476406b811e589",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "esc-aig-allocation-news-2026:p0001",
+      "path": "sources/esc-aig-allocation-news-2026/revisions/ae5ffde3ed057079dba9f19223918fcc7a3baeaa2270a675ae476406b811e589/pages/page-0001.md",
+      "active_path": "sources/esc-aig-allocation-news-2026/pages/page-0001.md",
+      "derived_sha256": "568eb476a0a3329eb11227619355d615d0ce7870ba60d8c0a76c9c64d8c09f36"
+    }
+  ],
+  "full_path": "sources/esc-aig-allocation-news-2026/revisions/ae5ffde3ed057079dba9f19223918fcc7a3baeaa2270a675ae476406b811e589/full.md",
+  "full_sha256": "568eb476a0a3329eb11227619355d615d0ce7870ba60d8c0a76c9c64d8c09f36",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

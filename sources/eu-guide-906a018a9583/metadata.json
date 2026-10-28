@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-906a018a9583",
+  "title": "Erasmus accreditation in the field of youth",
+  "path": "raw/web/eu-guide-906a018a9583.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/erasmus-accreditation-youth",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/erasmus-accreditation-youth",
+  "sha256": "b651258fa8b95a57a7b30e89f5ccb94c1bf51a957f1dcf7f51dab186de6f5cab",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "YOU"
+  ],
+  "actions": [
+    "KA150"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "b651258fa8b95a57a7b30e89f5ccb94c1bf51a957f1dcf7f51dab186de6f5cab",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-906a018a9583:p0001",
+      "path": "sources/eu-guide-906a018a9583/revisions/b651258fa8b95a57a7b30e89f5ccb94c1bf51a957f1dcf7f51dab186de6f5cab/pages/page-0001.md",
+      "active_path": "sources/eu-guide-906a018a9583/pages/page-0001.md",
+      "derived_sha256": "486ac49c2ed50c4a7f110ebcb5b6263e1f7167edd6852304f989ab923e165ac4"
+    }
+  ],
+  "full_path": "sources/eu-guide-906a018a9583/revisions/b651258fa8b95a57a7b30e89f5ccb94c1bf51a957f1dcf7f51dab186de6f5cab/full.md",
+  "full_sha256": "486ac49c2ed50c4a7f110ebcb5b6263e1f7167edd6852304f989ab923e165ac4",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

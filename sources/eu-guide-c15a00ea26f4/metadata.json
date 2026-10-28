@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-c15a00ea26f4",
+  "title": "Capacity building in the field of vocational education and training (VET)",
+  "path": "raw/web/eu-guide-c15a00ea26f4.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/capacity-building-vet",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/capacity-building-vet",
+  "sha256": "c054ba631d53babd8b21bef798fcfabfcb637f0a453923cc0a3742bf3d224e09",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "VET"
+  ],
+  "actions": [
+    "CBVET"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "c054ba631d53babd8b21bef798fcfabfcb637f0a453923cc0a3742bf3d224e09",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-c15a00ea26f4:p0001",
+      "path": "sources/eu-guide-c15a00ea26f4/revisions/c054ba631d53babd8b21bef798fcfabfcb637f0a453923cc0a3742bf3d224e09/pages/page-0001.md",
+      "active_path": "sources/eu-guide-c15a00ea26f4/pages/page-0001.md",
+      "derived_sha256": "0a64d2ca6953c63d3bd281fe41ab2186352034395b4c70192ac0d5391a45d2a5"
+    }
+  ],
+  "full_path": "sources/eu-guide-c15a00ea26f4/revisions/c054ba631d53babd8b21bef798fcfabfcb637f0a453923cc0a3742bf3d224e09/full.md",
+  "full_sha256": "0a64d2ca6953c63d3bd281fe41ab2186352034395b4c70192ac0d5391a45d2a5",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

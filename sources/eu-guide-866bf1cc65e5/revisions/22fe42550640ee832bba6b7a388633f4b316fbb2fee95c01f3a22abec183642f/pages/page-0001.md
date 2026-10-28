@@ -1,0 +1,65 @@
+# What happens once the application is submitted?
+
+All applications received by the National Agencies or by the Executive Agency undergo an evaluation procedure. 
+
+The evaluation procedure
+
+Project proposals are evaluated by the National or Executive Agency receiving the application, exclusively based on the criteria described in this Guide. The order of assessment of that criteria is determined by the authorising officer. The evaluation implies:
+
+a check to verify that the application meets the admissibility criteria,
+
+a check to verify that the applicant and the proposed activities meet the eligibility criteria,
+
+a check to verify that the applicant meets the exclusion and selection (i.e. operational and financial capacity) criteria;
+
+a quality assessment to evaluate the extent to which the application meets the award criteria. Such quality assessment is in most cases carried out with the support of independent experts. In their assessment, experts will be supported by guidelines developed by the European Commission. For actions managed by the Erasmus+ National Agencies, these guidelines will be made available on the websites of the European Commission and of the Agencies responsible for the management of Erasmus+ projects in each country;
+
+a verification that the proposal does not present risks of double funding. If necessary, such verification is carried out in cooperation with other Agencies or other stakeholders.
+
+If a proposal is rejected on any of the abovementioned grounds or does not pass any of mandatory criteria, the other criteria will not be evaluated.
+
+The National or Executive Agency will appoint an evaluation committee to manage the entire selection process. Based on the assessment carried out by the evaluation committee – if needed with the support of external experts – the relevant agency will select and establish a list of projects proposed for the grant award.
+
+For all actions covered by this Guide, during the evaluation process, applicants may be asked to provide additional information or to clarify the supporting documents submitted in connection with the application, provided that such information or clarification does not substantially change the proposal. Additional information and clarifications are particularly justified in case of obvious clerical errors made by the applicant, or in those cases where – for projects funded through multi-beneficiary agreements – one or more accession forms of the partners are missing (for multi-beneficiary agreements, see section “Grant agreement” below).
+
+Final decision 
+
+At the end of the evaluation procedure, the National or Executive Agency decides on the projects to be awarded the grant on the basis of:
+
+the ranking list proposed by the evaluation committee
+
+the budget available for any given Action (or any given activity within an Action)
+
+After the completion of the evaluation procedure, the application files and accompanying material are not sent back to the applicant, irrespective of the outcome of the procedure.
+
+Notification of results
+
+All applicants will be informed about the evaluation result through an evaluation result letter. This letter will contain further instructions about the next steps in the process towards the signature of the grant agreement.
+
+Where it may not be possible to communicate the grounds of individual decisions in detail (for example, because of the large number of persons concerned by similar decisions), standard replies may be given. Those standard replies shall include the main reasons justifying the decision taken.
+
+Successful applications will be invited for grant preparation; other ones will be put on the reserve list or rejected. Invitation to grant preparation does not constitute a formal commitment for funding. 
+
+The National Agency or Executive Agency will still need to make various legal checks before grant award: legal entity validation, financial capacity, exclusion check, etc. For actions managed by the Executive Agency, applicants will be requested to submit their organisation’s financial data and appoint a LEAR.
+
+If the applicant believes that the rejection of their proposal was based on an error in the selection procedure, they can submit a complaint (following the deadlines and procedures set out in the notification letter on the outcome of the evaluation)
+  1
+
+. Complaints must focus on aspects concerning the evaluation of the proposals (e.g. admissibility or eligibility checks, evaluation procedure, etc), not their merits. Thus, applicants can raise procedural irregularities, factual errors, manifest errors of assessment or abuse of powers (e.g. lack of coherence between scores and comments, lack or inadequate reasoning of the conclusions, the existence of a conflict of interests, exceeding the limits of discretion, etc). Repetition of the content of the proposal or disagreements with the result or reasoning of the technical evaluation will not be considered.
+
+For actions managed by the Executive Agency, please note that notifications which have not been opened within 10 days after sending are considered to have been accessed and that deadlines will be counted from opening/access (see also Funding & Tenders Portal Terms and Conditions). 
+
+Please also be aware that for complaints submitted electronically, there may be character limitations. 
+
+Indicative timeline for notification of the grant award decision and signature of the grant agreement:
+
+In the case of Key Action 1 projects managed by the Erasmus+ National Agencies, the notification of the award decision and the signature of the grant agreement will take place, indicatively, 4 months after the submission deadline. 
+
+In the case of Key Action 2 projects managed by the Erasmus+ National Agencies, the notification of the award decision and the signature of the grant agreement will take place, indicatively, 5 months after the submission deadline. 
+
+In the case of Key Action 2 and Key Action 3 projects managed by the Executive Agency, the notification of the award decision will take place, indicatively, 5 months after the submission deadline and the signature of the grant agreement will take place, indicatively, 6 months from the submission deadline.
+
+Footnote
+
+        For actions managed by the Executive Agency, please see the EU Funding & Tenders Online Manual 
+        ↩ back

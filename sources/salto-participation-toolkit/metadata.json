@@ -1,0 +1,40 @@
+{
+  "id": "salto-participation-toolkit",
+  "title": "SALTO Participation Toolkit",
+  "url": "https://participationpool.eu/toolkit/",
+  "path": "raw/web/salto-participation-toolkit.html",
+  "year": 2026,
+  "publication_year": null,
+  "kind": "methodological-resource",
+  "sectors": [
+    "YOU"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "authority": "SALTO",
+  "language": "en",
+  "download": true,
+  "scope_note": "Documento metodologico/standard richiamato nel corpus 2026; non è una priorità italiana né una griglia universale.",
+  "sha256": "96a88a13d9eb27031166a464c6f3f5ca5579a517d842c54a6985a1f055a19de3",
+  "resolved_url": "https://participationpool.eu/toolkit/",
+  "checked_at": "2026-09-12",
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "96a88a13d9eb27031166a464c6f3f5ca5579a517d842c54a6985a1f055a19de3",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "salto-participation-toolkit:p0001",
+      "path": "sources/salto-participation-toolkit/revisions/96a88a13d9eb27031166a464c6f3f5ca5579a517d842c54a6985a1f055a19de3/pages/page-0001.md",
+      "active_path": "sources/salto-participation-toolkit/pages/page-0001.md",
+      "derived_sha256": "6379088b7dd73667726c94b07492bed1fa41b261adc8345d8421bf900650e24d"
+    }
+  ],
+  "full_path": "sources/salto-participation-toolkit/revisions/96a88a13d9eb27031166a464c6f3f5ca5579a517d842c54a6985a1f055a19de3/full.md",
+  "full_sha256": "6379088b7dd73667726c94b07492bed1fa41b261adc8345d8421bf900650e24d",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

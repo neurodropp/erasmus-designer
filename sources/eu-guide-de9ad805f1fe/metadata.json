@@ -1,0 +1,37 @@
+{
+  "id": "eu-guide-de9ad805f1fe",
+  "title": "How to read the Programme Guide",
+  "path": "raw/web/eu-guide-de9ad805f1fe.html",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/erasmus-programme-guide/how-to-read-the-programme-guide",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/programme-guide/erasmus-programme-guide/how-to-read-the-programme-guide",
+  "sha256": "8aa8dae3435d52b0887dd3af7deeb8ed0be1e1eab4a95b0f141ad97505f13d49",
+  "checked_at": "2026-09-12",
+  "kind": "official-web-guide",
+  "year": 2026,
+  "language": "en",
+  "authority": "European Commission",
+  "sectors": [
+    "ALL"
+  ],
+  "actions": [
+    "ALL"
+  ],
+  "program": "ERASMUS",
+  "pages": 1,
+  "original_sha256": "8aa8dae3435d52b0887dd3af7deeb8ed0be1e1eab4a95b0f141ad97505f13d49",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "eu-guide-de9ad805f1fe:p0001",
+      "path": "sources/eu-guide-de9ad805f1fe/revisions/8aa8dae3435d52b0887dd3af7deeb8ed0be1e1eab4a95b0f141ad97505f13d49/pages/page-0001.md",
+      "active_path": "sources/eu-guide-de9ad805f1fe/pages/page-0001.md",
+      "derived_sha256": "b3bfc1ccf1bca970adea698eecb7fba1a4fb8907275f81d420da854a5f09f73c"
+    }
+  ],
+  "full_path": "sources/eu-guide-de9ad805f1fe/revisions/8aa8dae3435d52b0887dd3af7deeb8ed0be1e1eab4a95b0f141ad97505f13d49/full.md",
+  "full_sha256": "b3bfc1ccf1bca970adea698eecb7fba1a4fb8907275f81d420da854a5f09f73c",
+  "repaired_from_verified_original": [],
+  "extraction": "HTML text and table cell extraction",
+  "extracted_at": "2026-09-16"
+}

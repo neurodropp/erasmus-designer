@@ -1,0 +1,87 @@
+{
+  "id": "quality-standards-youth",
+  "title": "Erasmus Youth Quality Standards, richiamati 2026",
+  "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2021-10/erasmus-youth-quality-standards_en.pdf",
+  "path": "raw/pdf/quality-standards-youth.pdf",
+  "year": 2026,
+  "publication_year": 2021,
+  "kind": "quality-standards",
+  "sectors": [
+    "YOU"
+  ],
+  "actions": [
+    "KA150",
+    "KA151",
+    "KA152",
+    "KA153",
+    "KA154",
+    "KA155"
+  ],
+  "authority": "European Commission",
+  "language": "en",
+  "download": true,
+  "scope_note": "Documento metodologico/standard richiamato nel corpus 2026; non è una priorità italiana né una griglia universale.",
+  "sha256": "98ac9a480e89fd66006e27ce445ff80932757ffa749c2dba08c2248005c59a1e",
+  "resolved_url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2021-10/erasmus-youth-quality-standards_en.pdf",
+  "checked_at": "2026-09-12",
+  "program": "ERASMUS",
+  "pages": 7,
+  "original_sha256": "98ac9a480e89fd66006e27ce445ff80932757ffa749c2dba08c2248005c59a1e",
+  "integrity_schema": "derived-evidence-v2",
+  "page_manifest": [
+    {
+      "number": 1,
+      "id": "quality-standards-youth:p0001",
+      "path": "sources/quality-standards-youth/revisions/98ac9a480e89fd66006e27ce445ff80932757ffa749c2dba08c2248005c59a1e/pages/page-0001.md",
+      "active_path": "sources/quality-standards-youth/pages/page-0001.md",
+      "derived_sha256": "c3fe937e5e6625f31454c758e1b3c59ea3ada45ab150522e0ae5f10d4f2cc312"
+    },
+    {
+      "number": 2,
+      "id": "quality-standards-youth:p0002",
+      "path": "sources/quality-standards-youth/revisions/98ac9a480e89fd66006e27ce445ff80932757ffa749c2dba08c2248005c59a1e/pages/page-0002.md",
+      "active_path": "sources/quality-standards-youth/pages/page-0002.md",
+      "derived_sha256": "15848e6010243dff2772d00c9085fd05f14517bc7f43c35c8b9169ba18c61a20"
+    },
+    {
+      "number": 3,
+      "id": "quality-standards-youth:p0003",
+      "path": "sources/quality-standards-youth/revisions/98ac9a480e89fd66006e27ce445ff80932757ffa749c2dba08c2248005c59a1e/pages/page-0003.md",
+      "active_path": "sources/quality-standards-youth/pages/page-0003.md",
+      "derived_sha256": "808fdf7c61fe6a9a76f1a776df18fcf6a2be568c4232a2f7c1ceb6d7a3be2c32"
+    },
+    {
+      "number": 4,
+      "id": "quality-standards-youth:p0004",
+      "path": "sources/quality-standards-youth/revisions/98ac9a480e89fd66006e27ce445ff80932757ffa749c2dba08c2248005c59a1e/pages/page-0004.md",
+      "active_path": "sources/quality-standards-youth/pages/page-0004.md",
+      "derived_sha256": "66599eea70fce21b43f706d53aea01e2bec01a9c74b8d897f5c2a45c60bb6ba0"
+    },
+    {
+      "number": 5,
+      "id": "quality-standards-youth:p0005",
+      "path": "sources/quality-standards-youth/revisions/98ac9a480e89fd66006e27ce445ff80932757ffa749c2dba08c2248005c59a1e/pages/page-0005.md",
+      "active_path": "sources/quality-standards-youth/pages/page-0005.md",
+      "derived_sha256": "54caba798898a51cddfc2587f1de8e14e9bf4ca719ff9a8ab2ac62fe17430d6b"
+    },
+    {
+      "number": 6,
+      "id": "quality-standards-youth:p0006",
+      "path": "sources/quality-standards-youth/revisions/98ac9a480e89fd66006e27ce445ff80932757ffa749c2dba08c2248005c59a1e/pages/page-0006.md",
+      "active_path": "sources/quality-standards-youth/pages/page-0006.md",
+      "derived_sha256": "0795f63e8c5c3c588650e06ccf76592d9e196fd4eef803c58b596f295a14ac8e"
+    },
+    {
+      "number": 7,
+      "id": "quality-standards-youth:p0007",
+      "path": "sources/quality-standards-youth/revisions/98ac9a480e89fd66006e27ce445ff80932757ffa749c2dba08c2248005c59a1e/pages/page-0007.md",
+      "active_path": "sources/quality-standards-youth/pages/page-0007.md",
+      "derived_sha256": "2288de251c0628d9a5326a5bb304e0c2b7476ac580b0019d4dc50fadcf8c063d"
+    }
+  ],
+  "full_path": "sources/quality-standards-youth/revisions/98ac9a480e89fd66006e27ce445ff80932757ffa749c2dba08c2248005c59a1e/full.md",
+  "full_sha256": "6c3dd9f71af2625bd83a19e0585e82948a0dbf06f0219a35bdff4ff513049b20",
+  "repaired_from_verified_original": [],
+  "extraction": "pdftotext -layout, physical one-based PDF pages",
+  "extracted_at": "2026-09-16"
+}
